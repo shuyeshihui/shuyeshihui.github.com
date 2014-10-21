@@ -1709,6 +1709,10 @@ section.comment {
   margin: 0.8em 0 0.2em;
   line-height: 28px;
 }
+.author-info p:nth-child(2) {
+  font-size: 0.8em;
+  color: #2ca6cb;
+}
 .author-logo {
   width: 6.875em;
   height: 6.875em;
