@@ -1,0 +1,373 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>实习工作-数据分析 | 舒叶逝晖—进阶的PM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="John Doe">
+    
+    <meta name="description" content="今天一半时间多基本上都是在做数据分析，先是从投放的页面查看媒体广告位的流量情况，可以看出广告位的浏览PV和点击量从而算出点击率。然后再根据中转页的链接在百度统计上面的pv，计算出损耗。为什么会有损耗存在呢？是因为存在误点的情况，还有很多用户一点开就关闭了等情况就会导致损耗的存在。
+百度统计上面可以看">
+    
+    
+    
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="舒叶逝晖—进阶的PM">舒叶逝晖—进阶的PM</a></h1>
+				<h2 class="blog-motto"></h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/">首页</a></li>
+					
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="http://shuyeshihui.github.io/">Page</a></li>
+					
+						<li><a href="http://ncuey.sinaapp.com/CrispElite/">关于我</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2014/07/09/4/" title="实习工作-数据分析" itemprop="url">实习工作-数据分析</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://yoursite.com" title="John Doe">John Doe</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-07-09T10:40:24.000Z" itemprop="datePublished">Jul 9 2014</time>
+    Updated:<time datetime="2014-10-21T10:43:15.000Z" itemprop="dateModified">Oct 21 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">Contents</strong>
+		
+		</div>
+		
+		<p>今天一半时间多基本上都是在做数据分析，先是从投放的页面查看媒体广告位的流量情况，可以看出广告位的浏览PV和点击量从而算出点击率。然后再根据中转页的链接在百度统计上面的pv，计算出损耗。为什么会有损耗存在呢？是因为存在误点的情况，还有很多用户一点开就关闭了等情况就会导致损耗的存在。</p>
+<p>百度统计上面可以看出每个页面的pv，uv，页面来源，停留时间（不准确，因为有很多极限的情况都做了统计让它进行了平均数计算）等等。（其它的一些也用不到）。</p>
+<p>关于中转页的页面每个部分，我们都用代码做了监测，而且还有热点图。从这些我们可以分析出，用户在我们中转页的页面上面做了哪些操作，进行了哪些交互。</p>
+<p>从这些数据可以看出很多东西：比如物料是否吸引人，中转页的交互情况是否理想可以看出中转页是否能给用户提供他希望获取到的信息。</p>
+<p>附上今天做的数据分析内容：</p>
+<p>一、仅从中转页分析：</p>
+<p>V1采用的是视频+课程分类切换的方式</p>
+<p>V2采用的是视频+课程无分类切换的方式</p>
+<p>V3采用的是表单+课程分类切换的方式</p>
+<p>V4采用的是沪江网校课程展现方式</p>
+<p>V5采用的是百度搜索的展现方式</p>
+<p>从数据中可知：V1和V2中视频点击占所有交互方式的百分比都在60%之上（v1：64%，v2：75%），而点击课程都在15%之上（V1：24%，V2：15%），提交表单的都是有人存在的。</p>
+<p>从而考虑到视频对点击的影响：</p>
+<p>考虑到用户一打开网页就会出现视频播放，用户想要关闭，因为用户习惯，用户点击中间区域关闭从而进入广告主页面。（是否是这个因素需要测试，可以用其它播放插件进行测试）<br>用户对视频这种模式感兴趣，被视频内容所吸引，所以点击切换看其它的内容。V1中切换视频占有30%，V2中视频切换占有45%。是否因为视频对用户的吸引比较大，从而可以考虑直接在中转页页面上引入广告主免费视频课程。从而播放过程中让用户填写表单之类的操作。</p>
+<p>考虑课程分类切换的行为模式：</p>
+<p>有分类的：比如用户想要学商务英语直接就看商务英语的课程，目的性比较明确。这种目的性的用户比较多。<br>无分类的：用户只是想要对于自己的英语进行提高，从而像逛淘宝一样的随便看看。看看各种分类下各有什么样的课程。<br>因为点击课程下的有分类和无分类在对应数据下面没有太明显的差异性（V1版本：25%，V2版本：15%），所以我们可以不进行考虑这两种模式对于中转页的影响。</p>
+<p>V5版本下面，虽然用户只有5次点击，但是用户都是想要去了解韦博教育的。即为忠实用户。</p>
+<p> 二、从物料到中转页的分析</p>
+<p>损耗一般都在30%之间（误点）。</p>
+<p>对于广告物料是挑吸引用户的（诱惑），还是挑用户真正需要的（刚需）关键字进行素材规划投放。我认为对于中转页这种应该挑选刚需的关键字，对于直接能够进入广告主页面的可以挑选选取诱惑的方式。刚需的关键字点击率一般都不会很高，但是对于转化率来说是比较高的。</p>
+<p> 三、关于投放时间段的分析</p>
+<p>需要一整天的投放时间才比较好做一个比较完整的研究，关注用户群体可能会去真正了解英语培训这方面的时间段，可能在晚上来说进行投放效果不是很好。</p>
+<p>关于下一版本需要测试的有：<br>视频对于用户的影响研究<br>人性化的引导模式<br>对于刚需用户的研究</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/实习/">实习</a>
+  </div>
+
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://yoursite.com/2014/07/09/4/" data-title="实习工作-数据分析 | 舒叶逝晖—进阶的PM" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2014/07/10/6/" title="广告中转页背后的用户心理分析">
+  <strong>PREVIOUS:</strong><br/>
+  <span>
+  广告中转页背后的用户心理分析</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2014/07/08/5/"  title="产品流程线上会接触的同事">
+ <strong>NEXT:</strong><br/> 
+ <span>产品流程线上会接触的同事
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">Contents</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> 路漫漫其修远兮</p>
+		
+		
+			<p>	梦想</p>
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/2210678991" target="_blank" title="weibo"></a>
+		
+		
+		
+		<a href="https://github.com/shuyeshihui" target="_blank" title="github"></a>
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/05/">May 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">April 2014</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/产品分析/" title="产品分析">产品分析<sup>1</sup></a></li>
+		
+			<li><a href="/tags/产品基础/" title="产品基础">产品基础<sup>2</sup></a></li>
+		
+			<li><a href="/tags/产品运营/" title="产品运营">产品运营<sup>1</sup></a></li>
+		
+			<li><a href="/tags/实习/" title="实习">实习<sup>7</sup></a></li>
+		
+			<li><a href="/tags/感想/" title="感想">感想<sup>3</sup></a></li>
+		
+			<li><a href="/tags/面试/" title="面试">面试<sup>1</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+
+<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+
+
+
+
+  </body>
+</html>
