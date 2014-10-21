@@ -1,0 +1,387 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>App A和App B之间有哪些差异呢？ | 舒叶逝晖—进阶的PM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="John Doe">
+    
+    <meta name="description" content="这几天去了几场面试，总有一些考察产品素养相似的问题。这些问题无非就是这几种类型：
+类型A：考察你对互联网行业的热情和执着程度的？
+类似问题有：你手机中经常用的是哪几种app？某某app你有用过么，说一下你的看法？你平时使用手机的习惯是怎么样的呢？
+类型B：考察对于产品的看法和理解？
+类似问题有：你觉">
+    
+    
+    
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="舒叶逝晖—进阶的PM">舒叶逝晖—进阶的PM</a></h1>
+				<h2 class="blog-motto"></h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/">首页</a></li>
+					
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="http://shuyeshihui.github.io/">Page</a></li>
+					
+						<li><a href="http://ncuey.sinaapp.com/CrispElite/">关于我</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2014/10/19/30/" title="App A和App B之间有哪些差异呢？" itemprop="url">App A和App B之间有哪些差异呢？</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://yoursite.com" title="John Doe">John Doe</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-10-19T12:04:00.000Z" itemprop="datePublished">Oct 19 2014</time>
+    Updated:<time datetime="2014-10-21T12:10:25.000Z" itemprop="dateModified">Oct 21 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">Contents</strong>
+		
+		</div>
+		
+		<p>这几天去了几场面试，总有一些考察产品素养相似的问题。这些问题无非就是这几种类型：</p>
+<p>类型A：考察你对互联网行业的热情和执着程度的？</p>
+<p>类似问题有：你手机中经常用的是哪几种app？某某app你有用过么，说一下你的看法？你平时使用手机的习惯是怎么样的呢？</p>
+<p>类型B：考察对于产品的看法和理解？</p>
+<p>类似问题有：你觉得某某app怎么样？说说你经常使用的某个app在用户体验上的不足？某某app和另外一个app的不同之处在哪里？</p>
+<p>类型C：考察你的实践应用能力和思维逻辑能力？</p>
+<p>类似问题有：现场画一下微信的首页呈现线框图？某某app在交互上应该怎样呈现比较好？一块砖头的几种用途之类的？</p>
+<p>等等问题，总结下来是考察产品经理这几种能力的：</p>
+<p><img src="http://imglf1.ph.126.net/1Q8T7Ln6R9R8menKkKIE-w==/2773654420524085459.jpg" smallsrc="http://imglf1.ph.126.net/R7dlV6Z4IIwijek3jB2bwg==/657244070636663794.jpg"></p>
+<p>苏杰在他的书籍上也是说到产品经理能力模型，不过他说的更加专业，适用于刚开始工作的产品经理们，而作为一个去应聘的学生来说，更多的是自己在这三方面能力的锻炼和提高（个人能力、专业能力、专业素养）。再附上苏杰的产品经理能力模型:</p>
+<p><img src="http://imglf0.ph.126.net/_emwz3-HGGUNMQ94nUPvBw==/3115927992204431064.png" smallsrc="http://imglf1.ph.126.net/ZarbinW55V5PQ0t4ApSk2A==/3115927992204431062.png"></p>
+<p>面试官问的问题其实并不是想知道一个具体的答案，他想听到的是你的思维方式。比如App A和App B之间有哪些差异呢？每个人都有自己的理解，可能是有一定对错之分的，但是更多的是看你思维的方式。像这种问题有以下几种思维方式答法：</p>
+<p>A、从产品流程来作回答（站在该app产品经理的角度来思考）</p>
+<p>产品定位的差异点，目标用户群体的差异，使用场景的差异，功能架构的差异，操作流程的差异等</p>
+<p>举例：微信和手机QQ的差异在哪？</p>
+<p>1、产品定位的差异：</p>
+<p>微信是移动互联网的im应用，没有在线等pc端im的特征</p>
+<p>手机QQ是pc端QQ在移动端互联网时代的移植</p>
+<p>2、目标用户群体的差异</p>
+<p>手机QQ的目标用户群体还是基于pc时代的QQ用户群体，以三四线城市屌丝和青少年群体居多</p>
+<p>微信目标用户群体是白领和大学生用户群体居多，以一二线城市用户居多。</p>
+<p>3、使用场景的差异</p>
+<p>手机QQ一般包含了各种类型的人，而微信更多的是熟人社交。微信使用场景更具有私密性，而手机QQ有各种陌生人群组。微信是属于生活化的im应用，而手机扣扣是属于工作或者社交化的im应用。</p>
+<p>4、功能架构的差异</p>
+<p>微信：<br><img src="http://imglf0.ph.126.net/ADM8Wpugp5arORng8hTSoA==/649362771288770661.jpeg" smallsrc="http://imglf2.ph.126.net/7ED9ZDDr7BXE87MV4FXWoQ==/6619525092630507716.jpeg"></p>
+<p>手机QQ—新版的手机QQ产品功能架构有很大的调整：</p>
+<p><img src="http://imglf1.ph.126.net/mPYUO0veMYO127d1CmkelA==/1111544683047860194.jpg" smallsrc="http://imglf0.ph.126.net/-uFzFiyzhNoqJYAQvgTOLg==/1111544683047860193.jpg"></p>
+<p>之前从功能架构上是有一些区别的，比如对于消息流和联系人的侧重关系，但是这次改版微信和手机QQ功能架构的同质化是比较大的。差异比较大的有QQ开始注重于基于兴趣爱好社区的群组，微信的公众平台自媒体属性开始越做越大</p>
+<p>5、未来发展</p>
+<p>微信：平台型产品，自媒体，支付，购物，游戏等等，重消息流交互</p>
+<p>QQ：之前也在做平台，重信息流（之前也就整合了各种tx的产品线），娱乐性较大</p>
+<p>B、从用户角度来回答（作为一个普通用户的角度）</p>
+<p>用户心理，用户需求，用户诉求，用户体验，交互设计等</p>
+<p>1.用户心理</p>
+<p>手机QQ延续着pcQQ的关系链，用户新鲜感较低。只是一直在维持着社交关系链不可缺少的一个平台。而微信从出身就高贵（刚开始只有iPhone客户端）而且私密性较大，无在线显示，私密亲近的人际关系链。</p>
+<p>2、用户需求</p>
+<p>对于手机QQ的需求更多的是为了延续，使得QQ上面好友的关系不会断掉。而对于微信更多的是发现，发现一种新的生活方式。摇一摇到查找附近的人，再到微信好友之间的游戏比拼，自媒体微信公众平台的媒体消息推送。用微信方便替代了短信，更多的入口解决了用户所需的社交诉求。</p>
+<p>3、用户体验</p>
+<p>体验来说，微信的产品体验是一直很人性化的，简单快捷易用好用。很快捷很方便。交互方式很友好，传呼机式的语音说话和摇一摇找缘分/搜歌人机交互的方式。手机QQ在体验方面一直因为背负着太多的入口，显得很重。总体来说在满足功能使用方面都是很方便的。看个人喜好，作为一个普通用户来说，只要可用能用不会影响到他的使用流程都是没有多大障碍的。</p>
+<p>okay，这类题目主要考验是作为产品经理的结构化思维方式。将自己对于产品的理解一一有系统的罗列出来。</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/面试/">面试</a>
+  </div>
+
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://yoursite.com/2014/10/19/30/" data-title="App A和App B之间有哪些差异呢？ | 舒叶逝晖—进阶的PM" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+
+<div class="next">
+<a href="/2014/10/15/29/"  title="百度贴吧需求分析">
+ <strong>NEXT:</strong><br/> 
+ <span>百度贴吧需求分析
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">Contents</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> 路漫漫其修远兮</p>
+		
+		
+			<p>	梦想</p>
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/2210678991" target="_blank" title="weibo"></a>
+		
+		
+		
+		<a href="https://github.com/shuyeshihui" target="_blank" title="github"></a>
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a><span class="archive-list-count">7</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/05/">May 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">April 2014</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/产品分析/" title="产品分析">产品分析<sup>4</sup></a></li>
+		
+			<li><a href="/tags/产品基础/" title="产品基础">产品基础<sup>5</sup></a></li>
+		
+			<li><a href="/tags/产品运营/" title="产品运营">产品运营<sup>2</sup></a></li>
+		
+			<li><a href="/tags/实习/" title="实习">实习<sup>8</sup></a></li>
+		
+			<li><a href="/tags/总结/" title="总结">总结<sup>2</sup></a></li>
+		
+			<li><a href="/tags/感想/" title="感想">感想<sup>5</sup></a></li>
+		
+			<li><a href="/tags/面试/" title="面试">面试<sup>4</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+
+<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+
+
+
+
+  </body>
+</html>
