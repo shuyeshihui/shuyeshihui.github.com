@@ -82,11 +82,6 @@
 	<div class="article-content">
 		
 		
-		<div id="toc" class="toc-article">
-			<strong class="toc-title">Contents</strong>
-		
-		</div>
-		
 		<p>工作已经几个月了，才发现这边的安卓开发需要的是以dp为单位的图，而我们这边的ui每次给程序的都是以px为单位的图，所以到程序真正开发完成的界面每次都和设计图有所出入。之前我自己也只是比较粗略的知道px、dpi的区别，对于dp什么的一直都不了解。通过查阅相关资料并且进行整理：</p>
 <p>一、基本概念<br>dip：设备无关像素<br>dp：就是dip<br>px：像素<br>dpi：一英寸有多少个像素点<br>分辨率：横纵两个方向的像素点的数量，常见取值如480<em>800,1920</em>1080<br>densityDpi：也就是dpi</p>
 <p>二、安卓的dpi模式<br>一般来说，ldpi、mdpi、hdpi和xhdpi用的比较多一点，如下图所示：</p>
@@ -139,11 +134,6 @@
 	
 </div>  
       
-  <div id="toc" class="toc-aside">
-  <strong class="toc-title">Contents</strong>
-  
-  </div>
-
 <div id="asidepart">
 <div id="authorInfo">
 	
@@ -279,8 +269,6 @@ $(document).ready(function(){
     {
       m.removeClass('moveMain');
       a.css('display', 'block').removeClass('fadeOut');
-      
-      $('#toc.toc-aside').css('display', 'none');
         
     }
   });

@@ -82,11 +82,6 @@
 	<div class="article-content">
 		
 		
-		<div id="toc" class="toc-article">
-			<strong class="toc-title">Contents</strong>
-		
-		</div>
-		
 		<p>今天一半时间多基本上都是在做数据分析，先是从投放的页面查看媒体广告位的流量情况，可以看出广告位的浏览PV和点击量从而算出点击率。然后再根据中转页的链接在百度统计上面的pv，计算出损耗。为什么会有损耗存在呢？是因为存在误点的情况，还有很多用户一点开就关闭了等情况就会导致损耗的存在。</p>
 <p>百度统计上面可以看出每个页面的pv，uv，页面来源，停留时间（不准确，因为有很多极限的情况都做了统计让它进行了平均数计算）等等。（其它的一些也用不到）。</p>
 <p>关于中转页的页面每个部分，我们都用代码做了监测，而且还有热点图。从这些我们可以分析出，用户在我们中转页的页面上面做了哪些操作，进行了哪些交互。</p>
@@ -155,11 +150,6 @@
 	
 </div>  
       
-  <div id="toc" class="toc-aside">
-  <strong class="toc-title">Contents</strong>
-  
-  </div>
-
 <div id="asidepart">
 <div id="authorInfo">
 	
@@ -295,8 +285,6 @@ $(document).ready(function(){
     {
       m.removeClass('moveMain');
       a.css('display', 'block').removeClass('fadeOut');
-      
-      $('#toc.toc-aside').css('display', 'none');
         
     }
   });

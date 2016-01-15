@@ -81,11 +81,6 @@
 	<div class="article-content">
 		
 		
-		<div id="toc" class="toc-article">
-			<strong class="toc-title">Contents</strong>
-		
-		</div>
-		
 		<p>最近准备换工作，需要将自己做的一些作品给展示出来。之前的作品是放在站酷上面的，但是站酷放原型文件需要访问者去下载，对于访问者来说是一件非常麻烦的事情，而且公司原始的原型文件也会被泄露。这个时候我就想到可以自己搭建一个原型目录。<br>一、需要一个在线服务器<br>免费得在线服务器有很多，因为以前做前端的时候用新浪sae搭建过网站，所以对新浪sae比较熟悉。注册新浪sae很简单只需要用你的新浪微博账号登录就行了。地址是：<a href="https://sae.sina.com.cn/" target="_blank" rel="external">https://sae.sina.com.cn/</a> 注册登录成功之后顺便在用户中心进行实名认证，这样之后网页打开就不会一直提醒有风险，需要进行实名认证。然后在控制台面板选择云应用SAE，进入新浪SAE的主界面。选择“创建新应用”，进入应用信息填写界面。<br><img src="http://i4.tietuku.com/4bc323f8e8bab59d.png"></p>
 <p>按照提示进行填写，二级域名就是之后访问的地址，应用名称可以随便填，如Tilly的原型库，开发语言选择PHP空应用。填写完成之后进入你的应用管理界面。<br><img src="http://i4.tietuku.com/fd9c442b7b3fd88f.png"><br>点击代码管理，进入到代码管理中心。在代码管理中心有SVN仓库地址。并且创建版本，会在默认下方显示版本：1<br><img src="http://i4.tietuku.com/d127bccb131044cf.png"></p>
 <p>二、选择原型上传工具（或者直接用git）<br>windows系统下可以选用TortoiseSVN，Mac系统下可以选用versions（亲测好用）。安装完成之后，在你的电脑新建一个文件夹，再右键你新建的文件夹会有“SVN checkout”，点击之后再弹出页面填写SVN仓库地址和你的账户密码等。之后你会发现，你新建的文件夹中会多出一个“1”的文件夹。之后你就可以把想上传的原型放在“1”的文件夹里面，每次更新文件夹里德文件都需要commit一下。具体的操作方式可以查看：<a href="http://www.sinacloud.com/doc/sae/tutorial/code-deploy.html#svn" target="_blank" rel="external">http://www.sinacloud.com/doc/sae/tutorial/code-deploy.html#svn</a></p>
@@ -136,11 +131,6 @@
 	
 </div>  
       
-  <div id="toc" class="toc-aside">
-  <strong class="toc-title">Contents</strong>
-  
-  </div>
-
 <div id="asidepart">
 <div id="authorInfo">
 	
@@ -276,8 +266,6 @@ $(document).ready(function(){
     {
       m.removeClass('moveMain');
       a.css('display', 'block').removeClass('fadeOut');
-      
-      $('#toc.toc-aside').css('display', 'none');
         
     }
   });
