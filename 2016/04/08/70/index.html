@@ -1,0 +1,368 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>做社区要考虑哪些？ | Tilly</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    <meta name="baidu-site-verification" content="Qn7plKGhJC" />
+    
+    <meta name="author" content="Tilly">
+    
+    <meta name="description" content="在YHOUSE从零开始做社区，真是时间逼迫着自己去领悟；在这边简单的总结一下：
+做社区要考虑两个维度：人和信息以人维度的聚合：附近的人、达人（优质的人）、男人女人、以信息维度的聚合：时间、地理位置、兴趣爱好维度（话题、圈子—吃喝玩乐等等）
+第一版社区的关键点：1、创造内容2、聚合内容3、人的互动
+基">
+    
+    
+    
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="Tilly">Tilly</a></h1>
+				<h2 class="blog-motto">做有趣的事</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="http://tillyaxure.applinzi.com/">作品</a></li>
+					
+						<li><a href="http://iamtilly.applinzi.com/">关于我</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2016/04/08/70/" title="做社区要考虑哪些？" itemprop="url">做社区要考虑哪些？</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://yoursite.com" title="Tilly">Tilly</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2016-04-08T12:46:20.000Z" itemprop="datePublished">Apr 8 2016</time>
+    Updated:<time datetime="2016-05-14T09:09:45.000Z" itemprop="dateModified">May 14 2016</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<p>在YHOUSE从零开始做社区，真是时间逼迫着自己去领悟；在这边简单的总结一下：</p>
+<p>做社区要考虑两个维度：人和信息<br>以人维度的聚合：附近的人、达人（优质的人）、男人女人、<br>以信息维度的聚合：时间、地理位置、兴趣爱好维度（话题、圈子—吃喝玩乐等等）</p>
+<p>第一版社区的关键点：<br>1、创造内容<br>2、聚合内容<br>3、人的互动</p>
+<p>基本功能点有：<br>1、发表内容（图片选取、拍摄、文字+图片的发布）<br>2、内容互动（点赞、评论、回复和转发）<br>3、内容聚合（时间维度、地理维度、选取聚合的一个维度：可以是话题也可以是业务的某个关键点），内容可以以时间线、内容积分来排序；内容积分需要兼顾到人和信息——人（新用户、老用户、达人、劣质的用户），信息（内容互动的维度、内容）<br>4、内容的推荐（热门推荐需要以热度+编辑为主、新用户优质内容）<br>5、消息通知+push：（内容互动通知：点赞通知、评论通知；人通知：关注通知；系统通知；消息push设置；push防骚扰机制；）<br>6、个人动态管理、个人设置等<br>8、搜索用户和信息；<br>9、后台功能（管理用户：设为达人、拉黑（发布内容拉黑、互动拉黑）、增加粉丝数；管理内容：设为精选和热门、删除互动、删除内容、设置top1—topN、发定时内容（图文和评论）、管理内容聚合、发系统消息）</p>
+<p>一些机制的纪录：<br>社区方面：<br>1、APP在处理用户上传图片时，进行展示的时候要进行图片压缩；<br>2、APP在处理用户上传图片时，可以采用预发送的机制，经常会用在单图上传的时候，用户拍完照片（选择完一张照片后），用户在编辑文字的时候会进行预发送图片；<br>3、图片展示的规则：分为多图展示和单图展示的规则；多图展示的时候一般取可视范围中间的区域进行展示，单图展示的时候有以下几种方案，a、都选取可视范围中间的区域进行展示 b、类似微信朋友圈单图的处理，单图的时候和用户上传图片的宽高进行等比例进行展示（确定最大的宽高）；c、类似蘑菇街的单图的处理，在单图宽确定不变的情况下，可以确定最大高和最小高的尺寸然后根据原图宽高进行等比例；<br>4、附近的动态按照时间维度+距离两个维度进行排序；在距离维度的基础上采用时间倒序进行排序；附近没人给推荐；<br>5、话题目前市面上常见的方案有：a、标签系统 b、文本话题系统 c、标签+文本话题系统；运营话题、用户自定义话题<br>6、热门推荐的机制：a、纯后台推荐 b、算法推荐——实时积分榜、随机从热门库里取内容、小时榜、Xh榜等 c、后台推荐+算法推荐<br>7、评论回复机制：a、简易评论，只针对信息流评论 b、回复评论，回复某某的评论 c、引用评论，回复时引用某句话进行评论 d、盖楼评论，每次回复都引用上面一大截楼层进行评论，例如什么值得买<br>8、系统push推送，推送的信息要对用户有价值并且要做防骚扰；</p>
+<p>直播方面：<br>1、直播开始时候要给关注的人提醒；——push机制<br>2、用户（主播、观看者）网络变换的时候要给提醒（wifi下——非wifi下）<br>3、直播的时候视频中断如何提醒（主播—网络原因、离开等；用户—网络原因、离开等）<br>4、直播的视频变成录播，成本问题（3万—100T的空间，可以放大概90w个录播视频）<br>5、用户进入主播房间的时候先加载什么再加载什么？（先加载不是视频推流的接口再获取视频推流）</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/总结/">总结</a>
+  </div>
+
+
+
+
+<div class="article-share" id="share">
+
+  
+<div class="jiathis_style">
+    <span class="jiathis_txt">分享到：</span>
+	<a class="jiathis_button_weixin">微信</a>
+	<a class="jiathis_button_tsina">新浪微博</a>
+	<a class="jiathis_button_mingdao">明道</a>
+	<a href="http://www.jiathis.com/share?uid=2085748" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" >
+    var jiathis_config={
+    data_track_clickback:true,
+    sm:"copy,renren,cqq",
+    pic:"",
+    summary:"",
+    
+	}
+  </script> 
+<script type="text/javascript" src="//v3.jiathis.com/code/jia.js?uid=
+2085748" charset="utf-8"></script>      
+
+
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2016/05/02/71/" title="产品经理中的“经理”">
+  <strong>PREVIOUS:</strong><br/>
+  <span>
+  产品经理中的“经理”</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2016/03/19/69/"  title="产品设计十原则">
+ <strong>NEXT:</strong><br/> 
+ <span>产品设计十原则
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> 路漫漫其修远兮</p>
+		
+		
+			<p>	美国梦中毒者|资本主义向往者|互联网产品从业者|web技术爱好者|渴望善良和美好|在平凡的世界活着</p>
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/2210678991" target="_blank" title="weibo"></a>
+		
+		
+		
+		<a href="https://github.com/shuyeshihui" target="_blank" title="github"></a>
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">March 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/02/">February 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">January 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/12/">December 2015</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/11/">November 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">October 2015</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">September 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/07/">July 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/04/">April 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/03/">March 2015</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/02/">February 2015</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/01/">January 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/11/">November 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a><span class="archive-list-count">7</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/05/">May 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">April 2014</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/产品分析/" title="产品分析">产品分析<sup>9</sup></a></li>
+		
+			<li><a href="/tags/产品基础/" title="产品基础">产品基础<sup>22</sup></a></li>
+		
+			<li><a href="/tags/产品运营/" title="产品运营">产品运营<sup>2</sup></a></li>
+		
+			<li><a href="/tags/实习/" title="实习">实习<sup>10</sup></a></li>
+		
+			<li><a href="/tags/工作项目/" title="工作项目">工作项目<sup>2</sup></a></li>
+		
+			<li><a href="/tags/总结/" title="总结">总结<sup>7</sup></a></li>
+		
+			<li><a href="/tags/感想/" title="感想">感想<sup>10</sup></a></li>
+		
+			<li><a href="/tags/行业相关/" title="行业相关">行业相关<sup>1</sup></a></li>
+		
+			<li><a href="/tags/读书笔记/" title="读书笔记">读书笔记<sup>2</sup></a></li>
+		
+			<li><a href="/tags/面试/" title="面试">面试<sup>4</sup></a></li>
+		
+			<li><a href="/tags/项目实战/" title="项目实战">项目实战<sup>2</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+
+<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?2e8a71f7a78b7c8eaa0bf10489ee1043";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+            
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
