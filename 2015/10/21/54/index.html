@@ -74,7 +74,7 @@
     </p>
   <p class="article-time">
     <time datetime="2015-10-21T11:12:16.000Z" itemprop="datePublished">Oct 21 2015</time>
-    Updated:<time datetime="2015-11-20T01:17:42.000Z" itemprop="dateModified">Nov 20 2015</time>
+    Updated:<time datetime="2016-06-10T12:27:56.000Z" itemprop="dateModified">Jun 10 2016</time>
     
   </p>
 </header>
@@ -84,10 +84,10 @@
 		<p>工作已经几个月了，才发现这边的安卓开发需要的是以dp为单位的图，而我们这边的ui每次给程序的都是以px为单位的图，所以到程序真正开发完成的界面每次都和设计图有所出入。之前我自己也只是比较粗略的知道px、dpi的区别，对于dp什么的一直都不了解。通过查阅相关资料并且进行整理：</p>
 <p>一、基本概念<br>dip：设备无关像素<br>dp：就是dip<br>px：像素<br>dpi：一英寸有多少个像素点<br>分辨率：横纵两个方向的像素点的数量，常见取值如480<em>800,1920</em>1080<br>densityDpi：也就是dpi</p>
 <p>二、安卓的dpi模式<br>一般来说，ldpi、mdpi、hdpi和xhdpi用的比较多一点，如下图所示：</p>
-<p><img src="http://i13.tietuku.com/12ea99b1f7d3ff39.jpg"></p>
-<p><img src="http://i13.tietuku.com/1c26ca93d9d0db0e.jpg"><br>换算公式如下：<br>pixs=dips<em>（densityDpi/160）<br>dips=(pixs</em>160)/densityDpi<br>举例说明，比如我们101pad的dpi是240dpi的，那么<br>pixs=dips<em>（240/160）=dips</em>1.5，也就是1dp=1.5px</p>
+<p><img src="http://i13.tietuku.cn/12ea99b1f7d3ff39.jpg"></p>
+<p><img src="http://i13.tietuku.cn/1c26ca93d9d0db0e.jpg"><br>换算公式如下：<br>pixs=dips<em>（densityDpi/160）<br>dips=(pixs</em>160)/densityDpi<br>举例说明，比如我们101pad的dpi是240dpi的，那么<br>pixs=dips<em>（240/160）=dips</em>1.5，也就是1dp=1.5px</p>
 <p>三、工作流程<br>一般来说，ui做的时候可以做一个 1920x1080 尺寸的当做 xxhdpi，其他的尺寸按比例缩小，切出来的图片就放在Android开发项目的对应文件夹下面供开发使用，如：</p>
-<p><img src="http://i13.tietuku.com/b3a59894162c3b69.jpg"></p>
+<p><img src="http://i13.tietuku.cn/b3a59894162c3b69.jpg"></p>
   
 	</div>
 		<footer class="article-footer clearfix">
