@@ -1,0 +1,380 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>待客产品优化报告 | Tilly</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    <meta name="baidu-site-verification" content="Qn7plKGhJC" />
+    
+    <meta name="author" content="Tilly">
+    
+    <meta name="description" content="一、如何让管理员第一次登入后明白,他需要一个集成的过程,并且他可以通过把他的账号给同事用或者把同事加进系统,来完成集成？
+1、优化登录/注册流程：原先的登录注册流程：
+针对以下几个方面进行优化：a、原先注册需要先填写公司信息、注册者邮箱进行进行注册—改进为注册先注册账号仅需要填写邮箱信息，填写公司信">
+    
+    
+    
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="Tilly">Tilly</a></h1>
+				<h2 class="blog-motto">做有趣的事</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="http://tillyaxure.applinzi.com/">作品</a></li>
+					
+						<li><a href="http://iamtilly.applinzi.com/">关于我</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2016/02/17/73/" title="待客产品优化报告" itemprop="url">待客产品优化报告</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://yoursite.com" title="Tilly">Tilly</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2016-02-17T06:16:16.000Z" itemprop="datePublished">Feb 17 2016</time>
+    Updated:<time datetime="2016-06-14T13:37:13.000Z" itemprop="dateModified">Jun 14 2016</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<h3 id="一、如何让管理员第一次登入后明白,他需要一个集成的过程,并且他可以通过把他的账号给同事用或者把同事加进系统,来完成集成？">一、如何让管理员第一次登入后明白,他需要一个集成的过程,并且他可以通过把他的账号给同事用或者把同事加进系统,来完成集成？</h3>
+<p>1、优化登录/注册流程：<br>原先的登录注册流程：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/58747504.jpg"></p>
+<p>针对以下几个方面进行优化：<br>a、原先注册需要先填写公司信息、注册者邮箱进行进行注册—改进为注册先注册账号仅需要填写邮箱信息，填写公司信息属于设置方面的信息可以放在后面处理；<br>b、原先邮箱注册收到邮件后，会随机出现一个登录密码，需要将这个密码复制下来才可进行下一步注册—可以改进为邮箱注册时可以填写用户的登录密码（无需后面再进行操作），邮箱会收到一个链接，用户点击链接直接跳转到设置界面。用户必须通过邮箱验证才可进行登录。在这个环节需要考虑两个点：一是网站的防机器刷机制故还需要加随机验证码检验，二是信息的组织，重新设计是将注册信息进行分类组织分为账号信息设置，公司信息设置和个人信息设置。而注册环节只执行账号信息设置，故将用户密码的设置操作放在注册环节。<br>C、一些细微环节的用户体验提升：如在账号信息设置环节默认勾选服务协议；邮箱填写完成等待邮件的时候可自动跳转到一个介绍操作页面，介绍一些简单的功能以及重新发送邮件验证的操作；<br>D、设置界面分为两个模块，一是设置公司信息（公司名称、网站域名以及子域名），二是设置个人信息（名称、职位、头像？）<br>E、设置完成进入新手引导界面（新手引导界面可包括功能介绍、邀请工作人员、管理账单和充值以及进入控制台）<br>改进的登录/注册流程：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/60208304.jpg"></p>
+<p>2、加入新手引导<br>用户在填写个人信息和公司信息后，需要进入新手引导界面。引导界面第一步集成环境的配置，第二步邀请工作人员入驻，第三步进入主界面。<br>第一步：集成环境配置<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/92227026.jpg"></p>
+<p>在环境配置的引导界面，目前有两种方式进行配置，一种是邮件集成另外一种是网站集成，要加强集成界面的提醒则需要让注册者进行配置才可进行下一步的操作。注册者可进行邮件集成和网站集成后点击“已完成集成”的按钮（网站集成可以用代码去监测是否已经完成集成），当用户点击了已完成集成按钮，下一步的按钮才为可点击状态。当然在这个引导过程允许注册者稍微进行配置。这个界面主要是加强注册者对集成环境的重视。</p>
+<h3 id="二、如何让管理员第一次登入后明白,他可以添加工作人员让负责客服的同事、或者自己可以直接在系统中维护知识库和处理工单？">二、如何让管理员第一次登入后明白,他可以添加工作人员让负责客服的同事、或者自己可以直接在系统中维护知识库和处理工单？</h3>
+<p>在新手引导界面直接加入邀请功能：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/41146187.jpg"></p>
+<p>为了让管理员第一次登入明白他可以添加工作人员，可以在新手引导中强化邀请。当然在这个步骤也可直接跳过。在控制台中也可进一步强化邀请。邀请工作人员的多与少是和商业模式有联系的，所以在这一步也强调了如果管理员想要邀请更多的则需要充值。<br>让自己明白可以在系统中维护知识库和工单，在新手引导的第三步即功能的介绍和进入控制台模块，可以突显。并且在控制台里让知识库和工单系统高优先级呈现。</p>
+<h3 id="三、如何让管理员第一次登入后明白,他需要管理账单和支付？">三、如何让管理员第一次登入后明白,他需要管理账单和支付？</h3>
+<p>在新手引导的第二步邀请工作人员已经给了管理员对于本系统计费模式的初步印象。在新手引导的第三步功能介绍部分给管理员介绍。在控制台中可对于账单和支付进行强调。<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/63760210.jpg"></p>
+<p><img src="http://o7icrbxsp.bkt.clouddn.com/16-6-14/42710282.jpg"></p>
+<h3 id="四-如何让其他人不必经历管理员那样的第一次登入过程,而看到和自己工作相关的功能,并且保证集成相关的功能只在需要的时候出现或提示？">四.如何让其他人不必经历管理员那样的第一次登入过程,而看到和自己工作相关的功能,并且保证集成相关的功能只在需要的时候出现或提示？</h3>
+<p>A、产品功能模块化，分权限进行展示产品模块，即邀请工作人员的时候可以对工作人员的身份进行定义，如分为客服、技术人员、管理员等。如客服可以使用工单模块、知识库、用户模块，但是不能邀请工作人员，也不能设置公司信息。如技术人员只可以查看集成配置界面。<br>B、邀请用户时邮件发送的链接可以点击直接进行用户基本信息的设置，用户信息设置完成直接进入符合用户身份定位的新手引导界面。（现阶段邀请用户时邮件发送链接点击之后用户还需要将邮件的密码复制粘贴进行登录，而且新手引导界面看到一些和他工作不相干的功能介绍）。<br>C、集成相关的功能放在了新手引导模块，而不是放在首页出现。首页更关注的是数据的呈现（余额、工单和知识库，处理的功能等）。</p>
+<h3 id="五、其它方面优化的建议">五、其它方面优化的建议</h3>
+<p>A、关于集成方面，和网站进行集成，希望完成的是底层接口方面的集成。在授权登录方面，网站的知识库和工单系统可以非常和谐的集成到企业的网站上，如可以对页面的样式进行更改。<br>B、目前SAAS客服系统方面，智能机器人、在线IM以及移动端（微信端）接口方面的功能都需要有所涉及。</p>
+<h3 id="六、我的方案概况">六、我的方案概况</h3>
+<p>A、针对干系人（管理员、技术人员、客服）进行产品功能权限分类<br>B、优化管理员注册/登录流程，账号信息填写注册，收到邮件后则可进行公司信息和个人信息设置。<br>C、优化管理员的新手引导，加强集成配置和邀请客服的提醒。<br>D、优化控制台模块分类，将之前众多分类进行功能概括和整合，并且在控制台新手引导界面侧重集成操作和功能分类。<br>F、优化邀请工作人员的登录操作，以及不同工作人员的新手引导界面及收到不同的邮件内容。</p>
+<h3 id="七、如何衡量方案效果？">七、如何衡量方案效果？</h3>
+<p>1、针对用户来说：<br>对于已经在使用的用户：是否能够接受？是否能够感知到更加方便，操作更加流程，学习成本是否很低？能够带来更多的用户价值等。<br>对于还未使用的用户：可以做测试，找目标用户（管理员、客服和技术人员）先进行旧版的操作，然后再进行新版的操作。使用体验是否新方案的效果更好。可定几个指标：注册操作时间，易用性，第一次配置需要的时间等等。<br>2、针对开发人员来说：<br>流程和功能的更迭所带来的技术成本（底层架构、开发时间、技术壁垒等）。<br>3、针对产品人员来说：<br>针对干系人（客户、用户、合作方等）的利益和期望进行分析；针对目标用户进行分析；针对竞品进行分析（逸创云客服、七鱼云客服等）；针对用户、场景、路径进行分析——根据分析可以衡量方案效果。</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/面试/">面试</a>
+  </div>
+
+
+
+
+<div class="article-share" id="share">
+
+  
+<div class="jiathis_style">
+    <span class="jiathis_txt">分享到：</span>
+	<a class="jiathis_button_weixin">微信</a>
+	<a class="jiathis_button_tsina">新浪微博</a>
+	<a class="jiathis_button_mingdao">明道</a>
+	<a href="http://www.jiathis.com/share?uid=2085748" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" >
+    var jiathis_config={
+    data_track_clickback:true,
+    sm:"copy,renren,cqq",
+    pic:"",
+    summary:"",
+    
+	}
+  </script> 
+<script type="text/javascript" src="//v3.jiathis.com/code/jia.js?uid=
+2085748" charset="utf-8"></script>      
+
+
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2016/02/28/68/" title="从0到1教你搭建一个原型作品目录">
+  <strong>PREVIOUS:</strong><br/>
+  <span>
+  从0到1教你搭建一个原型作品目录</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2016/02/13/72/"  title="别墨迹产品分析报告">
+ <strong>NEXT:</strong><br/> 
+ <span>别墨迹产品分析报告
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> 路漫漫其修远兮</p>
+		
+		
+			<p>	美国梦中毒者|资本主义向往者|互联网产品从业者|web技术爱好者|渴望善良和美好|在平凡的世界活着</p>
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/2210678991" target="_blank" title="weibo"></a>
+		
+		
+		
+		<a href="https://github.com/shuyeshihui" target="_blank" title="github"></a>
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">March 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/02/">February 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">January 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/12/">December 2015</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/11/">November 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">October 2015</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">September 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/07/">July 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/04/">April 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/03/">March 2015</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/02/">February 2015</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/01/">January 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/11/">November 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a><span class="archive-list-count">7</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/05/">May 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">April 2014</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/产品分析/" title="产品分析">产品分析<sup>9</sup></a></li>
+		
+			<li><a href="/tags/产品基础/" title="产品基础">产品基础<sup>22</sup></a></li>
+		
+			<li><a href="/tags/产品运营/" title="产品运营">产品运营<sup>2</sup></a></li>
+		
+			<li><a href="/tags/实习/" title="实习">实习<sup>10</sup></a></li>
+		
+			<li><a href="/tags/工作项目/" title="工作项目">工作项目<sup>2</sup></a></li>
+		
+			<li><a href="/tags/总结/" title="总结">总结<sup>7</sup></a></li>
+		
+			<li><a href="/tags/感想/" title="感想">感想<sup>10</sup></a></li>
+		
+			<li><a href="/tags/行业相关/" title="行业相关">行业相关<sup>1</sup></a></li>
+		
+			<li><a href="/tags/读书笔记/" title="读书笔记">读书笔记<sup>2</sup></a></li>
+		
+			<li><a href="/tags/面试/" title="面试">面试<sup>6</sup></a></li>
+		
+			<li><a href="/tags/项目实战/" title="项目实战">项目实战<sup>2</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+
+<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?2e8a71f7a78b7c8eaa0bf10489ee1043";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+            
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
