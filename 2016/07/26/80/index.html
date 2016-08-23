@@ -75,7 +75,7 @@
     </p>
   <p class="article-time">
     <time datetime="2016-07-26T13:25:18.000Z" itemprop="datePublished">Jul 26 2016</time>
-    Updated:<time datetime="2016-08-23T15:21:39.000Z" itemprop="dateModified">Aug 23 2016</time>
+    Updated:<time datetime="2016-08-23T15:24:07.000Z" itemprop="dateModified">Aug 23 2016</time>
     
   </p>
 </header>
@@ -93,8 +93,7 @@
 <p>运营人员可以在后台将一些优质的内容手动推荐出来；也可以后台设置哪些用户是优质达人用户，这些优质用户发的内容也必然会出现；</p>
 <h4 id="2、算法推荐">2、算法推荐</h4>
 <h5 id="2-1、信息流评分">2.1、信息流评分</h5>
-<p>通过几个维度对信息流评分进行定义：</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点赞  &nbsp;&nbsp;&nbsp;&nbsp; 评论 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;回复&nbsp;&nbsp;&nbsp;&nbsp; 转发<br>普通用户   1    1.5    1     1.5<br>新用户   1.3     2    1.3     2<br>则一条信息流的具体分值是根据用户发后其他用户的互动类型进行分值累加的。</p>
+<p>通过几个维度对信息流评分进行定义：<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点赞  &nbsp;&nbsp;&nbsp;&nbsp; 评论 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;回复&nbsp;&nbsp;&nbsp;&nbsp; 转发<br>普通用户 &nbsp;&nbsp;  1  &nbsp;&nbsp;  1.5  &nbsp;&nbsp;  1   &nbsp;&nbsp;  1.5<br>新用户 &nbsp;&nbsp;  1.3 &nbsp;&nbsp;    2 &nbsp;&nbsp;&nbsp;&nbsp;   1.3 &nbsp;&nbsp;    2<br>则一条信息流的具体分值是根据用户发后其他用户的互动类型进行分值累加的。</p>
 <h5 id="2-2、积分推荐">2.2、积分推荐</h5>
 <p>在信息流评分中已经对信息流中进行了打分，现在我们就可以用打分的信息流进行推荐。推荐有这几种形式：<br>2.2.1、实时积分榜推荐<br>按照图文实时的积分进行排序进行推荐，这种推荐方式对于接口的要求比较高，而且效率比较低。实时积分推荐中的实时应该是在固定某个时间中的实时，如在24H内的信息流进行实时积分排序推荐。<br>2.2.2、热门积分库里随机取<br>用户的信息流按照一定的积分值会进一个热门积分库里（定时会清一下这个库），而推荐的内容是每次随机从热门积分库里取多少条；这种推荐方式不利于平台看到最新的优质内容，而且有的信息流质量不是很高。<br>2.2.3、榜单的形式（小时榜、XH榜、日榜等）<br>一般的做法是每多少分钟（对应的是首页的更新频率）取前多少H（为了将之前的内容进行沉淀）的积分值大于某个数值且前多少的内容。YHOUSE社区就用的这套规则，每半小时取前半小时积分值大于某个数值（运营人员后台调控）前20的内容。半小时榜单有利于首页的内容更新及时并且有内容的质量可以根据积分值进行宏观调控。</p>
 <h5 id="2-3、个性化推荐">2.3、个性化推荐</h5>
