@@ -73,7 +73,7 @@
     </p>
   <p class="article-time">
     <time datetime="2016-10-25T12:26:16.000Z" itemprop="datePublished">Oct 25 2016</time>
-    Updated:<time datetime="2016-10-25T14:22:30.000Z" itemprop="dateModified">Oct 25 2016</time>
+    Updated:<time datetime="2016-10-25T14:32:42.000Z" itemprop="dateModified">Oct 25 2016</time>
     
   </p>
 </header>
@@ -84,41 +84,39 @@
 <h5 id="第一次：动手做自己的网站">第一次：动手做自己的网站</h5>
 <p>由于大学期间做过一年前端开发的项目，这个对于我来说是非常简单的。也没有什么感想，基本框架布局都比较容易实现，在框架的基础上对一些CSS进行了加工；</p>
 <p>代码如下：</p>
+<pre><code></code></pre>
+
+
+<h5 id="第二次：爬取商品信息">第二次：爬取商品信息</h5>
+<p>代码如下：</p>
 <pre><code>
-<!DOCTYPE html>
-<html lang="zh-cn">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body>
- <div class="header">
-     <img src="images/blah.png">
-     <div class="nav">
-         <li><a href="#">Home</a></li>
-         <li><a href="#">Site</a></li>
-         <li><a href="#">Other</a></li>
-     </div>
- </div>
+#coding=utf-8
+from bs4 import BeautifulSoup
 
-<div class="main-content">
-    <h2>The Beach</h2>
-    <hr>
-    <ul class="photos">
-        <li><img src="images/0001.jpg"> </li>
-        <li><img src="images/0004.jpg"> </li>
-        <li><img src="images/0003.jpg"> </li>
-    </ul>
-    <p>stretching from Solta to Mljet, and this unique cycling trip captures the highlights with an ideal balance of activity, culture and relaxation. Experience the beautiful island of Korcula with its picturesque old town, the untouched beauty of Vis, and trendy Hvar with its Venetian architecture. In the company of a cycling guide, this stimulating journey explores towns and landscapes, many of which are on UNESCO's world heritage list. Aboard the comfortably appointed wooden motor yacht, there is ample time between cycles to swim in the azure waters and soak up the ambience of seaside towns.</p>
-</div>
+with open("/Users/Tilly/Downloads/Plan-for-combating-master/week1/1_2/1_2answer_of_homework/index.html","r") as wb_data:
+    Soup = BeautifulSoup(wb_data, "lxml")
+    images = Soup.select("body > div > div > div.col-md-9 > div > div > div > img")
+    titles = Soup.select("body > div > div > div.col-md-9 > div > div > div > div.caption > h4 > a")
+    prices = Soup.select("body > div > div > div.col-md-9 > div > div > div > div.caption > h4.pull-right")
+    stars = Soup.select("body > div > div > div.col-md-9 > div > div > div > div.ratings > p:nth-of-type(2)")
+    #stars = Soup.select("body > div > div > div.col-md-9 > div > div > div > div.ratings > p > span")
+    star_nubs = Soup.find_all("span","glyphicon glyphicon-star")
+    numbers = Soup.select("body > div > div > div.col-md-9 > div > div > div > div.ratings > p.pull-right")
 
-<div class="footer">
-    <p>&copy; MUGGLECODING</p>
-</div>
-</body>
-</html>
+    print(len(images),len(titles),len(prices),len(stars),len(star_nubs),len(numbers))
+
+for image,title,price,star,number in zip(images,titles,prices,stars,numbers):
+    data = {
+        "图片":image.get("src"),
+        "标题":title.get_text(),
+        "价格":price.get_text(),
+        "星级":len(star.find_all("span", "glyphicon glyphicon-star")),
+        "评分量":number.get_text()
+    }
+
+    print(data)
 </code></pre>
+
   
 	</div>
 		<footer class="article-footer clearfix">
