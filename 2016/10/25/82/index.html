@@ -73,7 +73,7 @@
     </p>
   <p class="article-time">
     <time datetime="2016-10-25T12:26:16.000Z" itemprop="datePublished">Oct 25 2016</time>
-    Updated:<time datetime="2016-10-25T14:32:42.000Z" itemprop="dateModified">Oct 25 2016</time>
+    Updated:<time datetime="2016-10-25T15:24:16.000Z" itemprop="dateModified">Oct 25 2016</time>
     
   </p>
 </header>
@@ -83,11 +83,10 @@
 		<p>最近在得到订阅李笑来的《通往财富自由之路》里面提到人的多元化发展，我在建立自己这一段时期的目标时，定下了三个多元化发展的方向，其中一个就是每天写一小时编程。最终选择了Python入手，（至于为什么选择Python，我觉得Python比较轻量化，实操起来也比较方便）在网上找了好多课程，最终在网易云课堂上挑选了“Python实战：四周实现爬虫网站”这门，实操性比较强，每天都有作业督促着自己去学习；好了，废话不多说，将这周完成的作业和感感想总结一下吧：</p>
 <h5 id="第一次：动手做自己的网站">第一次：动手做自己的网站</h5>
 <p>由于大学期间做过一年前端开发的项目，这个对于我来说是非常简单的。也没有什么感想，基本框架布局都比较容易实现，在框架的基础上对一些CSS进行了加工；</p>
-<p>代码如下：</p>
-<pre><code></code></pre>
-
-
+<p>截图如下：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-10-25/20510354.jpg" alt=""></p>
+<p>实现效果如下：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-10-25/65519474.jpg" alt=""></p>
 <h5 id="第二次：爬取商品信息">第二次：爬取商品信息</h5>
+<p>第二次作业是爬本地的商品信息，看完课程觉得BeautifulSoup的开源库很强大，在之前接触的前端JS里面也有类型对document文档树操作的，那时候记得要找到某个元素还是挺复杂的，具体的记得不太清了，毕竟也有好几年没有接触Js了。<br>感想有这么几点，1、Soup.select选择某个标签是不是可以简单一点，直接根据某个特有的class或者id就可以定位到某个标签，后来实际证明是okay的； 2、对于星级的判断一开始还是有些疑惑的，但是总体思路是知道的，不知道怎么写出来；是通过统计出现了几次，后来看了课程详解才知道是通过len方法去计算数量 3、主要还是对BeautifulSoup文档里面的方法不是很熟悉，比如说可以用find_all函数等等，还是要多加实践；</p>
 <p>代码如下：</p>
 <pre><code>
 #coding=utf-8
@@ -117,6 +116,161 @@ for image,title,price,star,number in zip(images,titles,prices,stars,numbers):
     print(data)
 </code></pre>
 
+<p>效果如下：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-10-25/67593506.jpg" alt=""></p>
+<h5 id="第三次：爬取租房信息">第三次：爬取租房信息</h5>
+<p>第三次作业是爬小猪短租的租房信息，这次遇到几个问题：<br>1、如何判断性别是男还是女，我的处理方法可能不太好，通过有没有找到含有女孩标签的class，如果没有找到则赋值为男，如果找到了则赋值为女；<br>2、还有个问题就是一开始每写一步就验证一次，都快写完了导致我的IP被小猪爬虫封了，打开网站直接报404；只能翻墙了换个IP重新测试，一开始没有做保护；<br>3、针对这个爬取租房信息的，我这边做了两种写法，一种是一开始没有懂得函数的用法，在一个定义好的函数里面再套了一个函数进行实现的；后来就将函数抽离出来了；<br>4、我这边在做实现的时候总是会多打印一些东西来测试整个环节是否出现了bug；</p>
+<p>代码如下：</p>
+<pre><code>
+#coding=gbk
+from bs4 import BeautifulSoup
+import requests
+import time
+
+LinkUrl = ["http://sh.xiaozhu.com/search-duanzufang-p{}-0/".format(str(i)) for i in range(1,4,1)]
+
+headers = {
+    'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36',
+    "Cookies":"gr_user_id=595a2c88-08e5-4473-a5e1-348b768e99b7; wP_v=fbe387febb89nLa2FY~TL~FH0uQllWJtUuqTjT1jccnynWaO6VjXz8JLRTSXA8Ji; OZ_1U_2283=vid=v7f320bd6ee349.0&ctime=1475551427&ltime=1475551420; OZ_1Y_2283=erefer=-&eurl=http%3A//m.xiaozhu.com/&etime=1475551420&ctime=1475551427&ltime=1475551420&compid=2283; abtest_ABTest4SearchDate=b; _gat_UA-33763849-7=1; __utmt=1; xzuuid=5d99205c; OZ_1U_2282=vid=v7f1f512d45734.0&ctime=1475563750&ltime=1475563722; OZ_1Y_2282=erefer=http%3A//bzclk.baidu.com/adrc.php%3Ft%3D06KL00c00fZiuk60-9Ki0F-7F6AZR5Pg00000AxxNW300000XXZ8Z5.THLfCIUVV_1g36K85yF9pywdpAqVuNqsusK15yNbuAf1uH04nj0snAnLm1n0IHY1PWFAnRn3rRfYrj63PH6znjm3PYR4fbczfRPAP19KP0K95gTqFhdWpyfqnWTdnjT4rHmYPiusThqbpyfqnHm0uHdCIZwsrBtEILILQM9GmyqlpZR8mvqV0APzm1Ydn1Dsn6%26tpl%3Dtpl_10085_14394_1%26l%3D1045880679%26ie%3Dutf-8%26f%3D8%26tn%3Dbaiduhome_pg%26wd%3D%25E5%25B0%258F%25E7%258C%25AA%25E7%259F%25AD%25E7%25A7%259F%26oq%3D%25E5%25B0%258F%25E7%258C%25AA%25E7%259F%25AD%25E7%25A7%259F%26rqlang%3Dcn%26issp%3D1&eurl=http%3A//www.xiaozhu.com/&etime=1475563713&ctime=1475563750&ltime=1475563722&compid=2282; _ga=GA1.2.564630422.1475474706; __utma=29082403.564630422.1475474706.1475551422.1475563715.6; __utmb=29082403.3.10.1475563715; __utmc=29082403; __utmz=29082403.1475563715.6.2.utmcsr=baidu|utmccn=(organic)|utmcmd=organic|utmctr=%E5%B0%8F%E7%8C%AA%E7%9F%AD%E7%A7%9F; gr_session_id_59a81cc7d8c04307ba183d331c373ef6=dbffdbcf-e3f5-41a2-ba64-c4beb83674cd"
+}
+
+def get_link(url,data=None):
+    wb_data = requests.get(url,headers=headers)
+    soup = BeautifulSoup(wb_data.text, "lxml")
+    geturls = soup.find_all("a","resule_img_a")
+
+    for links in geturls:
+        str = links.get('href')
+        surl = "{}".format(str)
+        print(surl)
+        time.sleep(2)
+
+        # 封装详情页爬虫函数
+        def get_fangzhudata(url, data=None):
+            wb_data = requests.get(url)
+            soup = BeautifulSoup(wb_data.text, "lxml")
+            titles = soup.select("div.pho_info > h4 > em")
+            locals = soup.select("div.pho_info > p > span")
+            prices = soup.select("#pricePart > div.day_l > span")
+            images = soup.select("#curBigImage")
+            fdimgs = soup.select("#floatRightBox > div.js_box.clearfix > div.member_pic > a > img")
+            fdxbs = soup.select("#floatRightBox > div.js_box.clearfix > div.w_240 > h6 > span")
+            fdnames = soup.select("#floatRightBox > div.js_box.clearfix > div.w_240 > h6 > a")
+
+            # 判断性别，返回男/女
+            fd = soup.find_all("span", "member_girl_ico")
+            if fd == []:
+                fdxbstring = "男"
+            else:
+                fdxbstring = "女"
+
+            # 数组输出
+            for title, local, price, image, fdimg, fdxb, fdname in zip(titles, locals, prices, images, fdimgs, fdxbs, fdnames):
+                data = {
+                    "标题": title.get_text(),
+                    "地址": local.get_text().strip(),
+                    "日租金": price.get_text(),
+                    "图片首图": image.get("src"),
+                    "房东昵称": fdname.get_text(),
+                    "房东照片": fdimg.get("src"),
+                    "房东性别": fdxbstring
+                }
+                print(data)
+        get_fangzhudata(surl)
+
+for single_url in LinkUrl:
+    get_link(single_url)
+</code></pre>
+
+<p>实现效果如下：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-10-25/32859772.jpg" alt=""></p>
+<h5 id="第四次：爬取美眉图片">第四次：爬取美眉图片</h5>
+<p>第四次作业我这边改了代理IP还是爬不下来，这个我周末的时候再研究一下，我这边是使用Shadowsocks进行翻墙的，可能对于这个还不是很熟悉；除了IP这方面的问题，其它的还是比较顺利的，我这边还试了下爬取下载堆糖的图片还是很成功的</p>
+<p>爬取堆糖代码如下：</p>
+<pre><code>
+from bs4 import BeautifulSoup
+import requests,urllib.request
+import time
+
+url = ["http://www.duitang.com/category/?cat=design#!hot-p{}".format(str(i)) for i in range (1,2)]
+header = {
+    "Cookie": "js=1; username=Tilly_Rui; sessionid=9f7fa247-4d7d-48de-81fd-129b270c162f; _auth_user_id=13251295; js=1; _fromcat=category; Hm_lvt_d8276dcc8bdfef6bb9d5bc9e3bcfcaf4=1477118022,1477118042; Hm_lpvt_d8276dcc8bdfef6bb9d5bc9e3bcfcaf4=1477118107",
+    "User-Agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
+}
+
+#封装爬图下载方法
+def down_img(url):
+    wb_data = requests.get(url,headers=header)
+    soup = BeautifulSoup(wb_data.text,"lxml")
+    images = soup.select("div.mbpho > a > img")
+
+    time.sleep(2)
+
+    finder_name = "/Users/Tilly/Desktop/tupian/"
+
+    for image in images:
+        img = image.get("src")
+        print(img)
+        print(finder_name + img[-37:-23]+".jpeg")
+        urllib.request.urlretrieve(img,finder_name + img[-37:-23]+".jpg")
+
+for urls in url:
+    down_img(urls)
+</code></pre>
+
+<p>这个就不截图演示了；</p>
+<h5 id="周作业：爬取58的商品数据">周作业：爬取58的商品数据</h5>
+<p>作业里面给的那个网址58已经进行了改版了，转转和商家的详情页也是用的不是一套了，我这边主要针对转转的进行了爬虫获取；如果识别出是商家的就不处理；而且对于浏览量来说，转转已经不是js获取浏览量了；</p>
+<p>代码如下：</p>
+<pre><code>
+from bs4 import BeautifulSoup
+import requests
+import time
+
+listurl = ["http://bj.58.com/pbdn/0/pn{}/".format(str(i)) for i in range(1,2)]
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36",
+}
+
+def get_url(url):
+    wb_data = requests.get(url,headers=headers)
+    soup = BeautifulSoup(wb_data.text,"lxml")
+    listurls = soup.select("td.t > a.t")
+
+    for listurl in listurls:
+        urls = listurl.get("href")
+        if "jump" in urls:
+            urls = None
+        else:
+            get_information(urls)
+
+def get_information(url):
+    wb_data = requests.get(url)
+    soup = BeautifulSoup(wb_data.text,"lxml")
+    lists = soup.select("#nav > div > span > a")[-1]
+    titles = soup.select("div.box_left_top > h1")
+    prices = soup.select("div.price_li > span > i")
+    loacls =soup.select("div.palce_li > span > i")
+    views = soup.select("span.look_time")[0]
+
+    for title,price,loacl in zip(titles,prices,loacls):
+        data = {
+            "类目" : lists.text.strip(),
+            "标题" : title.get_text(),
+            "价格" : price.get_text()+"元",
+            "区域" : loacl.get_text(),
+            "浏览量" : views.text
+        }
+
+    print(data)
+
+for listurls in listurl:
+     get_url(listurls)
+     time.sleep(2)
+
+</code></pre>
+
+<p>具体实现效果如下所示：<br><img src="http://o7icrbxsp.bkt.clouddn.com/16-10-25/321926.jpg" alt=""></p>
+<p>这就是本周的Python作业实现纪录和感想心得，之后会把有些实现的不太好的进行相应的补充。</p>
   
 	</div>
 		<footer class="article-footer clearfix">
