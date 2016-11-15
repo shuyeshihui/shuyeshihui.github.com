@@ -1,0 +1,374 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>个性化推荐实践总结 | Tilly</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    <meta name="baidu-site-verification" content="Qn7plKGhJC" />
+    
+    <meta name="author" content="Tilly">
+    
+    <meta name="description" content="在最近一段时间负责了社区的个性化推荐，总结一下这段时间个性化推荐的工作实战经历。总的来说，个性化推荐是持久战，前期打好基础后期才能推荐得更有价值。
+一、个性化推荐的目的
+个性化推荐的目的简单介绍下，对于用户来说，给用户提供更有价值的内容，使得用户更加高效率的获取到高价值感兴趣的信息（浏览、购买等）；">
+    
+    
+    
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="Tilly">Tilly</a></h1>
+				<h2 class="blog-motto">做有趣的事</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="http://tillyaxure.applinzi.com/">作品</a></li>
+					
+						<li><a href="http://iamtilly.applinzi.com/">关于我</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2016/09/21/83/" title="个性化推荐实践总结" itemprop="url">个性化推荐实践总结</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://yoursite.com" title="Tilly">Tilly</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2016-09-21T14:26:26.000Z" itemprop="datePublished">Sep 21 2016</time>
+    Updated:<time datetime="2016-11-15T14:55:19.000Z" itemprop="dateModified">Nov 15 2016</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<p>在最近一段时间负责了社区的个性化推荐，总结一下这段时间个性化推荐的工作实战经历。总的来说，个性化推荐是持久战，前期打好基础后期才能推荐得更有价值。</p>
+<h5 id="一、个性化推荐的目的">一、个性化推荐的目的</h5>
+<p>个性化推荐的目的简单介绍下，对于用户来说，给用户提供更有价值的内容，使得用户更加高效率的获取到高价值感兴趣的信息（浏览、购买等）；那么对于产品来说，用户获取到了感兴趣高价值的信息内容，那么用户会不断依赖于产品（用户心想，这个产品好牛逼啊，每次浏览的都是我想看到的，每次推荐都是我想要去购买的，下次有时间我还玩它），那么用户的留存和活跃都会大大提高；<br>对于我做的yhouse社区来说，推荐的内容、人都是用户感兴趣的，有价值的，那么用户就会不断依赖于社区，会和社区里推荐的人建立起关系，从而提升yhouse社区的留存和活跃；</p>
+<h5 id="二、个性化推荐的做法">二、个性化推荐的做法</h5>
+<p>说完了个性化推荐的目的，来看看个性化推荐应该怎么做呢？可能一开始听到个性化推荐，觉得很牛逼，就可能想到什么数据挖掘、机器学习等等，其实并没有那么复杂；先说个简单的例子，给用户男推荐了某些女用户发布的图文，而给用户女推荐某些男用户发布的图文，达到男女用户看到的都不相同。这个就是最简单的个性化推荐，虽然比较粗糙，但是已经对男、女不同的用户类型推荐的内容进行了区分。所以下面来说说个性化推荐的简单做法和复杂做法，也将yhouse社区个性化推荐的实际经历做下总结。</p>
+<h6 id="2-1、明确个性化推荐的应用场景">2.1、明确个性化推荐的应用场景</h6>
+<p>首先必须要确定一下，到底我们做的个性化推荐是推荐的什么东西，分别应用在产品的哪个（些）位置；比如微信朋友圈的广告部分的个性化推荐，再比如淘宝APP的猜你喜欢都是具体的应用场景；所以我们在做之前就要想清楚我们做的个性化推荐是应用在哪里的。就拿yhouse社区的个性化推荐举例，做的个性化推荐是计划应用在以下的部分，热门推荐的图文、推荐的文章、推荐的频道；为你推荐的用户；</p>
+<h6 id="2-2、用户、内容标签采集">2.2、用户、内容标签采集</h6>
+<p>应用的场景已经明确了，在做之前还有个工作要持续的做下去，特别是小公司刚创业人手不够，不一定有这么一个好的习惯，就是对用户和内容建立对应的标签，如某个用户的性别、年龄等；如某个内容是什么类型的内容。可能有人要问了，这些信息要怎么采集呢，就拿采集用户数据来说，可以通过以下的几种做法，a、现有产品机制的信息收集（如从第三方登录过来的用户可以获取到性别；用户自己完善的性别、地区；GPS坐标获取等），b、通过用户行为进行分析（如用户购买的数据推测用户的消费水平、通过用户发图的内容推测用户的婚姻状况等），c、人工收集（如设计调查问卷让用户填写，运营人员后台手工打标签等），d、设计产品功能引导用户提供数据（如优化注册流程，引导用户填写某些资料等）；<br>拿yhouse社区来举例，由于之前yhouse在用户和内容标签采集方面做得非常少，可以说只有几个数据，所以目前还在不断收集中。在内容采集方面，数据部门通过算法提取目前社区上线后的所有内容爬取到相关的关键词，运营从这些关键词从抽离提取出来社区最关键的25个图文内容标签。然后每天发的图文运营会先人工打上标签，数据部门通过机器也会打上标签，进行内容的关键词匹配纠错。（机器学习）在用户采集方面，运营人员在后台也会根据用户发的图文内容建立用户标签，产品层面上不断优化可以收集的用户信息维度（地理位置、性别、收入、学历、年龄、行业等）。建立用户、内容标签是个慢活，但是需要有意识的积累。</p>
+<h6 id="2-3、规则推荐">2.3、规则推荐</h6>
+<p>数据的采集工作工作在不断进行，在这个阶段可能想要做很完美的个性化推荐是不太靠谱的。但是我们可以做一些基于规则的个性化推荐，我把这个称为简单版的个性化推荐（也叫规则推荐）。规则推荐指的是通过某些现有可制定的规则从而推荐某些信息，一般是通过一些产品中可直接使用已有的某些共性规则；这个是我定义的，下面我来举例解释下吧，比如说社区中必然有用户会关注一些人或者某些可关注的话题，再比如某个SKU属于南京西路的美食，另一个SKU也属于南京西路的美食，现有已经有这个定义了，那么这就是产品中共性的联系。通过这个联系可以做什么呢，针对第一个例子，可以给用户推用户的N度关系好友；也可以给用户推关注的话题下更新的精华内容，这样每个用户看到的都是个性的也都是比之前普通的精华推荐更有价值的；针对第二个例子，如果用户经常浏览南京西路的SKU，我就给你猜你就喜欢南京西路的SKU。可能会有些不好，但是这已经初步实现了某些用户行为规则的推荐。早期的淘宝推荐或许就是这么做的，买了某样商品就一直给推同种类型的商品。这就是基于规则的推荐；<br>继续拿yhouse社区来举例，在yhouse社区的发现信息流中有一个模块是向用户推荐好友的。推荐好友的数据来源就是采用的是规则推荐，用的以下四种规则：a、用户未关注的通讯录好友； b、附近的用户（在用户附近10KM以内的）；c、二度关系好友；（用户关注的人中多于两个人都关注的某个（些）用户）d、运营推荐的优质达人；然后按照一定的权重配比出现在推荐好友那个模块的三个推荐位置；</p>
+<h6 id="2-4、个性化推荐探索">2.4、个性化推荐探索</h6>
+<p>数据采集工作也积累的差不多了，那么我们可以逐步实现个性化推荐。数据的采集一般会分为两个部分，一个是对用户的数据采集，二是对内容的数据采集；将采集来的用户和内容数据标签化从而进行关联，如用户的年龄在20岁左右浏览、收藏某类型内容偏多，那么向其它的相同年龄的用户推荐该类型的内容；具体的实施要针对具体的应用场景来进行探索规划。在这个推荐探索阶段要不断的进行各种类型的推荐的配比测试，然后结合用户的反馈来看（用户的留存活跃数据以及产品端用户对此类内容不感兴趣的点击情况）来优化推荐的规则以及数据关联准确度。<br>这个就没办法拿yhouse社区来举例了，因为目前我这边也是在探索阶段，并没有什么好的方法论进行分享，具体的实践和做法也就是我上面说的那样。根据关联做权重算法的配比，也是参考了网易云音乐的推荐模型。之后有具体实施了有效果的实际案例再拿出来更新共享。</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/工作项目/">工作项目</a>
+  </div>
+
+
+
+
+<div class="article-share" id="share">
+
+  
+<div class="jiathis_style">
+    <span class="jiathis_txt">分享到：</span>
+	<a class="jiathis_button_weixin">微信</a>
+	<a class="jiathis_button_tsina">新浪微博</a>
+	<a class="jiathis_button_mingdao">明道</a>
+	<a href="http://www.jiathis.com/share?uid=2085748" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" >
+    var jiathis_config={
+    data_track_clickback:true,
+    sm:"copy,renren,cqq",
+    pic:"",
+    summary:"",
+    
+	}
+  </script> 
+<script type="text/javascript" src="//v3.jiathis.com/code/jia.js?uid=
+2085748" charset="utf-8"></script>      
+
+
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2016/10/25/82/" title="Python学习第一周作业与感想总结">
+  <strong>PREVIOUS:</strong><br/>
+  <span>
+  Python学习第一周作业与感想总结</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2016/08/22/81/"  title="话题、频道、板块、标签、小组等使用的总结">
+ <strong>NEXT:</strong><br/> 
+ <span>话题、频道、板块、标签、小组等使用的总结
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> 路漫漫其修远兮</p>
+		
+		
+			<p>	美国梦中毒者|资本主义向往者|互联网产品从业者|web技术爱好者|渴望善良和美好|在平凡的世界活着</p>
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/2210678991" target="_blank" title="weibo"></a>
+		
+		
+		
+		<a href="https://github.com/shuyeshihui" target="_blank" title="github"></a>
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">October 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">August 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">July 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">June 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">March 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/02/">February 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">January 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/12/">December 2015</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/11/">November 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">October 2015</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">September 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/07/">July 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/04/">April 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/03/">March 2015</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/02/">February 2015</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/01/">January 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/11/">November 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a><span class="archive-list-count">7</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/05/">May 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">April 2014</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/产品分析/" title="产品分析">产品分析<sup>10</sup></a></li>
+		
+			<li><a href="/tags/产品基础/" title="产品基础">产品基础<sup>22</sup></a></li>
+		
+			<li><a href="/tags/产品运营/" title="产品运营">产品运营<sup>2</sup></a></li>
+		
+			<li><a href="/tags/实习/" title="实习">实习<sup>10</sup></a></li>
+		
+			<li><a href="/tags/工作项目/" title="工作项目">工作项目<sup>8</sup></a></li>
+		
+			<li><a href="/tags/总结/" title="总结">总结<sup>7</sup></a></li>
+		
+			<li><a href="/tags/感想/" title="感想">感想<sup>10</sup></a></li>
+		
+			<li><a href="/tags/行业相关/" title="行业相关">行业相关<sup>3</sup></a></li>
+		
+			<li><a href="/tags/读书笔记/" title="读书笔记">读书笔记<sup>2</sup></a></li>
+		
+			<li><a href="/tags/面试/" title="面试">面试<sup>7</sup></a></li>
+		
+			<li><a href="/tags/项目实战/" title="项目实战">项目实战<sup>2</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+
+<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?2e8a71f7a78b7c8eaa0bf10489ee1043";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+            
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
