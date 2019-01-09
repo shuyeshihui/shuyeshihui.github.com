@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>生成动态在哪些界面显示</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/生成动态在哪些界面显示/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/生成动态在哪些界面显示/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (表格) -->
+      <div id="u2056" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2057" class="ax_default _单元格">
+          <img id="u2057_img" class="img " src="images/生成动态在哪些界面显示/u2057.png"/>
+          <!-- Unnamed () -->
+          <div id="u2058" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2059" class="ax_default _单元格">
+          <img id="u2059_img" class="img " src="images/生成动态在哪些界面显示/u2059.png"/>
+          <!-- Unnamed () -->
+          <div id="u2060" class="text">
+            <p><span>关注界面</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2061" class="ax_default _单元格">
+          <img id="u2061_img" class="img " src="images/生成动态在哪些界面显示/u2061.png"/>
+          <!-- Unnamed () -->
+          <div id="u2062" class="text">
+            <p><span>个人中心界面</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2063" class="ax_default _单元格">
+          <img id="u2063_img" class="img " src="images/生成动态在哪些界面显示/u2057.png"/>
+          <!-- Unnamed () -->
+          <div id="u2064" class="text">
+            <p><span>评论转发图文</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2065" class="ax_default _单元格">
+          <img id="u2065_img" class="img " src="images/生成动态在哪些界面显示/u2059.png"/>
+          <!-- Unnamed () -->
+          <div id="u2066" class="text">
+            <p><span>√</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2067" class="ax_default _单元格">
+          <img id="u2067_img" class="img " src="images/生成动态在哪些界面显示/u2061.png"/>
+          <!-- Unnamed () -->
+          <div id="u2068" class="text">
+            <p><span>√</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2069" class="ax_default _单元格">
+          <img id="u2069_img" class="img " src="images/生成动态在哪些界面显示/u2069.png"/>
+          <!-- Unnamed () -->
+          <div id="u2070" class="text">
+            <p><span>评论转发录播</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2071" class="ax_default _单元格">
+          <img id="u2071_img" class="img " src="images/生成动态在哪些界面显示/u2071.png"/>
+          <!-- Unnamed () -->
+          <div id="u2072" class="text">
+            <p><span>√</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2073" class="ax_default _单元格">
+          <img id="u2073_img" class="img " src="images/生成动态在哪些界面显示/u2073.png"/>
+          <!-- Unnamed () -->
+          <div id="u2074" class="text">
+            <p><span>√</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2075" class="ax_default _文本段落">
+        <div id="u2075_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2076" class="text">
+          <p><span>自己生成的这些非原创动态有以下操作：</span></p><p><span><br></span></p><p><span>1、删除操作（删除/取消）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2077" class="ax_default _文本段落">
+        <div id="u2077_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2078" class="text">
+          <p><span>在关注界面和看别人的个人中心看到的这些非原创动态有以下操作：</span></p><p><span><br></span></p><p><span>1、举报操作（举报/取消）</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>4.2版本社区需求目标</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/4_2版本社区需求目标/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/4_2版本社区需求目标/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2099" class="ax_default box_1">
+        <div id="u2099_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2100" class="text">
+          <p><span>1、吸引更多大师号、风尚达人</span></p><p><span>&nbsp;</span></p><p><span>APP内直接提交生活大师号、风尚达人申请， 降低申请复杂度。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>2、UGC：激励</span></p><p><span>&nbsp;</span></p><p><span>1）攻略：展示收藏数：（列表＋详情）</span></p><p><span>&nbsp;</span></p><p><span>2）图文：增加收藏功能，展示收藏数（列表＋详情），进收藏专辑</span></p><p><span>&nbsp;</span></p><p><span>3）点赞：做时尚炫的动效。</span></p><p><span>&nbsp;</span></p><p><span>4）商户主页：展示推荐该店的用户头像、昵称、身份，借助UGC激励达人推荐好店，以丰富商户库。</span></p><p><span>&nbsp;</span></p><p><span>5）Feeds流去掉评论内容和发布时间的展示，突出发布内容。</span></p><p><span>&nbsp;</span></p><p><span>6）提高图片的清晰度：上传时不要压缩太多，下载展示的图片提高清晰度。</span></p><p><span>&nbsp;</span></p><p><span>7）新用户引导：引导新用户改昵称，传头像，发第一条图文，生成图文／攻略快照。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>3、UOC：社会化导购-专辑核心业务闭环</span></p><p><span>&nbsp;</span></p><p><span>1）创建专辑、设置专辑公开隐私、删除专辑、收藏时选择收藏至的专辑。</span></p><p><span>&nbsp;</span></p><p><span>2）首页推荐收藏专辑的算法优化。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>4、传播</span></p><p><span>&nbsp;</span></p><p><span>1）图文生成精美高质快照功能，可直接分享到朋友圈，以用户传播带自然增长。</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

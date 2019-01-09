@@ -1,0 +1,336 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>随机点名效果-2</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/随机点名效果-2_1/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/随机点名效果-2_1/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组合) -->
+      <div id="u6013" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6014" class="ax_default box_1">
+          <div id="u6014_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6015" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u6016" class="ax_default box_1">
+          <img id="u6016_img" class="img " src="images/主界面/u290.png"/>
+          <!-- Unnamed () -->
+          <div id="u6017" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6018" class="ax_default label">
+          <div id="u6018_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6019" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">课堂</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u6020" class="ax_default box_1">
+          <img id="u6020_img" class="img " src="images/随机点名/u4943.png"/>
+          <!-- Unnamed () -->
+          <div id="u6021" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6022" class="ax_default label">
+          <div id="u6022_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6023" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">花名册</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6024" class="ax_default box_1">
+          <div id="u6024_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6025" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">推送屏幕</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6026" class="ax_default box_1">
+          <div id="u6026_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6027" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6028" class="ax_default label">
+          <div id="u6028_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6029" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">选择</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6030" class="ax_default label">
+          <div id="u6030_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6031" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">画笔</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6032" class="ax_default label">
+          <div id="u6032_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6033" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">橡皮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6034" class="ax_default label">
+          <div id="u6034_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6035" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">聚光灯</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6036" class="ax_default box_1">
+          <div id="u6036_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6037" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6038" class="ax_default label">
+          <div id="u6038_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6039" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">我的备课</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6040" class="ax_default label">
+          <div id="u6040_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6041" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">电子教材</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6042" class="ax_default label">
+          <div id="u6042_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6043" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">习题库</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6044" class="ax_default label">
+          <div id="u6044_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u6045" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">作业</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- mingzi (动态面板) -->
+      <div id="u6046" class="ax_default" data-label="mingzi">
+        <div id="u6046_state0" class="panel_state" data-label="State1">
+          <div id="u6046_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u6047" class="ax_default box_1">
+              <img id="u6047_img" class="img " src="images/随机点名效果-2/u5722.png"/>
+              <!-- Unnamed () -->
+              <div id="u6048" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u6049" class="ax_default _图片">
+              <img id="u6049_img" class="img " src="images/随机点名/u4977.png"/>
+              <!-- Unnamed () -->
+              <div id="u6050" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (占位符) -->
+            <div id="u6051" class="ax_default placeholder">
+              <img id="u6051_img" class="img " src="images/登陆界面/u206.png"/>
+              <!-- Unnamed () -->
+              <div id="u6052" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+              </div>
+            </div>
+
+            <!-- mzgb (动态面板) -->
+            <div id="u6053" class="ax_default" data-label="mzgb">
+              <div id="u6053_state0" class="panel_state" data-label="State1">
+                <div id="u6053_state0_content" class="panel_state_content">
+
+                  <!-- mingzigaibian (矩形) -->
+                  <div id="u6054" class="ax_default _二级标题" data-label="mingzigaibian">
+                    <div id="u6054_div" class=""></div>
+                    <!-- Unnamed () -->
+                    <div id="u6055" class="text" style="visibility: visible;">
+                      <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">王明&nbsp; &nbsp; &nbsp; 黄明&nbsp; &nbsp;&nbsp; 张明&nbsp; &nbsp; &nbsp; 小明&nbsp; &nbsp; &nbsp; 李明&nbsp; &nbsp; &nbsp; 李成刚&nbsp; &nbsp; &nbsp;&nbsp; 张小明&nbsp; &nbsp;&nbsp; 李大明&nbsp; &nbsp; &nbsp; 毛阿明</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- begin (矩形) -->
+            <div id="u6056" class="ax_default default_button" data-label="begin">
+              <div id="u6056_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u6057" class="text" style="visibility: visible;">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">开始</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6058" class="ax_default _图片">
+        <img id="u6058_img" class="img " src="images/随机点名/u5115.png"/>
+        <!-- Unnamed () -->
+        <div id="u6059" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6060" class="ax_default _三级标题">
+        <div id="u6060_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6061" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师点击随机点名按钮，类似于课堂点名中的点名。老师点击开始之后，学生的名字会随机滚动，老师点击结束，会显示一位同学的姓名。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6062" class="ax_default _三级标题">
+        <div id="u6062_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6063" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">未连接人（没有来上课的同学）姓名不会出现在随机点名的名单上。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6064" class="ax_default _三级标题">
+        <div id="u6064_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6065" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">模仿电视抽奖，课堂点名软件等：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6066" class="ax_default _图片">
+        <img id="u6066_img" class="img " src="images/随机点名效果-2/u5741.png"/>
+        <!-- Unnamed () -->
+        <div id="u6067" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6068" class="ax_default _图片">
+        <img id="u6068_img" class="img " src="images/随机点名效果-2/u5743.png"/>
+        <!-- Unnamed () -->
+        <div id="u6069" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6070" class="ax_default box_1">
+        <div id="u6070_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6071" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6072" class="ax_default box_1">
+        <div id="u6072_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6073" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

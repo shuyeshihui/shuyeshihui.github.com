@@ -1,0 +1,527 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>新用户养成的流程</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/新用户养成的流程/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/新用户养成的流程/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u0" class="ax_流程形状">
+        <img id="u0_img" class="img " src="images/流程/u0.png"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text">
+          <p><span>没有注册登录</span><span></span><span>的</span><span></span><span>新用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u2" class="ax_流程形状">
+        <img id="u2_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span>第一次点击社区tab</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u4" class="ax_流程形状">
+        <img id="u4_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text">
+          <p><span>出现引导用户</span></p><p><span>注册</span><span>的层</span><span>（品宣）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u6" class="ax_connector">
+        <img id="u6_seg0" class="img " src="images/社区生存指南/u9_seg0.png" alt="u6_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u7" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u8" class="ax_connector">
+        <img id="u8_seg0" class="img " src="images/社区生存指南/u9_seg0.png" alt="u8_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u9" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u10" class="ax_流程形状">
+        <img id="u10_img" class="img " src="images/新用户养成的流程/u10.png"/>
+        <!-- Unnamed () -->
+        <div id="u11" class="text">
+          <p><span>判断用户是否进行注册登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u12" class="ax_流程形状">
+        <img id="u12_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u13" class="text">
+          <p><span>出现用户默认关注频道的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u14" class="ax_流程形状">
+        <img id="u14_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span>进入社区</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u16" class="ax_流程形状">
+        <img id="u16_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u17" class="text">
+          <p><span>进行关注第一个用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u18" class="ax_connector">
+        <img id="u18_seg0" class="img " src="images/新用户养成的流程/u18_seg0.png" alt="u18_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u19" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u20" class="ax_connector">
+        <img id="u20_seg0" class="img " src="images/新用户养成的流程/u20_seg0.png" alt="u20_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u21" class="text">
+          <p><span>登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u22" class="ax_connector">
+        <img id="u22_seg0" class="img " src="images/新用户养成的流程/u22_seg0.png" alt="u22_seg0"/>
+        <img id="u22_seg1" class="img " src="images/新用户养成的流程/u22_seg1.png" alt="u22_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u23" class="text">
+          <p><span>不登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u24" class="ax_流程形状">
+        <img id="u24_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u25" class="text">
+          <p><span>进入社区</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u26" class="ax_connector">
+        <img id="u26_seg0" class="img " src="images/新用户养成的流程/u26_seg0.png" alt="u26_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u27" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u28" class="ax_connector">
+        <img id="u28_seg0" class="img " src="images/新用户养成的流程/u28_seg0.png" alt="u28_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u29" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u30" class="ax_流程形状">
+        <img id="u30_img" class="img " src="images/新用户养成的流程/u10.png"/>
+        <!-- Unnamed () -->
+        <div id="u31" class="text">
+          <p><span>判断用户是否开启通讯录权限</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u32" class="ax_流程形状">
+        <img id="u32_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u33" class="text">
+          <p><span>出现引导用户开启通讯录的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u34" class="ax_connector">
+        <img id="u34_seg0" class="img " src="images/新用户养成的流程/u34_seg0.png" alt="u34_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u35" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u36" class="ax_connector">
+        <img id="u36_seg0" class="img " src="images/新用户养成的流程/u36_seg0.png" alt="u36_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u37" class="text">
+          <p><span>否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u38" class="ax_流程形状">
+        <img id="u38_img" class="img " src="images/新用户养成的流程/u10.png"/>
+        <!-- Unnamed () -->
+        <div id="u39" class="text">
+          <p><span>判断用户是否</span><span>没有发过帖子</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u40" class="ax_流程形状">
+        <img id="u40_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u41" class="text">
+          <p><span>进入到社区的运营频道界面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u42" class="ax_connector">
+        <img id="u42_seg0" class="img " src="images/新用户养成的流程/u18_seg0.png" alt="u42_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u43" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u44" class="ax_connector">
+        <img id="u44_seg0" class="img " src="images/社区生存指南/u9_seg0.png" alt="u44_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u45" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u46" class="ax_流程形状">
+        <img id="u46_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u47" class="text">
+          <p><span>出现引导用户发帖的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u48" class="ax_流程形状">
+        <img id="u48_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u49" class="text">
+          <p><span>出现引导用户发帖的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u50" class="ax_流程形状">
+        <img id="u50_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u51" class="text">
+          <p><span>进入到消息界面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u52" class="ax_流程形状">
+        <img id="u52_img" class="img " src="images/新用户养成的流程/u10.png"/>
+        <!-- Unnamed () -->
+        <div id="u53" class="text">
+          <p><span>判断用户是否</span><span>打开</span><span>消息通知权限</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u54" class="ax_流程形状">
+        <img id="u54_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u55" class="text">
+          <p><span>出现引导用户打开通知权限的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u56" class="ax_connector">
+        <img id="u56_seg0" class="img " src="images/新用户养成的流程/u36_seg0.png" alt="u56_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u57" class="text">
+          <p><span>是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u58" class="ax_connector">
+        <img id="u58_seg0" class="img " src="images/新用户养成的流程/u18_seg0.png" alt="u58_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u59" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u60" class="ax_connector">
+        <img id="u60_seg0" class="img " src="images/社区生存指南/u9_seg0.png" alt="u60_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u61" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u62" class="ax_connector">
+        <img id="u62_seg0" class="img " src="images/新用户养成的流程/u62_seg0.png" alt="u62_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u63" class="text">
+          <p><span>没有</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u64" class="ax_connector">
+        <img id="u64_seg0" class="img " src="images/新用户养成的流程/u64_seg0.png" alt="u64_seg0"/>
+        <img id="u64_seg1" class="img " src="images/新用户养成的流程/u64_seg1.png" alt="u64_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u65" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u66" class="ax_流程形状">
+        <img id="u66_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u67" class="text">
+          <p><span>正常状态不提醒</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u68" class="ax_connector">
+        <img id="u68_seg0" class="img " src="images/新用户养成的流程/u68_seg0.png" alt="u68_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u69" class="text">
+          <p><span>是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u70" class="ax_流程形状">
+        <img id="u70_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u71" class="text">
+          <p><span>进入到消息界面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u72" class="ax_流程形状">
+        <img id="u72_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u73" class="text">
+          <p><span>不会</span><span>出现引导用户打开通知权限的层</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u74" class="ax_connector">
+        <img id="u74_seg0" class="img " src="images/创建频道/u152_seg0.png" alt="u74_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u75" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u76" class="ax_connector">
+        <img id="u76_seg0" class="img " src="images/新用户养成的流程/u18_seg0.png" alt="u76_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u77" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u78" class="ax_流程形状">
+        <img id="u78_img" class="img " src="images/流程/u0.png"/>
+        <!-- Unnamed () -->
+        <div id="u79" class="text">
+          <p><span>在其它界面已经登录过的新用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u80" class="ax_流程形状">
+        <img id="u80_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u81" class="text">
+          <p><span>在</span><span>社区主tab下</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u82" class="ax_connector">
+        <img id="u82_seg0" class="img " src="images/社区生存指南/u9_seg0.png" alt="u82_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u83" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u84" class="ax_connector">
+        <img id="u84_seg0" class="img " src="images/新用户养成的流程/u84_seg0.png" alt="u84_seg0"/>
+        <img id="u84_seg1" class="img " src="images/新用户养成的流程/u84_seg1.png" alt="u84_seg1"/>
+        <img id="u84_seg2" class="img " src="images/新用户养成的流程/u84_seg2.png" alt="u84_seg2"/>
+        <img id="u84_seg3" class="img " src="images/新用户养成的流程/u84_seg3.png" alt="u84_seg3"/>
+        <img id="u84_seg4" class="img " src="images/新用户养成的流程/u84_seg4.png" alt="u84_seg4"/>
+        <!-- Unnamed () -->
+        <div id="u85" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u86" class="ax_流程形状">
+        <img id="u86_img" class="img " src="images/流程/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u87" class="text">
+          <p><span>正常关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u88" class="ax_connector">
+        <img id="u88_seg0" class="img " src="images/新用户养成的流程/u68_seg0.png" alt="u88_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u89" class="text">
+          <p><span>是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u90" class="ax_文本段落">
+        <img id="u90_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u91" class="text">
+          <p><span>1、没有注册登录的新用户：刚</span><span>从APPStore</span><span></span><span>下载过APP</span><span>的用户；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u92" class="ax_文本段落">
+        <img id="u92_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u93" class="text">
+          <p><span>2</span><span>、</span><span>针对于没有注册登录的新用户</span><span>，</span><span>引导用户注册的层</span><span>必然</span><span>会出现一次</span><span>；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u94" class="ax_文本段落">
+        <img id="u94_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u95" class="text">
+          <p><span>3</span><span>、</span><span>针对于</span><span>已经</span><span>登录</span><span>过</span><span>的</span><span>且还未</span><span>出现</span><span>过通讯录权限的用户</span><span></span><span>，</span><span>引导</span><span>开启通讯录</span><span></span><span>的层</span><span>会出现3次，每天只出现一次，总过出现3天；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u96" class="ax_文本段落">
+        <img id="u96_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u97" class="text">
+          <p><span>4</span><span>、</span><span>针对于</span><span>已经</span><span>登录</span><span>过</span><span>的</span><span>且</span><span>没有开启过消息提醒</span><span></span><span>的用户</span><span></span><span>，</span><span>引导用户开启消息提醒的弹框必然会出现一次</span><span>；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (流程形状) -->
+      <div id="u98" class="ax_流程形状">
+        <img id="u98_img" class="img " src="images/新用户养成的流程/u10.png"/>
+        <!-- Unnamed () -->
+        <div id="u99" class="text">
+          <p><span>判断用户是否</span><span>开启</span><span>通讯录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u100" class="ax_connector">
+        <img id="u100_seg0" class="img " src="images/新用户养成的流程/u100_seg0.png" alt="u100_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u101" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u102" class="ax_文本段落">
+        <img id="u102_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u103" class="text">
+          <p><span>5</span><span>、</span><span>针对于</span><span>已经</span><span>登录</span><span>过</span><span>的</span><span>但拒绝开启过通讯录权限</span><span></span><span>的</span><span>部分</span><span>用户</span><span></span><span>，</span><span>会</span><span>引导用户开启</span><span>通讯录弹框</span><span>； </span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

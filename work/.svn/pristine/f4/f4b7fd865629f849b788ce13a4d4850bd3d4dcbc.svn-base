@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>原型设计整体说明V0.2</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/原型设计整体说明v0_2/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/原型设计整体说明v0_2/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1727" class="ax_default _三级标题">
+        <div id="u1727_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1728" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">1、白板端，老师发起抢答，进行倒计时，学生抢答名单呈现，再点一次</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1729" class="ax_default _三级标题">
+        <div id="u1729_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1730" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">2、学生端，在学生界面出现抢答按钮，进行抢答。抢答前3的学生可以显示在大屏幕上，</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">大屏幕显示之前点击了没有抢到的学生会给予反馈，大屏幕显示之前还没有点的学生屏幕</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">上按钮呈现不可点击状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1731" class="ax_default default_button">
+        <div id="u1731_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1732" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1733" class="ax_default default_button">
+        <div id="u1733_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1734" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,649 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>窗口缩小</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/窗口缩小/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/窗口缩小/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (白板界面模板) -->
+
+      <!-- Unnamed (图片) -->
+      <div id="u2364" class="ax_default _图片">
+        <img id="u2364_img" class="img " src="images/打开互动工具/u1756.png"/>
+        <!-- Unnamed () -->
+        <div id="u2365" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u2366" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2367" class="ax_default box_41">
+          <div id="u2367_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2368" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2369" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="189.5">
+          <div id="u2369p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2369p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2370" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2371" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="253.5">
+          <div id="u2371p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2371p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2372" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2373" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="317.5">
+          <div id="u2373p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2373p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2374" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2375" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="381.5">
+          <div id="u2375p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2375p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2376" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2377" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="445.5">
+          <div id="u2377p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2377p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2378" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2379" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="509.5">
+          <div id="u2379p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2379p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2380" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u2381" class="ax_default">
+
+          <!-- Unnamed (图片) -->
+          <div id="u2382" class="ax_default _图片">
+            <img id="u2382_img" class="img " src="images/打开互动工具/u1774.png"/>
+            <!-- Unnamed () -->
+            <div id="u2383" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2384" class="ax_default label">
+            <div id="u2384_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u2385" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">学科工具</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2386" class="ax_default label">
+          <div id="u2386_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2387" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">互动工具</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2388" class="ax_default label">
+          <div id="u2388_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2389" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">选择</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2390" class="ax_default label">
+          <div id="u2390_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2391" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">画笔</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2392" class="ax_default label">
+          <div id="u2392_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2393" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">橡皮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2394" class="ax_default label">
+          <div id="u2394_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2395" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">清除墨迹</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u2396" class="ax_default">
+
+          <!-- Unnamed (图片) -->
+          <div id="u2397" class="ax_default _图片">
+            <img id="u2397_img" class="img " src="images/打开互动工具/u1774.png"/>
+            <!-- Unnamed () -->
+            <div id="u2398" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2399" class="ax_default label">
+            <div id="u2399_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u2400" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">学科工具</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2401" class="ax_default _图片">
+          <img id="u2401_img" class="img " src="images/打开互动工具/u1793.png"/>
+          <!-- Unnamed () -->
+          <div id="u2402" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2403" class="ax_default _图片">
+          <img id="u2403_img" class="img " src="images/打开互动工具/u1795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2404" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2405" class="ax_default _图片">
+          <img id="u2405_img" class="img " src="images/打开互动工具/u1797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2406" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2407" class="ax_default _图片">
+          <img id="u2407_img" class="img " src="images/打开互动工具/u1799.png"/>
+          <!-- Unnamed () -->
+          <div id="u2408" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2409" class="ax_default _图片">
+          <img id="u2409_img" class="img " src="images/打开互动工具/u1801.png"/>
+          <!-- Unnamed () -->
+          <div id="u2410" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2411" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="573.5">
+          <div id="u2411p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2411p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2412" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2413" class="ax_default label">
+          <div id="u2413_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2414" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">学科工具</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2415" class="ax_default _图片">
+          <img id="u2415_img" class="img " src="images/打开互动工具/u1807.png"/>
+          <!-- Unnamed () -->
+          <div id="u2416" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2417" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="637.5">
+          <div id="u2417p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2417p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2418" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u2419" class="ax_default line" WidgetHeight="1" WidgetWidth="63" WidgetCenterX="992.5" WidgetCenterY="667.5">
+          <div id="u2419p000" class="ax_vector_shape" WidgetTopLeftX="-0.470149253731343" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.470149253731343" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.470149253731343" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.470149253731343" WidgetBottomRightY="0.166666666666667">
+            <img id="u2419p000_img" class="img " src="images/打开互动工具/u1761p000.png"/>
+          </div>
+          <!-- Unnamed () -->
+          <div id="u2420" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2421" class="ax_default label">
+          <div id="u2421_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2422" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">收起</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2423" class="ax_default label">
+          <div id="u2423_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2424" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">1/1</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u2425" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u2426" class="ax_default _图片">
+          <img id="u2426_img" class="img " src="images/打开互动工具/u1818.png"/>
+          <!-- Unnamed () -->
+          <div id="u2427" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (三角形) -->
+        <div id="u2428" class="ax_default box_1">
+          <img id="u2428_img" class="img " src="images/打开互动工具/u1820.png"/>
+          <!-- Unnamed () -->
+          <div id="u2429" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2430" class="ax_default box_41">
+        <div id="u2430_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2431" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2432" class="ax_default label">
+        <div id="u2432_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2433" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">上一页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2434" class="ax_default box_41">
+        <div id="u2434_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2435" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2436" class="ax_default label">
+        <div id="u2436_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2437" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:12px;text-decoration:none;color:#FFFFFF;">下一页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2438" class="ax_default _图片">
+        <img id="u2438_img" class="img " src="images/打开互动工具/u1735.png"/>
+        <!-- Unnamed () -->
+        <div id="u2439" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2440" class="ax_default box_2">
+        <div id="u2440_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2441" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#CCCCCC;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2442" class="ax_default label">
+        <div id="u2442_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2443" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#FFFFFF;">白板端抢答功能</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2444" class="ax_default box_1">
+        <img id="u2444_img" class="img " src="images/窗口缩小/u2444.png"/>
+        <!-- Unnamed () -->
+        <div id="u2445" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2446" class="ax_default primary_button">
+        <div id="u2446_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2447" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;">再次抢答</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2448" class="ax_default default_button">
+        <img id="u2448_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u2449" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#000000;">张坤</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2450" class="ax_default default_button">
+        <img id="u2450_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u2451" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#000000;">孙启玉</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2452" class="ax_default default_button">
+        <img id="u2452_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u2453" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#000000;">陈琦</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2454" class="ax_default _图片">
+        <img id="u2454_img" class="img " src="images/倒计时/u2111.png"/>
+        <!-- Unnamed () -->
+        <div id="u2455" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2456" class="ax_default default_button">
+        <div id="u2456_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2457" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#0099CC;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2458" class="ax_default default_button">
+        <div id="u2458_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2459" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#0099CC;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2460" class="ax_default default_button">
+        <div id="u2460_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2461" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#0099CC;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2462" class="ax_default box_2">
+        <img id="u2462_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2463" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2464" class="ax_default box_2">
+        <img id="u2464_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2465" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2466" class="ax_default box_2">
+        <img id="u2466_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2467" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2468" class="ax_default box_2">
+        <img id="u2468_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2469" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2470" class="ax_default _三级标题">
+        <div id="u2470_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2471" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">&#149; 学生姓名按照抢答成功顺序由上至下排列；</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">&#149; 如果窗口缩小时没有三个学生，那窗口缩小之后，学生依然可以进行抢答，抢答成功的学生依次加入这个列表，</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2472" class="ax_default _三级标题">
+        <div id="u2472_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2473" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"> 点击关闭按钮，关闭当前窗口，结束整个抢答流程。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2474" class="ax_default _三级标题">
+        <div id="u2474_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2475" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">&#149; 窗口缩小并自动移到工具栏一侧，显示抢答成功的学生列表；</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">&#149; 该窗口可以按住任意拖动位置。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2476" class="ax_default _三级标题">
+        <div id="u2476_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2477" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">&#149; 点击再次抢答关闭当前抢答成功的学生列表，重新开始一个抢答流程。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2478" class="ax_default _三级标题">
+        <div id="u2478_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2479" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#FF0000;">窗口缩小规则：</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#FF0000;">当有三名学生抢答成功或者第一名学生抢答成功之后再过3秒，窗口自动缩小。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2480" class="ax_default box_2">
+        <img id="u2480_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2481" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2482" class="ax_default box_2">
+        <img id="u2482_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2483" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2484" class="ax_default box_2">
+        <img id="u2484_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2485" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u2486" class="ax_default box_2">
+        <img id="u2486_img" class="img " src="images/打开互动工具/u1751.png"/>
+        <!-- Unnamed () -->
+        <div id="u2487" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2488" class="ax_default box_1">
+        <img id="u2488_img" class="img " src="images/窗口缩小/u2488.png"/>
+        <!-- Unnamed () -->
+        <div id="u2489" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2490" class="ax_default box_1">
+        <img id="u2490_img" class="img " src="images/窗口缩小/u2490.png"/>
+        <!-- Unnamed () -->
+        <div id="u2491" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

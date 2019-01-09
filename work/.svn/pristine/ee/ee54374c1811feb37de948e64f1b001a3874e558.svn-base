@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>原型设计整体说明</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/原型设计整体说明/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/原型设计整体说明/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u654" class="ax_default _三级标题">
+        <div id="u654_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u655" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">1、二级工具栏的展示、点击和收起规则：</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">A、展示规则，分为只有一个工具的情况和多个学科工具的情况</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">B、点击规则，分为出现弹出框和贴边二级菜单栏的情况</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">C、收起规则，分为贴边菜单栏和工具菜单栏的情况</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u656" class="ax_default _三级标题">
+        <div id="u656_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u657" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">2、数学学科工具二级菜单栏的设计</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">A、分为课时工具、常用工具，平面几何图形和立体几何图形。</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">B、突出显示课时工具，课时工具一排显示3个，常用工具，平面几何图形和立体几何图形一排显示5个。</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u658" class="ax_default _三级标题">
+        <div id="u658_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u659" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">3、英语学科工具二级菜单栏的设计</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">A、现在只有一个英语学科工具，为英语词汇卡，点击学科工具出现英语词汇卡的入口</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">B、点击英语词汇卡出现英语词汇卡的二级菜单栏，包含搜索功能，本课词汇列表展示。</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u660" class="ax_default _三级标题">
+        <div id="u660_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u661" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">4、语文学科工具二级菜单栏的设计</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">A、现在只有一个语文学科工具，为语文生字卡，点击学科工具出现语文生字卡的入口</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">B、点击语文生字卡出现语文生字卡的二级菜单栏，包含搜索功能，本课词汇列表展示。</span></p><p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u662" class="ax_default default_button">
+        <div id="u662_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u663" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u664" class="ax_default default_button">
+        <div id="u664_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u665" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u666" class="ax_default default_button">
+        <div id="u666_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u667" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u668" class="ax_default default_button">
+        <div id="u668_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u669" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">查看原型</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

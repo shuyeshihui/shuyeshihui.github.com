@@ -1,0 +1,652 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>屏幕推送-老师端</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/屏幕推送-老师端/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/屏幕推送-老师端/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (老师端授课界面-1.6版本) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2330" class="ax_default box_1">
+        <div id="u2330_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2331" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Pie Chart) -->
+      <div id="u2332" class="ax_default box_1">
+        <img id="u2332_img" class="img " src="images/主界面/u290.png"/>
+        <!-- Unnamed () -->
+        <div id="u2333" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2334" class="ax_default label">
+        <div id="u2334_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2335" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2336" class="ax_default box_1">
+        <div id="u2336_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2337" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2338" class="ax_default label">
+        <div id="u2338_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2339" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">选择</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2340" class="ax_default label">
+        <div id="u2340_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2341" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">画笔</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2342" class="ax_default label">
+        <div id="u2342_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2343" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">橡皮</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2344" class="ax_default label">
+        <div id="u2344_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2345" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">聚光灯</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2346" class="ax_default box_1">
+        <div id="u2346_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2347" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2348" class="ax_default label">
+        <div id="u2348_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2349" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">屏幕推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2350" class="ax_default label">
+        <div id="u2350_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2351" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">花名册</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2352" class="ax_default label">
+        <div id="u2352_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2353" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">布置作业</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2354" class="ax_default placeholder">
+        <img id="u2354_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2355" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2356" class="ax_default placeholder">
+        <img id="u2356_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2357" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2358" class="ax_default placeholder">
+        <img id="u2358_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2359" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2360" class="ax_default placeholder">
+        <img id="u2360_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2361" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2362" class="ax_default placeholder">
+        <img id="u2362_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2363" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2364" class="ax_default placeholder">
+        <img id="u2364_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2365" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2366" class="ax_default placeholder">
+        <img id="u2366_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2367" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2368" class="ax_default box_1">
+        <div id="u2368_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2369" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2370" class="ax_default label">
+        <div id="u2370_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2371" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">发送任务</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2372" class="ax_default placeholder">
+        <img id="u2372_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2373" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u2374" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2375" class="ax_default box_1">
+          <div id="u2375_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2376" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2377" class="ax_default _图片">
+          <img id="u2377_img" class="img " src="images/课件预览界面/u826.png"/>
+          <!-- Unnamed () -->
+          <div id="u2378" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2379" class="ax_default _图片">
+          <img id="u2379_img" class="img " src="images/课件预览界面/u828.png"/>
+          <!-- Unnamed () -->
+          <div id="u2380" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2381" class="ax_default box_1">
+          <div id="u2381_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2382" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2383" class="ax_default label">
+          <div id="u2383_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2384" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#FF0000;">3 </span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;"> / 16</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2385" class="ax_default box_1">
+        <div id="u2385_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2386" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2387" class="ax_default _三级标题">
+        <div id="u2387_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2388" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">1、当点击了屏幕推送工具，能把老师当前屏幕的内容截屏发送给学生，并且工具栏中的“屏幕推送”按钮变成“取消推送”的文字（点中状态）。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2389" class="ax_default _三级标题">
+        <div id="u2389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2390" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">2、老师端右下角反馈：“屏幕推送成功”，出现3S后消失。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2391" class="ax_default _三级标题">
+        <div id="u2391_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2392" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">3、老师点击取消推送或者老师切换了幻灯片页码，屏幕推送被取消。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2393" class="ax_default _三级标题">
+        <div id="u2393_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2394" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">4、屏幕推送对学生的影响：学生会收到老师端点击屏幕推送当时的屏幕截图，当老师取消屏幕推送的时，学生端为屏幕推送前的状态。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2395" class="ax_default _三级标题">
+        <div id="u2395_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2396" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">5、每个幻灯片界面都可以进行屏幕推送，屏幕推送会把笔迹等都截图进去推送给学生。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (老师端授课界面-1.6版本) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2398" class="ax_default box_1">
+        <div id="u2398_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2399" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Pie Chart) -->
+      <div id="u2400" class="ax_default box_1">
+        <img id="u2400_img" class="img " src="images/主界面/u290.png"/>
+        <!-- Unnamed () -->
+        <div id="u2401" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2402" class="ax_default label">
+        <div id="u2402_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2403" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2404" class="ax_default box_1">
+        <div id="u2404_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2405" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2406" class="ax_default label">
+        <div id="u2406_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2407" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">选择</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2408" class="ax_default label">
+        <div id="u2408_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2409" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">画笔</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2410" class="ax_default label">
+        <div id="u2410_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2411" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">橡皮</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2412" class="ax_default label">
+        <div id="u2412_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2413" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">聚光灯</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2414" class="ax_default box_1">
+        <div id="u2414_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2415" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2416" class="ax_default label">
+        <div id="u2416_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2417" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">屏幕推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2418" class="ax_default label">
+        <div id="u2418_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2419" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">花名册</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2420" class="ax_default label">
+        <div id="u2420_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2421" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">布置作业</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2422" class="ax_default placeholder">
+        <img id="u2422_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2423" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2424" class="ax_default placeholder">
+        <img id="u2424_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2425" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2426" class="ax_default placeholder">
+        <img id="u2426_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2427" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2428" class="ax_default placeholder">
+        <img id="u2428_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2429" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2430" class="ax_default placeholder">
+        <img id="u2430_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2431" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2432" class="ax_default placeholder">
+        <img id="u2432_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2433" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2434" class="ax_default placeholder">
+        <img id="u2434_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2435" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2436" class="ax_default box_1">
+        <div id="u2436_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2437" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2438" class="ax_default label">
+        <div id="u2438_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2439" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">发送任务</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2440" class="ax_default placeholder">
+        <img id="u2440_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2441" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u2442" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2443" class="ax_default box_1">
+          <div id="u2443_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2444" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2445" class="ax_default _图片">
+          <img id="u2445_img" class="img " src="images/课件预览界面/u826.png"/>
+          <!-- Unnamed () -->
+          <div id="u2446" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u2447" class="ax_default _图片">
+          <img id="u2447_img" class="img " src="images/课件预览界面/u828.png"/>
+          <!-- Unnamed () -->
+          <div id="u2448" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2449" class="ax_default box_1">
+          <div id="u2449_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2450" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2451" class="ax_default label">
+          <div id="u2451_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u2452" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#FF0000;">3 </span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;"> / 16</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2453" class="ax_default label">
+        <div id="u2453_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2454" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">取消推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2455" class="ax_default box_2">
+        <div id="u2455_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2456" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">屏幕推送成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2457" class="ax_default box_1">
+        <div id="u2457_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2458" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2459" class="ax_default label">
+        <div id="u2459_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2460" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">取消推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u2461" class="ax_default placeholder">
+        <img id="u2461_img" class="img " src="images/画笔工具/u1256.png"/>
+        <!-- Unnamed () -->
+        <div id="u2462" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

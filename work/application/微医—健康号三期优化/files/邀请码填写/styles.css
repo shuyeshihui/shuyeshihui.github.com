@@ -1,0 +1,245 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(54, 54, 54, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:764px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1049_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:676px;
+}
+#u1049 {
+  border-width:0px;
+  position:absolute;
+  left:48px;
+  top:75px;
+  width:376px;
+  height:676px;
+}
+#u1050 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:330px;
+  width:372px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1051_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:97px;
+}
+#u1051 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:400px;
+  width:376px;
+  height:97px;
+}
+#u1052 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:40px;
+  width:372px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1053_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:39px;
+}
+#u1053 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:400px;
+  width:80px;
+  height:39px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(102, 102, 102, 0.87843137254902);
+}
+#u1054 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u1055_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:377px;
+  height:2px;
+}
+#u1055 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:469px;
+  width:376px;
+  height:1px;
+}
+#u1056 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:372px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1057_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:12px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#CCCCCC;
+}
+#u1057 {
+  border-width:0px;
+  position:absolute;
+  left:56px;
+  top:444px;
+  width:358px;
+  height:12px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#CCCCCC;
+}
+#u1058 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  word-wrap:break-word;
+}
+#u1059_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+}
+#u1059 {
+  border-width:0px;
+  position:absolute;
+  left:464px;
+  top:212px;
+  width:300px;
+  height:170px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:28px;
+}
+#u1060 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:1px;
+  width:296px;
+  word-wrap:break-word;
+}
+#u1061_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:41px;
+}
+#u1061 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:24px;
+  width:300px;
+  height:41px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FF9900;
+}
+#u1062 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:296px;
+  word-wrap:break-word;
+}
+#u1063_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:367px;
+  height:67px;
+}
+#u1063 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:407px;
+  width:367px;
+  height:67px;
+}
+#u1064 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:363px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

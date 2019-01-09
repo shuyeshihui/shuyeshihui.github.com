@@ -1,0 +1,656 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>上传VR资源</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/上传vr资源/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/上传vr资源/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u5519" class="ax_default _图片1">
+        <img id="u5519_img" class="img " src="images/本地资源库/u4574.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u5520" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- top (矩形) -->
+      <div id="u5521" class="ax_default _形状1" data-label="top">
+        <div id="u5521_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5522" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5523" class="ax_default _文本段落">
+        <div id="u5523_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5524" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">1、Windows资源管理窗口</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5525" class="ax_default _文本段落">
+        <div id="u5525_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5526" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">&#149; 打开windows系统的资源管理窗口，选择VR课件，点击打开将该文件上传到我的网盘；</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">&#149; 上传的课件同时拷贝到本地VR资源文件夹，并在本地VR资源列表中出现；</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">&#149; 我的VR资源列表按照上传时间进行排序，最新上传的排在顶部。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5527" class="ax_default _文本段落">
+        <div id="u5527_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5528" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5529" class="ax_default _图片1">
+        <img id="u5529_img" class="img " src="images/本地资源库/u4576.png"/>
+        <!-- Unnamed () -->
+        <div id="u5530" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5531" class="ax_default _图片1">
+        <img id="u5531_img" class="img " src="images/本地资源库/u4578.png"/>
+        <!-- Unnamed () -->
+        <div id="u5532" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5533" class="ax_default _形状1">
+        <div id="u5533_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5534" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5535" class="ax_default _形状1">
+        <div id="u5535_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5536" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5537" class="ax_default _文本段落">
+        <div id="u5537_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5538" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">我的VR资源</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5539" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5540" class="ax_default _图片1">
+          <img id="u5540_img" class="img " src="images/vr资源列表/u119.png"/>
+          <!-- Unnamed () -->
+          <div id="u5541" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5542" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5543" class="ax_default _形状1">
+            <div id="u5543_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5544" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5545" class="ax_default _文本段落">
+            <div id="u5545_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5546" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5547" class="ax_default _文本段落">
+            <div id="u5547_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5548" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5549" class="ax_default _文本段落">
+          <div id="u5549_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5550" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">五角大楼</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5551" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5552" class="ax_default _图片1">
+          <img id="u5552_img" class="img " src="images/vr资源列表/u130.png"/>
+          <!-- Unnamed () -->
+          <div id="u5553" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5554" class="ax_default _文本段落">
+          <div id="u5554_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5555" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">霸王龙</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5556" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5557" class="ax_default _形状1">
+            <div id="u5557_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5558" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5559" class="ax_default _文本段落">
+            <div id="u5559_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5560" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5561" class="ax_default _文本段落">
+            <div id="u5561_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5562" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5563" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5564" class="ax_default _图片1">
+          <img id="u5564_img" class="img " src="images/资源列表_1/u1620.jpg"/>
+          <!-- Unnamed () -->
+          <div id="u5565" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5566" class="ax_default _文本段落">
+          <div id="u5566_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5567" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">钓鱼</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5568" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5569" class="ax_default _形状1">
+            <div id="u5569_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5570" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5571" class="ax_default _文本段落">
+            <div id="u5571_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5572" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5573" class="ax_default _文本段落">
+            <div id="u5573_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5574" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5575" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5576" class="ax_default _图片1">
+          <img id="u5576_img" class="img " src="images/资源列表_1/u1632.png"/>
+          <!-- Unnamed () -->
+          <div id="u5577" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5578" class="ax_default _文本段落">
+          <div id="u5578_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5579" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">远古生物</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5580" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5581" class="ax_default _形状1">
+            <div id="u5581_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5582" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5583" class="ax_default _文本段落">
+            <div id="u5583_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5584" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5585" class="ax_default _文本段落">
+            <div id="u5585_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5586" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5587" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5588" class="ax_default _图片1">
+          <img id="u5588_img" class="img " src="images/vr资源列表/u140.jpg"/>
+          <!-- Unnamed () -->
+          <div id="u5589" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5590" class="ax_default _文本段落">
+          <div id="u5590_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5591" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">南美风景</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5592" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5593" class="ax_default _形状1">
+            <div id="u5593_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5594" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5595" class="ax_default _文本段落">
+            <div id="u5595_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5596" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5597" class="ax_default _文本段落">
+            <div id="u5597_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5598" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5599" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5600" class="ax_default _图片1">
+          <img id="u5600_img" class="img " src="images/资源列表_1/u1656.jpg"/>
+          <!-- Unnamed () -->
+          <div id="u5601" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5602" class="ax_default _文本段落">
+          <div id="u5602_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5603" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">战争机器</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5604" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5605" class="ax_default _形状1">
+            <div id="u5605_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5606" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5607" class="ax_default _文本段落">
+            <div id="u5607_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5608" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5609" class="ax_default _文本段落">
+            <div id="u5609_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5610" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5611" class="ax_default">
+
+        <!-- Unnamed (图片) -->
+        <div id="u5612" class="ax_default _图片1">
+          <img id="u5612_img" class="img " src="images/vr资源列表/u134.jpg"/>
+          <!-- Unnamed () -->
+          <div id="u5613" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#000000;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5614" class="ax_default _文本段落">
+          <div id="u5614_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5615" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">海洋生物</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u5616" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5617" class="ax_default _形状1">
+            <div id="u5617_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5618" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5619" class="ax_default _文本段落">
+            <div id="u5619_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5620" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">插入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5621" class="ax_default _文本段落">
+            <div id="u5621_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5622" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">预览</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5623" class="ax_default _图片1">
+        <img id="u5623_img" class="img " src="images/资源列表_1/u1679.png"/>
+        <!-- Unnamed () -->
+        <div id="u5624" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5625" class="ax_default _形状1">
+        <div id="u5625_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5626" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u5627" class="ax_default _水平线1" WidgetHeight="1" WidgetWidth="96" WidgetCenterX="891" WidgetCenterY="172.5">
+        <div id="u5627p000" class="ax_vector_shape" WidgetTopLeftX="-0.48019801980198" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.47029702970297" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.48019801980198" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.47029702970297" WidgetBottomRightY="0.166666666666667">
+          <img id="u5627p000_img" class="img " src="images/资源列表_1/u1683p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u5628" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5629" class="ax_default _文本段落">
+        <div id="u5629_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5630" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:7px;text-decoration:none;color:#1196DB;">VR资源</span></p><p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:7px;text-decoration:none;color:#1196DB;">13</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5631" class="ax_default _图片1">
+        <img id="u5631_img" class="img " src="images/资源列表_1/u1589.png"/>
+        <!-- Unnamed () -->
+        <div id="u5632" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5633" class="ax_default _一级标题">
+        <div id="u5633_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5634" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">本地VR资源</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5635" class="ax_default _图片1">
+        <img id="u5635_img" class="img " src="images/导入资源/u4832.png"/>
+        <!-- Unnamed () -->
+        <div id="u5636" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5637" class="ax_default _形状1">
+        <img id="u5637_img" class="img " src="images/导入资源/u4834.png"/>
+        <!-- Unnamed () -->
+        <div id="u5638" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5639" class="ax_default">
+
+        <!-- Unnamed (向左三角形) -->
+        <div id="u5640" class="ax_default _形状1">
+          <img id="u5640_img" class="img " src="images/教育资源库/u1567.png"/>
+          <!-- Unnamed () -->
+          <div id="u5641" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u5642" class="ax_default _形状1">
+          <img id="u5642_img" class="img " src="images/教育资源库/u1569.png"/>
+          <!-- Unnamed () -->
+          <div id="u5643" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:14px;text-decoration:none;color:#FFFFFF;">1</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u5644" class="ax_default">
+
+        <!-- Unnamed (组合) -->
+        <div id="u5645" class="ax_default">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5646" class="ax_default _形状1">
+            <div id="u5646_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5647" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5648" class="ax_default _文本段落">
+            <div id="u5648_div" class=""></div>
+            <!-- Unnamed () -->
+            <div id="u5649" class="text" style="visibility: visible;">
+              <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:8px;text-decoration:none;color:#FFFFFF;">上传</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u5650" class="ax_default _图片1">
+            <img id="u5650_img" class="img " src="images/网盘vr资源库/u5503.png"/>
+            <!-- Unnamed () -->
+            <div id="u5651" class="text" style="display: none; visibility: hidden">
+              <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5652" class="ax_default _形状1">
+        <img id="u5652_img" class="img " src="images/导入资源/u4862.png"/>
+        <!-- Unnamed () -->
+        <div id="u5653" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>词汇卡二级菜单栏</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/词汇卡二级菜单栏/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/词汇卡二级菜单栏/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组合) -->
+      <div id="u1004" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1005" class="ax_default _形状">
+          <div id="u1005_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1006" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1007" class="ax_default box_1">
+          <div id="u1007_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1008" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1009" class="ax_default box_2">
+          <div id="u1009_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1010" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1011" class="ax_default _文本段落">
+          <div id="u1011_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1012" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#FFFFFF;">词汇卡二级菜单栏</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1013" class="ax_default _三级标题">
+          <div id="u1013_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1014" class="text" style="visibility: visible;">
+            <p><span style="font-family:'微软雅黑 Bold', '微软雅黑';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">交互说明：</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1015" class="ax_default _图片">
+        <img id="u1015_img" class="img " src="images/二级菜单栏规则/u684.png"/>
+        <!-- Unnamed () -->
+        <div id="u1016" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1017" class="ax_default box_1">
+        <div id="u1017_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1018" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFCC;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1019" class="ax_default _图片">
+        <img id="u1019_img" class="img " src="images/词汇卡二级菜单栏/u1019.png"/>
+        <!-- Unnamed () -->
+        <div id="u1020" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1021" class="ax_default box_1">
+        <div id="u1021_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1022" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1023" class="ax_default box_1">
+        <div id="u1023_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1024" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1025" class="ax_default box_1">
+        <div id="u1025_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1026" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1027" class="ax_default box_1">
+        <div id="u1027_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1028" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1029" class="ax_default label">
+        <div id="u1029_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1030" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">搜索输入框，点击输入框出现键盘进行输入</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1031" class="ax_default box_1">
+        <div id="u1031_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1032" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1033" class="ax_default label">
+        <div id="u1033_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1034" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">搜索按钮，输入后点击进行搜索；当输入框为空时，点击无反馈</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1035" class="ax_default box_1">
+        <div id="u1035_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1036" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1037" class="ax_default label">
+        <div id="u1037_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1038" class="text" style="visibility: visible;">
+          <p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">列表式展示本课词汇，可以不受英文字母数量的限制</span></p><p><span style="font-family:'微软雅黑 Regular', '微软雅黑';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">点击某个单词呈现单词详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1039" class="ax_default box_1">
+        <img id="u1039_img" class="img " src="images/词汇卡二级菜单栏/u1039.png"/>
+        <!-- Unnamed () -->
+        <div id="u1040" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1041" class="ax_default box_1">
+        <img id="u1041_img" class="img " src="images/词汇卡二级菜单栏/u1041.png"/>
+        <!-- Unnamed () -->
+        <div id="u1042" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

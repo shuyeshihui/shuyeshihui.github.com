@@ -1,0 +1,286 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>P2_图文信息流列表页Card改版—去评论、淡化时间</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/p2_图文信息流列表页card改版—去评论、淡化时间/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/p2_图文信息流列表页card改版—去评论、淡化时间/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2317" class="ax_default _形状">
+        <div id="u2317_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2318" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u2319" class="ax_default _图片">
+        <img id="u2319_img" class="img " src="images/p1_发布界面改版_poi/u189.png"/>
+        <!-- Unnamed () -->
+        <div id="u2320" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2321" class="ax_default box_1">
+        <div id="u2321_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2322" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Ellipse) -->
+      <div id="u2323" class="ax_default ellipse">
+        <img id="u2323_img" class="img " src="images/p1_附近___同城/u254.png"/>
+        <!-- Unnamed () -->
+        <div id="u2324" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2325" class="ax_default label">
+        <div id="u2325_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2326" class="text">
+          <p><span>昵称+身份标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2327" class="ax_default primary_button">
+        <div id="u2327_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2328" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u2329" class="ax_default _图片">
+        <img id="u2329_img" class="img " src="images/p2_图文信息流列表页card改版—去评论、淡化时间/u2329.png"/>
+        <!-- Unnamed () -->
+        <div id="u2330" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2331" class="ax_default label">
+        <div id="u2331_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2332" class="text">
+          <p><span>正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容正文内容...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Placeholder) -->
+      <div id="u2333" class="ax_default placeholder">
+        <img id="u2333_img" class="img " src="images/p2_图文信息流列表页card改版—去评论、淡化时间/u2333.png"/>
+        <!-- Unnamed () -->
+        <div id="u2334" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2335" class="ax_default label">
+        <div id="u2335_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2336" class="text">
+          <p><span>查看详情 &gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2337" class="ax_default label">
+        <div id="u2337_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2338" class="text">
+          <p><span>点赞</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2339" class="ax_default label">
+        <div id="u2339_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2340" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2341" class="ax_default label">
+        <div id="u2341_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2342" class="text">
+          <p><span>转发</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2343" class="ax_default box_1">
+        <div id="u2343_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2344" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Placeholder) -->
+      <div id="u2345" class="ax_default placeholder">
+        <img id="u2345_img" class="img " src="images/p2_图文信息流列表页card改版—去评论、淡化时间/u2345.png"/>
+        <!-- Unnamed () -->
+        <div id="u2346" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2347" class="ax_default label">
+        <div id="u2347_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2348" class="text">
+          <p><span>某某餐厅名</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2349" class="ax_default label">
+        <div id="u2349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2350" class="text">
+          <p><span>市 | 地区 | 菜系</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2351" class="ax_default label">
+        <div id="u2351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2352" class="text">
+          <p><span>进店 &gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2353" class="ax_default _形状">
+        <div id="u2353_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2354" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Table) -->
+      <div id="u2355" class="ax_default _表格">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u2356" class="ax_default _单元格">
+          <img id="u2356_img" class="img " src="images/p1_发布界面改版_poi/u206.png"/>
+          <!-- Unnamed () -->
+          <div id="u2357" class="text">
+            <p><span>—</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u2358" class="ax_default _单元格">
+          <img id="u2358_img" class="img " src="images/p1_发布界面改版_poi/u208.png"/>
+          <!-- Unnamed () -->
+          <div id="u2359" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u2360" class="ax_default _单元格">
+          <img id="u2360_img" class="img " src="images/p1_附近___同城/u319.png"/>
+          <!-- Unnamed () -->
+          <div id="u2361" class="text">
+            <p><span>页面规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u2362" class="ax_default _单元格">
+          <img id="u2362_img" class="img " src="images/p1_附近___同城/u321.png"/>
+          <!-- Unnamed () -->
+          <div id="u2363" class="text">
+            <p><span>一、背景：</span></p><p><span>信息流Card去掉评论内容的外露，突出社区是以内容为核心的社区，评论内容外露用户基本不Care；</span></p><p><span><br></span></p><p><span>二、需求：</span></p><p><span>1、图文、录播信息流列表页Card去掉评论内容的外露；点进去详情页可以看到评论内容和时间；</span></p><p><span>2、如果用户评论数&gt;0，则点击评论直接进入看评论列表；如果评论数=0，则点击评论键盘默认打开和之前一样；</span></p><p><span>3、图文列表、详情页增加收藏数的显示；规则和点赞功能一样；</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2364" class="ax_default box_1">
+        <div id="u2364_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2365" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u2366" class="ax_default label">
+        <div id="u2366_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2367" class="text">
+          <p><span>收藏</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

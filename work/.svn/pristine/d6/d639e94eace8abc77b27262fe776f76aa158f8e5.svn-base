@@ -1,0 +1,536 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>在pptshell增加互动课堂的入口</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/在pptshell增加互动课堂的入口/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/在pptshell增加互动课堂的入口/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u301" class="ax_default _图片">
+        <img id="u301_img" class="img " src="images/1_______pptshell/u105.png"/>
+        <!-- Unnamed () -->
+        <div id="u302" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u303" class="ax_default _三级标题">
+        <div id="u303_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u304" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">1、增加互动上课的入口</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u305" class="ax_default _三级标题">
+        <div id="u305_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u306" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:16px;text-decoration:none;color:#FFFFFF;">互动授课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u307" class="ax_default _三级标题">
+        <div id="u307_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u308" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">2、判断是否已经登录？</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u309" class="ax_default _三级标题">
+        <div id="u309_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u310" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">a、已登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u311" class="ax_default box_1">
+        <div id="u311_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u312" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u313" class="ax_default _三级标题">
+        <div id="u313_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u314" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">某某老师您好，请选择您的授课班级！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u315" class="ax_default text_field">
+        <input id="u315_input" type="text" value="三年级一班"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u316" class="ax_default text_field">
+        <input id="u316_input" type="text" value="三年级二班"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u317" class="ax_default text_field">
+        <input id="u317_input" type="text" value="三年级三班"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u318" class="ax_default default_button">
+        <div id="u318_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u319" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">开始上课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u320" class="ax_default _图片">
+        <img id="u320_img" class="img " src="images/1_______pptshell/u124.png"/>
+        <!-- Unnamed () -->
+        <div id="u321" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u322" class="ax_default box_1">
+        <div id="u322_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u323" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u324" class="ax_default _三级标题">
+        <div id="u324_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u325" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">请问是否用以下用户名登陆：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u326" class="ax_default line" WidgetHeight="353" WidgetWidth="1" WidgetCenterX="335.5" WidgetCenterY="333.5">
+        <div id="u326p000" class="ax_vector_shape" WidgetTopLeftX="-0.494397759103641" WidgetTopLeftY="0.166666666666663" WidgetTopRightX="-0.494397759103641" WidgetTopRightY="-0.16666666666667" WidgetBottomLeftX="0.494397759103641" WidgetBottomLeftY="0.16666666666667" WidgetBottomRightX="0.494397759103641" WidgetBottomRightY="-0.166666666666663">
+          <img id="u326p000_img" class="img " src="images/2、用户切换放在互动课堂入口/u194p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u327" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u328" class="ax_default box_1">
+        <div id="u328_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u329" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">芮老师</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u330" class="ax_default _图片">
+        <img id="u330_img" class="img " src="images/1_______pptshell/u124.png"/>
+        <!-- Unnamed () -->
+        <div id="u331" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u332" class="ax_default label">
+        <div id="u332_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u333" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">其它用户名：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u334" class="ax_default box_1">
+        <div id="u334_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u335" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">刘勇</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u336" class="ax_default box_1">
+        <div id="u336_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u337" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">刘勇</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u338" class="ax_default box_1">
+        <div id="u338_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u339" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">刘勇</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u340" class="ax_default box_1">
+        <div id="u340_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u341" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">刘勇</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u342" class="ax_default default_button">
+        <div id="u342_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u343" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u344" class="ax_default text_field">
+        <input id="u344_input" type="text" value="请输入您的用户名"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u345" class="ax_default text_field">
+        <input id="u345_input" type="text" value="请输入您的密码"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u346" class="ax_default default_button">
+        <div id="u346_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u347" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u348" class="ax_default">
+        <label for="u348_input">
+          <!-- Unnamed () -->
+          <div id="u349" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp;&nbsp; 记住密码</span></p>
+          </div>
+        </label>
+        <input id="u348_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u350" class="ax_default">
+        <img id="u350_img" class="img " src="images/1_______pptshell/u142.png"/>
+        <!-- Unnamed () -->
+        <div id="u351" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Right Arrow) -->
+      <div id="u352" class="ax_default box_1">
+        <img id="u352_img" class="img " src="images/1_______pptshell/u167.png"/>
+        <!-- Unnamed () -->
+        <div id="u353" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u354" class="ax_default _三级标题">
+        <div id="u354_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u355" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">b、未登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u356" class="ax_default box_1">
+        <div id="u356_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u357" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u358" class="ax_default box_1">
+        <div id="u358_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u359" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">101</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u360" class="ax_default box_1">
+        <div id="u360_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u361" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u362" class="ax_default box_1">
+        <div id="u362_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u363" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u364" class="ax_default text_field">
+        <input id="u364_input" type="text" value="请输入您的用户名"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u365" class="ax_default text_field">
+        <input id="u365_input" type="text" value="请输入您的密码"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u366" class="ax_default default_button">
+        <div id="u366_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u367" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u368" class="ax_default label">
+        <div id="u368_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u369" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#949494;">体验账号登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u370" class="ax_default">
+        <img id="u370_img" class="img " src="images/1_______pptshell/u142.png"/>
+        <!-- Unnamed () -->
+        <div id="u371" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u372" class="ax_default">
+        <label for="u372_input">
+          <!-- Unnamed () -->
+          <div id="u373" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp;&nbsp; 记住密码</span></p>
+          </div>
+        </label>
+        <input id="u372_input" type="checkbox" value="checkbox" checked/>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u374" class="ax_default">
+        <label for="u374_input">
+          <!-- Unnamed () -->
+          <div id="u375" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp;&nbsp; 自动登录</span></p>
+          </div>
+        </label>
+        <input id="u374_input" type="checkbox" value="checkbox"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u376" class="ax_default label">
+        <div id="u376_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u377" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#949494;">找回密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u378" class="ax_default _三级标题">
+        <div id="u378_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u379" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">101，中国好老师</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u380" class="ax_default _图片">
+        <img id="u380_img" class="img " src="images/1_______pptshell/u152.png"/>
+        <!-- Unnamed () -->
+        <div id="u381" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u382" class="ax_default box_1">
+        <div id="u382_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u383" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u384" class="ax_default _三级标题">
+        <div id="u384_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u385" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">某某老师您好，请选择您的授课班级！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u386" class="ax_default text_field">
+        <input id="u386_input" type="text" value="三年级一班"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u387" class="ax_default text_field">
+        <input id="u387_input" type="text" value="三年级二班"/>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u388" class="ax_default text_field">
+        <input id="u388_input" type="text" value="三年级三班"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u389" class="ax_default default_button">
+        <div id="u389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u390" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">开始上课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u391" class="ax_default _图片">
+        <img id="u391_img" class="img " src="images/1_______pptshell/u124.png"/>
+        <!-- Unnamed () -->
+        <div id="u392" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Right Arrow) -->
+      <div id="u393" class="ax_default box_1">
+        <img id="u393_img" class="img " src="images/1_______pptshell/u167.png"/>
+        <!-- Unnamed () -->
+        <div id="u394" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u395" class="ax_default box_1">
+        <div id="u395_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u396" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">101</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u397" class="ax_default _三级标题">
+        <div id="u397_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u398" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">101，中国好老师</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u399" class="ax_default _三级标题">
+        <div id="u399_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u400" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">3、用互动课堂开始上课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u401" class="ax_default box_1">
+        <div id="u401_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u402" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u403" class="ax_default _一级标题">
+        <div id="u403_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u404" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:32px;text-decoration:none;color:#333333;">班级花名册界面</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

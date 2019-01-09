@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>抽奖箱、电话抽奖、砸金蛋、扎气球</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/抽奖箱、电话抽奖、砸金蛋、扎气球/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/抽奖箱、电话抽奖、砸金蛋、扎气球/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u6074" class="ax_default _图片">
+        <img id="u6074_img" class="img " src="images/抽奖箱、电话抽奖、砸金蛋、扎气球/u6074.png"/>
+        <!-- Unnamed () -->
+        <div id="u6075" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6076" class="ax_default _三级标题">
+        <div id="u6076_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6077" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">模拟线下抽奖箱的方式，将学生姓名放在透明的姓名箱子里，老师开始随机点名，箱子里面的姓名纸条开始飘动，然后有一只手伸进姓名箱从箱子的中间位置抽取一张纸条。拿出来展开，一个学生的姓名显示在屏幕上。并且配合交互动效（撒花等）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6078" class="ax_default _图片">
+        <img id="u6078_img" class="img " src="images/抽奖箱、电话抽奖、砸金蛋、扎气球/u6078.png"/>
+        <!-- Unnamed () -->
+        <div id="u6079" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6080" class="ax_default _三级标题">
+        <div id="u6080_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6081" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">采用电视上常见的电话号码滚动方式，老师点击开始，学生的头像和姓名进行滚动，在一定时间后停止，停到最后的学生即为被抽中的学生。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6082" class="ax_default _图片">
+        <img id="u6082_img" class="img " src="images/抽奖箱、电话抽奖、砸金蛋、扎气球/u6082.png"/>
+        <!-- Unnamed () -->
+        <div id="u6083" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6084" class="ax_default _三级标题">
+        <div id="u6084_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6085" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">金蛋或气球里有学生姓名（金蛋或气球是一种表象，作用是遮蔽里面的内容），老师和学生可以互动，老师让学生选择砸/扎哪个金蛋或气球，砸或扎到的金蛋气球会有一系列的交互形式，最后会出现学生的姓名。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6086" class="ax_default _图片">
+        <img id="u6086_img" class="img " src="images/抽奖箱、电话抽奖、砸金蛋、扎气球/u6086.png"/>
+        <!-- Unnamed () -->
+        <div id="u6087" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6088" class="ax_default _图片">
+        <img id="u6088_img" class="img " src="images/抽奖箱、电话抽奖、砸金蛋、扎气球/u6088.png"/>
+        <!-- Unnamed () -->
+        <div id="u6089" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

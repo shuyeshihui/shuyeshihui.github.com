@@ -1,0 +1,155 @@
+﻿$axure.loadCurrentPage({
+  "url":"抢单不成功页面-被别人先抢走了.html",
+  "generationDate":new Date(1428391089507.29),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c0cdbbfe98f54a158a3321f62aac0b76",
+    "type":"Axure:Page",
+    "name":"抢单不成功页面-被别人先抢走了",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7a1858ae21a942b9b497c37712bf9498",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5563d4c4b5594443a6658f5cf0cd3d1d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"160a9c092c4e474784687eebd63d2d02",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":1},
+            "size":{
+              "width":370,
+              "height":552},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"482ff75325e64b60a1d9361ec0eda124",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":1},
+                "size":{
+                  "width":370,
+                  "height":552},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u10.png"}},
+{
+          "id":"a00fec4806e546fb83dedb7b47da182e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":234},
+            "size":{
+              "width":261,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3226c90bcb1049cd8dbb91dc6fab0537",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":23,
+                  "y":234},
+                "size":{
+                  "width":261,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7a1858ae21a942b9b497c37712bf9498":{
+      "scriptId":"u0"},
+    "5563d4c4b5594443a6658f5cf0cd3d1d":{
+      "scriptId":"u1"},
+    "160a9c092c4e474784687eebd63d2d02":{
+      "scriptId":"u2"},
+    "482ff75325e64b60a1d9361ec0eda124":{
+      "scriptId":"u3"},
+    "a00fec4806e546fb83dedb7b47da182e":{
+      "scriptId":"u4"},
+    "3226c90bcb1049cd8dbb91dc6fab0537":{
+      "scriptId":"u5"}}});

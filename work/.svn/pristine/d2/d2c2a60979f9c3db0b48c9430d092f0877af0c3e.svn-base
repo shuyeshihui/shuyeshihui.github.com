@@ -1,0 +1,340 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>公众号后台</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/公众号后台/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/公众号后台/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u924" class="ax_default _文本段落">
+        <div id="u924_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u925" class="text">
+          <p><span>用户申请列表后台：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u926" class="ax_default _形状">
+        <div id="u926_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u927" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u928" class="ax_default _文本段落">
+        <div id="u928_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u929" class="text">
+          <p><span>用户编号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u930" class="ax_default _文本段落">
+        <div id="u930_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u931" class="text">
+          <p><span>用户昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u932" class="ax_default _文本段落">
+        <div id="u932_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u933" class="text">
+          <p><span>申请时间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u934" class="ax_default _文本段落">
+        <div id="u934_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u935" class="text">
+          <p><span>账号相关信息</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u936" class="ax_default _文本段落">
+        <div id="u936_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u937" class="text">
+          <p><span>用户经历</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u938" class="ax_default _文本段落">
+        <div id="u938_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u939" class="text">
+          <p><span>用户擅长领域</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u940" class="ax_default _文本段落">
+        <div id="u940_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u941" class="text">
+          <p><span>操作</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u942" class="ax_default _文本段落">
+        <div id="u942_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u943" class="text">
+          <p><span>开通权限</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u944" class="ax_default _文本段落">
+        <div id="u944_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u945" class="text">
+          <p><span>拒绝</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u946" class="ax_default _文本段落">
+        <div id="u946_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u947" class="text">
+          <p><span>公众号用户列表：在后台【用户管理】中增加【公众号列表】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u948" class="ax_default _形状">
+        <div id="u948_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u949" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u950" class="ax_default _图片">
+        <img id="u950_img" class="img " src="images/公众号后台/u950.png"/>
+        <!-- Unnamed () -->
+        <div id="u951" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u952" class="ax_default _形状">
+        <div id="u952_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u953" class="text">
+          <p><span>公众号列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u954" class="ax_default _文本段落">
+        <div id="u954_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u955" class="text">
+          <p><span>公众号编号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u956" class="ax_default _文本段落">
+        <div id="u956_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u957" class="text">
+          <p><span>昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u958" class="ax_default _文本段落">
+        <div id="u958_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u959" class="text">
+          <p><span>头像</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u960" class="ax_default _文本段落">
+        <div id="u960_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u961" class="text">
+          <p><span>粉丝数（总）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u962" class="ax_default _文本段落">
+        <div id="u962_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u963" class="text">
+          <p><span>粉丝数（真）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u964" class="ax_default _文本段落">
+        <div id="u964_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u965" class="text">
+          <p><span>操作</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u966" class="ax_default _文本段落">
+        <div id="u966_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u967" class="text">
+          <p><span>开通权限和拒绝用户的操作都会触发短信通知；</span></p><p><span><br></span></p><p><span>短信通知文案的文案：</span></p><p><span><br></span></p><p><span>开通权限的短信文案：</span></p><p><span><br></span></p><p><span>拒绝用户的短信文案：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u968" class="ax_default _文本段落">
+        <div id="u968_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u969" class="text">
+          <p><span>增加粉丝</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u970" class="ax_default _文本段落">
+        <div id="u970_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u971" class="text">
+          <p><span>取消权限</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u972" class="ax_default _文本段落">
+        <div id="u972_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u973" class="text">
+          <p><span>设为优质</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u974" class="ax_default _文本段落">
+        <div id="u974_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u975" class="text">
+          <p><span>1、增加用户的粉丝数</span></p><p><span><br></span></p><p><span>2、取消权限：取消权限的时候，会填写一个理由；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u976" class="ax_default _形状">
+        <div id="u976_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u977" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u978" class="ax_default _形状">
+        <div id="u978_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u979" class="text">
+          <p><span>确认取消</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u980" class="ax_default _文本段落">
+        <div id="u980_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u981" class="text">
+          <p><span>取消理由</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (列表框) -->
+      <div id="u982" class="ax_default _列表框">
+        <select id="u982_input" size="2">
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u983" class="ax_default _文本段落">
+        <div id="u983_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u984" class="text">
+          <p><span>取消权限会给用户发一个短信告知用户因为什么原因被取消了发攻略的权限：</span></p><p><span><br></span></p><p><span>短信文案如下：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u985" class="ax_default _文本段落">
+        <div id="u985_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u986" class="text">
+          <p><span>3、设为优质：公众号用户可以被设为优质公众号；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u987" class="ax_default _文本段落">
+        <div id="u987_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u988" class="text">
+          <p><span>优质公众号列表：在后台【热门推荐】中增加【热门公众号】列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u989" class="ax_default _图片">
+        <img id="u989_img" class="img " src="images/公众号后台/u989.png"/>
+        <!-- Unnamed () -->
+        <div id="u990" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u991" class="ax_default _文本段落">
+        <div id="u991_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u992" class="text">
+          <p><span>1、可以取消优质公众号</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

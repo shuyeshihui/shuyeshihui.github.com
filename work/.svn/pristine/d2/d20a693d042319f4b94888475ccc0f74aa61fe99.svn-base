@@ -1,0 +1,399 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>P1：APP首页增加优质内容模块（吃货攻略）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/p1：app首页增加优质内容模块（吃货攻略）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/p1：app首页增加优质内容模块（吃货攻略）/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5007" class="ax_default _形状">
+        <div id="u5007_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5008" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u5009" class="ax_default _图片">
+        <img id="u5009_img" class="img " src="images/功能演示/u280.png"/>
+        <!-- Unnamed () -->
+        <div id="u5010" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5011" class="ax_default box_1">
+        <div id="u5011_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5012" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5013" class="ax_default heading_3">
+        <div id="u5013_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5014" class="text">
+          <p><span>吃货攻略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5015" class="ax_default label">
+        <div id="u5015_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5016" class="text">
+          <p><span>美食品鉴集合</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5017" class="ax_default heading_3">
+        <div id="u5017_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5018" class="text">
+          <p><span>开香槟可以不可以要那么浪费？</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5019" class="ax_default label">
+        <div id="u5019_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5020" class="text">
+          <p><span>手动从葡萄园摘采的整串新鲜葡萄，在酿酒大师精心打造的7道工序后，历时15个月至3年，好不容易一支璀璨...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5021" class="ax_default box_2">
+        <div id="u5021_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5022" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5023" class="ax_default label">
+        <div id="u5023_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5024" class="text">
+          <p><span>推荐相关商户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5025" class="ax_default label">
+        <div id="u5025_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5026" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5027" class="ax_default label">
+        <div id="u5027_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5028" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5029" class="ax_default box_2">
+        <div id="u5029_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5030" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5031" class="ax_default label">
+        <div id="u5031_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5032" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5033" class="ax_default label">
+        <div id="u5033_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5034" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5035" class="ax_default box_2">
+        <div id="u5035_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5036" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5037" class="ax_default label">
+        <div id="u5037_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5038" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5039" class="ax_default label">
+        <div id="u5039_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5040" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5041" class="ax_default line">
+        <img id="u5041_img" class="img " src="images/社区推荐tab“推荐好友”改成卡片样式/u3515.png"/>
+        <!-- Unnamed () -->
+        <div id="u5042" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5043" class="ax_default line">
+        <img id="u5043_img" class="img " src="images/p1：app首页增加优质内容模块（吃货攻略）/u5043.png"/>
+        <!-- Unnamed () -->
+        <div id="u5044" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5045" class="ax_default line">
+        <img id="u5045_img" class="img " src="images/p1：app首页增加优质内容模块（吃货攻略）/u5043.png"/>
+        <!-- Unnamed () -->
+        <div id="u5046" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5047" class="ax_default heading_3">
+        <div id="u5047_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5048" class="text">
+          <p><span>开香槟可以不可以要那么浪费？</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5049" class="ax_default label">
+        <div id="u5049_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5050" class="text">
+          <p><span>手动从葡萄园摘采的整串新鲜葡萄，在酿酒大师精心打造的7道工序后，历时15个月至3年，好不容易一支璀璨...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5051" class="ax_default box_2">
+        <div id="u5051_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5052" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5053" class="ax_default label">
+        <div id="u5053_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5054" class="text">
+          <p><span>推荐相关商户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5055" class="ax_default label">
+        <div id="u5055_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5056" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5057" class="ax_default label">
+        <div id="u5057_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5058" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5059" class="ax_default box_2">
+        <div id="u5059_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5060" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5061" class="ax_default label">
+        <div id="u5061_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5062" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5063" class="ax_default label">
+        <div id="u5063_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5064" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5065" class="ax_default box_2">
+        <div id="u5065_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5066" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5067" class="ax_default label">
+        <div id="u5067_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5068" class="text">
+          <p><span>Le Champagne</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5069" class="ax_default label">
+        <div id="u5069_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5070" class="text">
+          <p><span>人均：XXX | 2.0Km</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5071" class="ax_default line">
+        <img id="u5071_img" class="img " src="images/社区推荐tab“推荐好友”改成卡片样式/u3515.png"/>
+        <!-- Unnamed () -->
+        <div id="u5072" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5073" class="ax_default line">
+        <img id="u5073_img" class="img " src="images/p1：app首页增加优质内容模块（吃货攻略）/u5043.png"/>
+        <!-- Unnamed () -->
+        <div id="u5074" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u5075" class="ax_default line">
+        <img id="u5075_img" class="img " src="images/p1：app首页增加优质内容模块（吃货攻略）/u5043.png"/>
+        <!-- Unnamed () -->
+        <div id="u5076" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5077" class="ax_default box_2">
+        <div id="u5077_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5078" class="text">
+          <p><span>查看更多 &gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5079" class="ax_default box_2">
+        <div id="u5079_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5080" class="text">
+          <p><span>查看更多 &gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u5081" class="ax_default box_1">
+        <div id="u5081_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5082" class="text">
+          <p><span>更多吃货攻略 &gt;</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

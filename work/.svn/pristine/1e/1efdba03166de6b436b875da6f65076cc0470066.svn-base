@@ -1,0 +1,155 @@
+﻿$axure.loadCurrentPage({
+  "url":"撤单成功界面.html",
+  "generationDate":new Date(1428391089742.71),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5a6817b3a59d4acd92570c78bf8b5407",
+    "type":"Axure:Page",
+    "name":"撤单成功界面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b64754f5728c460c91698c6769dfd818",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"201e5c31ccfa4ebc8bd88c3765b3fe2c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"89732e00f7c840bc9df9dd683264b7cc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":1},
+            "size":{
+              "width":370,
+              "height":552},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d710f2345b064678a2bdb04211f25e30",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":1},
+                "size":{
+                  "width":370,
+                  "height":552},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u10.png"}},
+{
+          "id":"ae2c09a683ca4ed48881eab13a59e14f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":234},
+            "size":{
+              "width":196,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2cae26549674954b8fd242ad40a46a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":58,
+                  "y":234},
+                "size":{
+                  "width":196,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b64754f5728c460c91698c6769dfd818":{
+      "scriptId":"u0"},
+    "201e5c31ccfa4ebc8bd88c3765b3fe2c":{
+      "scriptId":"u1"},
+    "89732e00f7c840bc9df9dd683264b7cc":{
+      "scriptId":"u2"},
+    "d710f2345b064678a2bdb04211f25e30":{
+      "scriptId":"u3"},
+    "ae2c09a683ca4ed48881eab13a59e14f":{
+      "scriptId":"u4"},
+    "c2cae26549674954b8fd242ad40a46a3":{
+      "scriptId":"u5"}}});

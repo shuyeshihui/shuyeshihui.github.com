@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>3.8版本</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/3_8版本/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/3_8版本/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u993" class="ax_default _形状">
+        <div id="u993_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u994" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u995" class="ax_default _二级标题">
+        <div id="u995_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u996" class="text">
+          <p><span>YHOUSE</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u997" class="ax_default _二级标题">
+        <div id="u997_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u998" class="text">
+          <p><span>“YHOUSE” APP&nbsp; 3.8版本&nbsp; 社区内容关联商户POI</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u999" class="ax_default _二级标题">
+        <div id="u999_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1000" class="text">
+          <p><span>版本迭代记录：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u1001" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1002" class="ax_default _单元格">
+          <img id="u1002_img" class="img " src="images/3_7版本/u9.png"/>
+          <!-- Unnamed () -->
+          <div id="u1003" class="text">
+            <p><span>时间</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1004" class="ax_default _单元格">
+          <img id="u1004_img" class="img " src="images/3_7版本/u11.png"/>
+          <!-- Unnamed () -->
+          <div id="u1005" class="text">
+            <p><span>产品</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1006" class="ax_default _单元格">
+          <img id="u1006_img" class="img " src="images/3_7版本/u13.png"/>
+          <!-- Unnamed () -->
+          <div id="u1007" class="text">
+            <p><span>版本号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1008" class="ax_default _单元格">
+          <img id="u1008_img" class="img " src="images/3_7版本/u15.png"/>
+          <!-- Unnamed () -->
+          <div id="u1009" class="text">
+            <p><span>记录</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1010" class="ax_default _单元格">
+          <img id="u1010_img" class="img " src="images/3_7版本/u17.png"/>
+          <!-- Unnamed () -->
+          <div id="u1011" class="text">
+            <p><span>2016.10.16</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1012" class="ax_default _单元格">
+          <img id="u1012_img" class="img " src="images/3_7版本/u19.png"/>
+          <!-- Unnamed () -->
+          <div id="u1013" class="text">
+            <p><span>芮舒晖</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1014" class="ax_default _单元格">
+          <img id="u1014_img" class="img " src="images/3_7版本/u21.png"/>
+          <!-- Unnamed () -->
+          <div id="u1015" class="text">
+            <p><span>V3.8</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1016" class="ax_default _单元格">
+          <img id="u1016_img" class="img " src="images/3_7版本/u23.png"/>
+          <!-- Unnamed () -->
+          <div id="u1017" class="text">
+            <p><span>1、目前在社区分享图文吃喝玩乐图文的时候，用户很想让阅读者知道自己是在哪家高端的店、地点消费的；阅读者也想知道内容发布者的某些照片在哪家店吃的、玩的；</span></p><p><span>2、前期图文通过关联预订的商户POI可以为商户进行导流，商户消费完了进行动态分享也可以为社区图文的分享提供更多的内容；</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

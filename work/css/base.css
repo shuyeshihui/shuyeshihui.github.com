@@ -1,0 +1,43 @@
+﻿body, div, dl, dt, dd, ul, ol, li,h1, h2, h3, h4, h5, h6, pre, code,form, fieldset, legend, input, button,textarea, p, blockquote, th, td {margin: 0;padding: 0;}fieldset, img { border: 0;}
+body {line-height: 1.5; }ol, ul {list-style: none;}
+p{
+  padding-left:20px;
+  height: 30px;
+  background: #414146;
+  padding-top: 6px;
+  color: white;
+  font-family: 微软雅黑;
+  font-size:20px;
+  padding-bottom:8px;
+}
+a{
+  display:inline-block;
+  margin-top:10px;
+  margin-left:20px;
+  font-family: 微软雅黑;
+  font-size: 16px;
+  color: #333;
+  text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+}
+.xmname{
+   margin-left:20px;
+   font-family: 微软雅黑;
+   font-size: 20px;
+   color:white;
+   margin-top:10px;
+   background:#333;
+   display:inline-block;
+   width:175px;
+   height:32px;
+   text-align:center;
+}
+.goback{
+   color:white;
+   font-size:20px;
+   margin-top:0px;
+}
+;

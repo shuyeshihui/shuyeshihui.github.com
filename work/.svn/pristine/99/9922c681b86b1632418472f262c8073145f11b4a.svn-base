@@ -1,0 +1,1095 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>随机点名效果-1（优先采用）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/随机点名效果-1（优先采用）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/随机点名效果-1（优先采用）/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组合) -->
+      <div id="u5312" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5313" class="ax_default box_1">
+          <div id="u5313_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5314" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u5315" class="ax_default box_1">
+          <img id="u5315_img" class="img " src="images/主界面/u290.png"/>
+          <!-- Unnamed () -->
+          <div id="u5316" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5317" class="ax_default label">
+          <div id="u5317_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5318" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">课堂</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u5319" class="ax_default box_1">
+          <img id="u5319_img" class="img " src="images/随机点名/u4943.png"/>
+          <!-- Unnamed () -->
+          <div id="u5320" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5321" class="ax_default label">
+          <div id="u5321_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5322" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">花名册</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5323" class="ax_default box_1">
+          <div id="u5323_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5324" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">推送屏幕</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5325" class="ax_default box_1">
+          <div id="u5325_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5326" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5327" class="ax_default label">
+          <div id="u5327_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5328" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">选择</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5329" class="ax_default label">
+          <div id="u5329_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5330" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">画笔</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5331" class="ax_default label">
+          <div id="u5331_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5332" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">橡皮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5333" class="ax_default label">
+          <div id="u5333_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5334" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">聚光灯</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5335" class="ax_default box_1">
+          <div id="u5335_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5336" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5337" class="ax_default label">
+          <div id="u5337_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5338" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">我的备课</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5339" class="ax_default label">
+          <div id="u5339_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5340" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">电子教材</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5341" class="ax_default label">
+          <div id="u5341_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5342" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">习题库</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5343" class="ax_default label">
+          <div id="u5343_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u5344" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">作业</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5345" class="ax_default box_1">
+        <div id="u5345_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5346" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u5347" class="ax_default line" WidgetHeight="1" WidgetWidth="860" WidgetCenterX="479" WidgetCenterY="73.5">
+        <div id="u5347p000" class="ax_vector_shape" WidgetTopLeftX="-0.497687861271676" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.496531791907514" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.497687861271676" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.496531791907514" WidgetBottomRightY="0.166666666666667">
+          <img id="u5347p000_img" class="img " src="images/随机点名/u4971p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u5348" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5349" class="ax_default _三级标题">
+        <div id="u5349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5350" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">四年 3班 数学</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5351" class="ax_default _三级标题">
+        <div id="u5351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5352" class="text" style="visibility: visible;">
+          <p style="font-size:28px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">在线人数&nbsp;&nbsp; </span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">34</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">&nbsp; &nbsp; 未连接人数&nbsp; &nbsp; </span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">2</span></p>
+        </div>
+      </div>
+
+      <!-- deng (矩形) -->
+      <div id="u5353" class="ax_default box_2" data-label="deng">
+        <div id="u5353_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5354" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5355" class="ax_default _图片">
+        <img id="u5355_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5356" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5357" class="ax_default label">
+        <div id="u5357_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5358" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5359" class="ax_default _图片">
+        <img id="u5359_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5360" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5361" class="ax_default label">
+        <div id="u5361_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5362" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5363" class="ax_default _图片">
+        <img id="u5363_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5364" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5365" class="ax_default label">
+        <div id="u5365_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5366" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5367" class="ax_default _图片">
+        <img id="u5367_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5368" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5369" class="ax_default label">
+        <div id="u5369_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5370" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5371" class="ax_default _图片">
+        <img id="u5371_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5372" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5373" class="ax_default label">
+        <div id="u5373_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5374" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5375" class="ax_default _图片">
+        <img id="u5375_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5376" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5377" class="ax_default label">
+        <div id="u5377_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5378" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5379" class="ax_default _图片">
+        <img id="u5379_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5380" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5381" class="ax_default label">
+        <div id="u5381_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5382" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5383" class="ax_default _图片">
+        <img id="u5383_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5384" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5385" class="ax_default label">
+        <div id="u5385_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5386" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5387" class="ax_default _图片">
+        <img id="u5387_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5388" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5389" class="ax_default label">
+        <div id="u5389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5390" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5391" class="ax_default _图片">
+        <img id="u5391_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5392" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5393" class="ax_default label">
+        <div id="u5393_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5394" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5395" class="ax_default _图片">
+        <img id="u5395_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5396" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5397" class="ax_default label">
+        <div id="u5397_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5398" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5399" class="ax_default _图片">
+        <img id="u5399_img" class="img " src="images/随机点名/u5021.png"/>
+        <!-- Unnamed () -->
+        <div id="u5400" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5401" class="ax_default _图片">
+        <img id="u5401_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5402" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5403" class="ax_default label">
+        <div id="u5403_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5404" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5405" class="ax_default _图片">
+        <img id="u5405_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5406" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5407" class="ax_default label">
+        <div id="u5407_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5408" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5409" class="ax_default _图片">
+        <img id="u5409_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5410" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5411" class="ax_default label">
+        <div id="u5411_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5412" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5413" class="ax_default _图片">
+        <img id="u5413_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5414" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5415" class="ax_default label">
+        <div id="u5415_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5416" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5417" class="ax_default _图片">
+        <img id="u5417_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5418" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5419" class="ax_default label">
+        <div id="u5419_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5420" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5421" class="ax_default _图片">
+        <img id="u5421_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5422" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5423" class="ax_default label">
+        <div id="u5423_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5424" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5425" class="ax_default _图片">
+        <img id="u5425_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5426" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5427" class="ax_default label">
+        <div id="u5427_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5428" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5429" class="ax_default _图片">
+        <img id="u5429_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5430" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5431" class="ax_default label">
+        <div id="u5431_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5432" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5433" class="ax_default _图片">
+        <img id="u5433_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5434" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5435" class="ax_default label">
+        <div id="u5435_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5436" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5437" class="ax_default _图片">
+        <img id="u5437_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5438" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5439" class="ax_default label">
+        <div id="u5439_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5440" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5441" class="ax_default _图片">
+        <img id="u5441_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5442" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5443" class="ax_default label">
+        <div id="u5443_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5444" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5445" class="ax_default _图片">
+        <img id="u5445_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5446" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5447" class="ax_default label">
+        <div id="u5447_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5448" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5449" class="ax_default label">
+        <div id="u5449_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5450" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5451" class="ax_default _图片">
+        <img id="u5451_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5452" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5453" class="ax_default label">
+        <div id="u5453_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5454" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5455" class="ax_default _图片">
+        <img id="u5455_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5456" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5457" class="ax_default label">
+        <div id="u5457_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5458" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5459" class="ax_default _图片">
+        <img id="u5459_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5460" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5461" class="ax_default label">
+        <div id="u5461_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5462" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5463" class="ax_default _图片">
+        <img id="u5463_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5464" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5465" class="ax_default label">
+        <div id="u5465_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5466" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5467" class="ax_default _图片">
+        <img id="u5467_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5468" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5469" class="ax_default label">
+        <div id="u5469_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5470" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5471" class="ax_default _图片">
+        <img id="u5471_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5472" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5473" class="ax_default label">
+        <div id="u5473_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5474" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5475" class="ax_default _图片">
+        <img id="u5475_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5476" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5477" class="ax_default label">
+        <div id="u5477_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5478" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5479" class="ax_default _图片">
+        <img id="u5479_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5480" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5481" class="ax_default label">
+        <div id="u5481_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5482" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5483" class="ax_default _图片">
+        <img id="u5483_img" class="img " src="images/随机点名/u4977.png"/>
+        <!-- Unnamed () -->
+        <div id="u5484" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5485" class="ax_default label">
+        <div id="u5485_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5486" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5487" class="ax_default label">
+        <div id="u5487_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5488" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">王明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5489" class="ax_default _图片">
+        <img id="u5489_img" class="img " src="images/随机点名/u5021.png"/>
+        <!-- Unnamed () -->
+        <div id="u5490" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5491" class="ax_default default_button">
+        <div id="u5491_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5492" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">开始</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5493" class="ax_default box_1">
+        <div id="u5493_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5494" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5495" class="ax_default _三级标题">
+        <div id="u5495_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5496" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">随机点名</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5497" class="ax_default default_button">
+        <div id="u5497_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5498" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">退出</span></p>
+        </div>
+      </div>
+
+      <!-- dianming (动态面板) -->
+      <div id="u5499" class="ax_default ax_default_hidden" data-label="dianming" style="display: none; visibility: hidden">
+        <div id="u5499_state0" class="panel_state" data-label="State1">
+          <div id="u5499_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u5500" class="ax_default box_2">
+              <div id="u5500_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u5501" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u5502" class="ax_default _三级标题">
+              <div id="u5502_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u5503" class="text" style="visibility: visible;">
+                <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">同学你很幸运的被点中了，请回答问题吧!</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (图片) -->
+            <div id="u5504" class="ax_default _图片">
+              <img id="u5504_img" class="img " src="images/随机点名/u4977.png"/>
+              <!-- Unnamed () -->
+              <div id="u5505" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u5506" class="ax_default _三级标题">
+              <div id="u5506_div" class=""></div>
+              <!-- Unnamed () -->
+              <div id="u5507" class="text" style="visibility: visible;">
+                <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">王明</span></p>
+              </div>
+            </div>
+
+            <!-- guanbi (占位符) -->
+            <div id="u5508" class="ax_default placeholder" data-label="guanbi">
+              <img id="u5508_img" class="img " src="images/随机点名效果-1（优先采用）/guanbi_u5508.png"/>
+              <!-- Unnamed () -->
+              <div id="u5509" class="text" style="display: none; visibility: hidden">
+                <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5510" class="ax_default _三级标题">
+        <div id="u5510_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5511" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师点击随机点名按钮，类似于游戏化中的转盘方式，转动速度采用先快后慢，转动时间大概控制在5S到8S之间。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">点完一次之后，从被点同学的下一个开始下一轮点名。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5512" class="ax_default _三级标题">
+        <div id="u5512_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5513" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">程序保证未连接人数（请假没来上课的同学）不会被点到</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5514" class="ax_default _三级标题">
+        <div id="u5514_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5515" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">当老师点击退出则返回花名册界面，老师下一次打开从第一个学生开始</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5516" class="ax_default _三级标题">
+        <div id="u5516_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5517" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">在投影端花名册由于分屏设计不会出现，当老师点击了随机点名之后，随机点名界面才会在投影端呈现</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5518" class="ax_default _三级标题">
+        <div id="u5518_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5519" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">被点到学生的提醒只有在老师端和投影端出现，在学生端没有提醒</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5520" class="ax_default _三级标题">
+        <div id="u5520_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5521" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">花名册学生的排列为10*6，即横向呈现10个，竖排最多可以有6排。开始按钮不受学生人数影响</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5522" class="ax_default _三级标题">
+        <div id="u5522_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5523" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">当开始按钮被点击了之后，呈现不可点状态。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5524" class="ax_default default_button">
+        <div id="u5524_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5525" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">开始</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5526" class="ax_default _三级标题">
+        <div id="u5526_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5527" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">当被点人的弹出框关闭之后，开始按钮恢复可点击状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5528" class="ax_default box_1">
+        <div id="u5528_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5529" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5530" class="ax_default box_1">
+        <div id="u5530_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5531" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5532" class="ax_default box_1">
+        <div id="u5532_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5533" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5534" class="ax_default box_1">
+        <div id="u5534_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5535" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5536" class="ax_default box_1">
+        <div id="u5536_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5537" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5538" class="ax_default box_1">
+        <div id="u5538_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5539" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">6</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5540" class="ax_default box_1">
+        <div id="u5540_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5541" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#FFFFFF;">7</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

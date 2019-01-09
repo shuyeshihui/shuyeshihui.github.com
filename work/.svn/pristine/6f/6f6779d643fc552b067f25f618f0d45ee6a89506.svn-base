@@ -1,0 +1,609 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>个人中心界面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/个人中心界面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/个人中心界面/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1488" class="ax_default _形状">
+        <div id="u1488_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1489" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1490" class="ax_default _图片">
+        <img id="u1490_img" class="img " src="images/关注做为主tab/u28.png"/>
+        <!-- Unnamed () -->
+        <div id="u1491" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1492" class="ax_default _形状">
+        <div id="u1492_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1493" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1494" class="ax_default _图片">
+        <img id="u1494_img" class="img " src="images/个人中心界面/u1494.png"/>
+        <!-- Unnamed () -->
+        <div id="u1495" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1496" class="ax_default _文本段落">
+        <div id="u1496_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1497" class="text">
+          <p><span>用户昵称 &gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1498" class="ax_default _文本段落">
+        <div id="u1498_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1499" class="text">
+          <p><span>个性签名</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1500" class="ax_default _文本段落">
+        <div id="u1500_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1501" class="text">
+          <p><span>会员标识、达人标识、公众号标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1502" class="ax_default _文本段落">
+        <div id="u1502_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1503" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1504" class="ax_default _文本段落">
+        <div id="u1504_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1505" class="text">
+          <p><span>11111</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1506" class="ax_default _文本段落">
+        <div id="u1506_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1507" class="text">
+          <p><span>粉丝</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1508" class="ax_default _文本段落">
+        <div id="u1508_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1509" class="text">
+          <p><span>11111</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1510" class="ax_default _文本段落">
+        <div id="u1510_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1511" class="text">
+          <p><span>频道</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1512" class="ax_default _文本段落">
+        <div id="u1512_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1513" class="text">
+          <p><span>11111</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1514" class="ax_default _文本段落">
+        <div id="u1514_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1515" class="text">
+          <p><span>相册</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1516" class="ax_default _文本段落">
+        <div id="u1516_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1517" class="text">
+          <p><span>11111</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1518" class="ax_default _图片">
+        <img id="u1518_img" class="img " src="images/个人中心界面/u1518.png"/>
+        <!-- Unnamed () -->
+        <div id="u1519" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1520" class="ax_default _文本段落">
+        <div id="u1520_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1521" class="text">
+          <p><span>收藏</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1522" class="ax_default _文本段落">
+        <div id="u1522_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1523" class="text">
+          <p><span>11111</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1524" class="ax_default _图片">
+        <img id="u1524_img" class="img " src="images/个人中心界面/u1524.png"/>
+        <!-- Unnamed () -->
+        <div id="u1525" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1526" class="ax_default label">
+        <div id="u1526_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1527" class="text">
+          <p><span>地区</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1529" class="ax_default _形状">
+        <div id="u1529_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1530" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1531" class="ax_default _图片">
+        <img id="u1531_img" class="img " src="images/关注做为主tab/u28.png"/>
+        <!-- Unnamed () -->
+        <div id="u1532" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u1533" class="ax_default _连接线">
+        <img id="u1533_seg0" class="img " src="images/个人中心界面/u1533_seg0.png" alt="u1533_seg0"/>
+        <img id="u1533_seg1" class="img " src="images/兴趣分类feed匹配推荐规则/u1215_seg3.png" alt="u1533_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1534" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1535" class="ax_default _图片">
+        <img id="u1535_img" class="img " src="images/个人中心界面/u1535.png"/>
+        <!-- Unnamed () -->
+        <div id="u1536" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1537" class="ax_default box_1">
+        <div id="u1537_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1538" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1539" class="ax_default _图片">
+        <img id="u1539_img" class="img " src="images/h5榜单页面/u1358.png"/>
+        <!-- Unnamed () -->
+        <div id="u1540" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1541" class="ax_default label">
+        <div id="u1541_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1542" class="text">
+          <p><span>编辑资料</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1543" class="ax_default box_1">
+        <div id="u1543_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1544" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1545" class="ax_default label">
+        <div id="u1545_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1546" class="text">
+          <p><span>性别</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u1547" class="ax_default ellipse">
+        <img id="u1547_img" class="img " src="images/个人中心界面/u1547.png"/>
+        <!-- Unnamed () -->
+        <div id="u1548" class="text">
+          <p><span>√</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1549" class="ax_default label">
+        <div id="u1549_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1550" class="text">
+          <p><span>未知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u1551" class="ax_default ellipse">
+        <img id="u1551_img" class="img " src="images/个人中心界面/u1547.png"/>
+        <!-- Unnamed () -->
+        <div id="u1552" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1553" class="ax_default label">
+        <div id="u1553_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1554" class="text">
+          <p><span>男</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u1555" class="ax_default ellipse">
+        <img id="u1555_img" class="img " src="images/个人中心界面/u1547.png"/>
+        <!-- Unnamed () -->
+        <div id="u1556" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1557" class="ax_default label">
+        <div id="u1557_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1558" class="text">
+          <p><span>女</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1559" class="ax_default box_1">
+        <div id="u1559_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1560" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1561" class="ax_default label">
+        <div id="u1561_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1562" class="text">
+          <p><span>个性签名</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1563" class="ax_default _图片">
+        <img id="u1563_img" class="img " src="images/个人中心界面/u1494.png"/>
+        <!-- Unnamed () -->
+        <div id="u1564" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1565" class="ax_default _文本段落">
+        <div id="u1565_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1566" class="text">
+          <p><span>会员标识、达人标识、公众号标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1567" class="ax_default _文本段落">
+        <div id="u1567_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1568" class="text">
+          <p><span>用户昵称 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u1569" class="ax_default _连接线">
+        <img id="u1569_seg0" class="img " src="images/个人中心界面/u1569_seg0.png" alt="u1569_seg0"/>
+        <img id="u1569_seg1" class="img " src="images/个人中心界面/u1569_seg1.png" alt="u1569_seg1"/>
+        <img id="u1569_seg2" class="img " src="images/兴趣分类feed匹配推荐规则/u1215_seg3.png" alt="u1569_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u1570" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1572" class="ax_default _形状">
+        <div id="u1572_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1573" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1574" class="ax_default _图片">
+        <img id="u1574_img" class="img " src="images/关注做为主tab/u28.png"/>
+        <!-- Unnamed () -->
+        <div id="u1575" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1576" class="ax_default box_1">
+        <div id="u1576_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1577" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1578" class="ax_default label">
+        <div id="u1578_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1579" class="text">
+          <p><span>关闭</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1580" class="ax_default label">
+        <div id="u1580_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1581" class="text">
+          <p><span>YHOUSE用户标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1582" class="ax_default box_1">
+        <div id="u1582_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1583" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1584" class="ax_default box_1">
+        <div id="u1584_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1585" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1586" class="ax_default box_1">
+        <div id="u1586_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1587" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1588" class="ax_default label">
+        <div id="u1588_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1589" class="text">
+          <p><span>生活大师号标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1590" class="ax_default label">
+        <div id="u1590_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1591" class="text">
+          <p><span>生活大师的定义：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1592" class="ax_default label">
+        <div id="u1592_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1593" class="text">
+          <p><span>如何成为生活大师：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1594" class="ax_default label">
+        <div id="u1594_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1595" class="text">
+          <p><span>社区达人标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1596" class="ax_default label">
+        <div id="u1596_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1597" class="text">
+          <p><span>社区达人的定义：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1598" class="ax_default label">
+        <div id="u1598_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1599" class="text">
+          <p><span>如何成为社区达人：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1600" class="ax_default label">
+        <div id="u1600_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1601" class="text">
+          <p><span>YHOUSE会员标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1602" class="ax_default label">
+        <div id="u1602_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1603" class="text">
+          <p><span>YHOUSE会员的定义：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1604" class="ax_default label">
+        <div id="u1604_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1605" class="text">
+          <p><span>如何成为YHOUSE会员：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1606" class="ax_default button">
+        <div id="u1606_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1607" class="text">
+          <p><span>点亮会员标识</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u1608" class="ax_default text_area">
+        <textarea id="u1608_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1609" class="ax_default _文本段落">
+        <div id="u1609_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1610" class="text">
+          <p><span>默认生成一段个性签名，最多只有50个字。</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

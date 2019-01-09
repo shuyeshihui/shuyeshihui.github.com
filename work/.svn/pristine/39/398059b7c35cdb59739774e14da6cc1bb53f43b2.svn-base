@@ -1,0 +1,155 @@
+﻿$axure.loadCurrentPage({
+  "url":"抢单成功页.html",
+  "generationDate":new Date(1428391089484.27),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d6cca092b0dd4e308e2c7f667cdde913",
+    "type":"Axure:Page",
+    "name":"抢单成功页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1f1b5c237c4d47f9be473f01d569cfa1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"76651aa6a33a4866994e8d7ceaecf535",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"976de8c24152482599e5e36a2d056699",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":1},
+            "size":{
+              "width":370,
+              "height":552},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7e3623ddd544376a1ef6737d8605b40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":1},
+                "size":{
+                  "width":370,
+                  "height":552},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u10.png"}},
+{
+          "id":"792353ccb7b84686b0cc7b28a509245b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":29,
+              "y":234},
+            "size":{
+              "width":261,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6259d5c9226b423ebaa532be3b1ab231",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":29,
+                  "y":234},
+                "size":{
+                  "width":261,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1f1b5c237c4d47f9be473f01d569cfa1":{
+      "scriptId":"u0"},
+    "76651aa6a33a4866994e8d7ceaecf535":{
+      "scriptId":"u1"},
+    "976de8c24152482599e5e36a2d056699":{
+      "scriptId":"u2"},
+    "c7e3623ddd544376a1ef6737d8605b40":{
+      "scriptId":"u3"},
+    "792353ccb7b84686b0cc7b28a509245b":{
+      "scriptId":"u4"},
+    "6259d5c9226b423ebaa532be3b1ab231":{
+      "scriptId":"u5"}}});

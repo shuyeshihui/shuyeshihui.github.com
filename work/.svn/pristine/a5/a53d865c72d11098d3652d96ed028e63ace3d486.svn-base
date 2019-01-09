@@ -1,0 +1,923 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>推送设置</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/推送设置/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/推送设置/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u1" class="ax_形状">
+        <img id="u1_img" class="img " src="images/消息设置/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u2" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u3" class="ax_image">
+        <img id="u3_img" class="img " src="images/消息设置/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u4" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u5" class="ax_形状">
+        <img id="u5_img" class="img " src="images/个人中心设置_消息设置/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u6" class="text">
+          <p><span>消息设置</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u7" class="ax_文本段落">
+        <img id="u7_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u8" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u9" class="ax_形状">
+        <img id="u9_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u10" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u11" class="ax_文本段落">
+        <img id="u11_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u12" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u13" class="ax_形状">
+        <img id="u13_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u14" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u15" class="ax_文本段落">
+        <img id="u15_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u16" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u17" class="ax_形状">
+        <img id="u17_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u18" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u19" class="ax_文本段落">
+        <img id="u19_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u20" class="text">
+          <p><span>系统通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u21" class="ax_image">
+        <img id="u21_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u22" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u23" class="ax_image">
+        <img id="u23_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u24" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u25" class="ax_文本段落">
+        <img id="u25_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u26" class="text">
+          <p><span>有人关注、评论你或者</span><span>有新的</span><span>系统通知</span><span>，你会收到推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u27" class="ax_形状">
+        <img id="u27_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u28" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u29" class="ax_文本段落">
+        <img id="u29_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u30" class="text">
+          <p><span>接受推送通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u31" class="ax_文本段落">
+        <img id="u31_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u32" class="text">
+          <p><span>已开启</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u33" class="ax_文本段落">
+        <img id="u33_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u34" class="text">
+          <p><span>&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u36" class="ax_形状">
+        <img id="u36_img" class="img " src="images/消息设置/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u37" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u38" class="ax_image">
+        <img id="u38_img" class="img " src="images/消息设置/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u39" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u40" class="ax_形状">
+        <img id="u40_img" class="img " src="images/个人中心设置_消息设置/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u41" class="text">
+          <p><span>消息设置</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u42" class="ax_文本段落">
+        <img id="u42_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u43" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u44" class="ax_形状">
+        <img id="u44_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u45" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u46" class="ax_文本段落">
+        <img id="u46_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u47" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u48" class="ax_形状">
+        <img id="u48_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u49" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u50" class="ax_文本段落">
+        <img id="u50_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u51" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u52" class="ax_形状">
+        <img id="u52_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u53" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u54" class="ax_文本段落">
+        <img id="u54_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u55" class="text">
+          <p><span>系统通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u56" class="ax_image">
+        <img id="u56_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u57" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u58" class="ax_image">
+        <img id="u58_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u59" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u60" class="ax_文本段落">
+        <img id="u60_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u61" class="text">
+          <p><span>有人关注、评论你或者</span><span>有新的</span><span>系统通知</span><span>，你会收到推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u62" class="ax_形状">
+        <img id="u62_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u63" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u64" class="ax_文本段落">
+        <img id="u64_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u65" class="text">
+          <p><span>接受推送通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u66" class="ax_文本段落">
+        <img id="u66_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u67" class="text">
+          <p><span>已</span><span>关闭</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u68" class="ax_文本段落">
+        <img id="u68_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u69" class="text">
+          <p><span>&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u70" class="ax_文本段落">
+        <img id="u70_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u71" class="text">
+          <p><span>&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u72" class="ax_connector">
+        <img id="u72_seg0" class="img " src="images/推送设置/u72_seg0.png" alt="u72_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u73" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u74" class="ax_connector">
+        <img id="u74_seg0" class="img " src="images/推送设置/u74_seg0.png" alt="u74_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u75" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u77" class="ax_形状">
+        <img id="u77_img" class="img " src="images/消息设置/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u78" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u79" class="ax_image">
+        <img id="u79_img" class="img " src="images/消息设置/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u80" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u81" class="ax_image">
+        <img id="u81_img" class="img " src="images/推送设置/u81.png"/>
+        <!-- Unnamed () -->
+        <div id="u82" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u84" class="ax_形状">
+        <img id="u84_img" class="img " src="images/消息设置/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u85" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u86" class="ax_image">
+        <img id="u86_img" class="img " src="images/消息设置/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u87" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u88" class="ax_形状">
+        <img id="u88_img" class="img " src="images/个人中心设置_消息设置/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u89" class="text">
+          <p><span>系统</span><span>通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u90" class="ax_文本段落">
+        <img id="u90_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u91" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u92" class="ax_形状">
+        <img id="u92_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u93" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u94" class="ax_文本段落">
+        <img id="u94_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u95" class="text">
+          <p><span>所有</span><span>系统通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u96" class="ax_文本段落">
+        <img id="u96_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u97" class="text">
+          <p><span>新消息通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u98" class="ax_文本段落">
+        <img id="u98_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u99" class="text">
+          <p><span>新消息通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u100" class="ax_image">
+        <img id="u100_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u101" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u102" class="ax_文本段落">
+        <img id="u102_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u103" class="text">
+          <p><span>通知项目</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u104" class="ax_形状">
+        <img id="u104_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u105" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u106" class="ax_文本段落">
+        <img id="u106_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u107" class="text">
+          <p><span>被编辑上</span><span></span><span>精选通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u108" class="ax_形状">
+        <img id="u108_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u109" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u110" class="ax_文本段落">
+        <img id="u110_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u111" class="text">
+          <p><span>关注的人直播提醒通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u112" class="ax_image">
+        <img id="u112_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u113" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u114" class="ax_image">
+        <img id="u114_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u115" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u117" class="ax_形状">
+        <img id="u117_img" class="img " src="images/消息设置/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u118" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u119" class="ax_image">
+        <img id="u119_img" class="img " src="images/消息设置/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u120" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u121" class="ax_形状">
+        <img id="u121_img" class="img " src="images/个人中心设置_消息设置/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u122" class="text">
+          <p><span>系统</span><span>通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u123" class="ax_文本段落">
+        <img id="u123_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u124" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u125" class="ax_形状">
+        <img id="u125_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u126" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u127" class="ax_文本段落">
+        <img id="u127_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u128" class="text">
+          <p><span>所有</span><span>系统通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u129" class="ax_image">
+        <img id="u129_img" class="img " src="images/推送设置/u129.png"/>
+        <!-- Unnamed () -->
+        <div id="u130" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u131" class="ax_connector">
+        <img id="u131_seg0" class="img " src="images/推送设置/u74_seg0.png" alt="u131_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u132" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u133" class="ax_文本段落">
+        <img id="u133_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u134" class="text">
+          <p><span>要开启或关闭推送通知，</span><span>请</span><span>在</span><span>“设置”—“通知”</span><span>中</span><span>找到YHOUSE进行</span><span>设置</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u135" class="ax_文本段落">
+        <img id="u135_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u136" class="text">
+          <p><span>如果推送通知</span><span>关闭了</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u137" class="ax_文本段落">
+        <img id="u137_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u138" class="text">
+          <p><span style="color:#333333;">1、后台也需要针对评论、关注、系统通知做配置</span><span style="color:#333333;">，</span><span style="color:#333333;">可以开启或者关闭全平台的push通知权限；</span></p><p><span style="color:#333333;">&nbsp;</span></p><p><span style="color:#333333;">2、</span><span style="color:#333333;">数据库需要可以配置关闭全平台用户的赞/关注的push通知设置。如果</span><span style="color:#333333;"></span><span style="color:#333333;">默认关闭了全平台用户的赞</span><span style="color:#333333;">/关注</span><span style="color:#333333;"></span><span style="color:#333333;">的push通知，则全平台用户不会收到点赞</span><span style="color:#333333;">/关注</span><span style="color:#333333;"></span><span style="color:#333333;">的push通知，但是用户</span><span style="color:#333333;">自己主动在这个界面开启了还是会收到；</span></p><p><span style="color:#333333;">&nbsp;</span></p><p><span style="color:#333333;">3、系统通知类型目前有：</span></p><p><span style="color:#333333;">a、</span><span style="color:#333333;">信息</span><span style="color:#333333;">被编辑</span><span style="color:#333333;">设为热门会发一条系统通知</span><span style="color:#333333;">的push</span><span style="color:#333333;"></span><span style="color:#333333;">；</span></p><p><span style="color:#333333;">b</span><span style="color:#333333;">、关注的人直播提醒通知会发一条系统通知</span><span style="color:#333333;">的push</span><span style="color:#333333;"></span><span style="color:#333333;">；</span></p><p><span style="color:#333333;">c</span><span style="color:#333333;">、YHOUSE官方通知会发一条系统通知</span><span style="color:#333333;">的push</span><span style="color:#333333;"></span><span style="color:#333333;">；</span></p><p><span style="color:#333333;">&nbsp;</span></p><p><span style="color:#333333;">4、被编辑上精选：用户的图文或录播被编辑在后台设为了热门会触发通知；</span><span style="color:#333333;">点击push跳转到该条图文的详情</span></p><p><span style="color:#333333;">关注的人直播：用户关注的人开始直播了会触发通知；</span><span style="color:#333333;">点击push跳转到直播间界面</span></p><p><span style="color:#333333;">YHOUSE官方通知：指的是运营人员在后台发的系统通知</span></p><p><span style="color:#333333;">后台也可以配置这四种push的开启和关闭；</span><span style="color:#333333;">点击跳转到</span><span style="color:#333333;">后台设置的URL</span></p><p><span style="color:#333333;">&nbsp;</span></p><p><span style="color:#BCBCBC;">5、防骚扰机制：</span></p><p><span style="color:#BCBCBC;">a、</span><span style="color:#BCBCBC;">1小时以内用户收到三条push未打开应用看，今天一天都不会收到APP</span><span style="color:#BCBCBC;">&nbsp;</span><span style="color:#BCBCBC;">push。</span><span style="color:#BCBCBC;">直到打开应用为止。举例：</span><span style="color:#BCBCBC;">假设一个小时内如果</span><span style="color:#BCBCBC;">收到的</span><span style="color:#BCBCBC;">三</span><span style="color:#BCBCBC;">条评论的push用户都没有打开APP看，</span><span style="color:#BCBCBC;">今天一天都</span><span style="color:#BCBCBC;">不会再发评论的push。直到</span><span style="color:#BCBCBC;">用户打开APP为止。</span></p><p><span style="color:#BCBCBC;">b、</span><span style="color:#BCBCBC;">push包含</span><span style="color:#BCBCBC;">评论</span><span style="color:#BCBCBC;">、</span><span style="color:#BCBCBC;">关注</span><span style="color:#BCBCBC;">，系统通知等</span><span style="color:#BCBCBC;">，</span><span style="color:#BCBCBC;">都</span><span style="color:#BCBCBC;">做防骚扰机制</span></p><p><span style="color:#BCBCBC;">c、</span><span style="color:#BCBCBC;">点赞和</span><span style="color:#BCBCBC;">关注做折叠推送，延后一个小时推送。一天只发一条点赞推送和一条关注推送。</span></p><p><span style="color:#333333;">&nbsp;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u139" class="ax_形状">
+        <img id="u139_img" class="img " src="images/推送设置/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u140" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u141" class="ax_文本段落">
+        <img id="u141_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u142" class="text">
+          <p><span>YHOUSE官方通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u143" class="ax_image">
+        <img id="u143_img" class="img " src="images/推送设置/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u144" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u145" class="ax_形状">
+        <img id="u145_img" class="img " src="images/推送设置/u145.png"/>
+        <!-- Unnamed () -->
+        <div id="u146" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u147" class="ax_形状">
+        <img id="u147_img" class="img " src="images/推送设置/u145.png"/>
+        <!-- Unnamed () -->
+        <div id="u148" class="text">
+          <p><span>点赞</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u149" class="ax_形状">
+        <img id="u149_img" class="img " src="images/推送设置/u145.png"/>
+        <!-- Unnamed () -->
+        <div id="u150" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u151" class="ax_形状">
+        <img id="u151_img" class="img " src="images/推送设置/u151.png"/>
+        <!-- Unnamed () -->
+        <div id="u152" class="text">
+          <p><span>被编辑上精选</span></p><p><span>通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u153" class="ax_形状">
+        <img id="u153_img" class="img " src="images/推送设置/u153.png"/>
+        <!-- Unnamed () -->
+        <div id="u154" class="text">
+          <p><span>应用内通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u155" class="ax_形状">
+        <img id="u155_img" class="img " src="images/推送设置/u155.png"/>
+        <!-- Unnamed () -->
+        <div id="u156" class="text">
+          <p><span>PUSH</span><span>通知</span><span>，用户可针对某个功能设置开启或关闭；后台</span><span>可针对某个功能</span><span>配置开启或关闭</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u157" class="ax_形状">
+        <img id="u157_img" class="img " src="images/推送设置/u145.png"/>
+        <!-- Unnamed () -->
+        <div id="u158" class="text">
+          <p><span>系统通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u159" class="ax_形状">
+        <img id="u159_img" class="img " src="images/推送设置/u151.png"/>
+        <!-- Unnamed () -->
+        <div id="u160" class="text">
+          <p><span>关注的人直播</span></p><p><span>通知</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u161" class="ax_connector">
+        <img id="u161_seg0" class="img " src="images/推送设置/u161_seg0.png" alt="u161_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u162" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u163" class="ax_connector">
+        <img id="u163_seg0" class="img " src="images/推送设置/u161_seg0.png" alt="u163_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u164" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u165" class="ax_connector">
+        <img id="u165_seg0" class="img " src="images/推送设置/u165_seg0.png" alt="u165_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u166" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u167" class="ax_connector">
+        <img id="u167_seg0" class="img " src="images/推送设置/u165_seg0.png" alt="u167_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u168" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u169" class="ax_connector">
+        <img id="u169_seg0" class="img " src="images/推送设置/u169_seg0.png" alt="u169_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u170" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u171" class="ax_connector">
+        <img id="u171_seg0" class="img " src="images/推送设置/u171_seg0.png" alt="u171_seg0"/>
+        <img id="u171_seg1" class="img " src="images/推送设置/u171_seg1.png" alt="u171_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u172" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u173" class="ax_形状">
+        <img id="u173_img" class="img " src="images/推送设置/u145.png"/>
+        <!-- Unnamed () -->
+        <div id="u174" class="text">
+          <p><span>后台发的系统</span><span>消息</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u175" class="ax_connector">
+        <img id="u175_seg0" class="img " src="images/推送设置/u175_seg0.png" alt="u175_seg0"/>
+        <img id="u175_seg1" class="img " src="images/推送设置/u175_seg1.png" alt="u175_seg1"/>
+        <img id="u175_seg2" class="img " src="images/推送设置/u175_seg2.png" alt="u175_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u176" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u177" class="ax_connector">
+        <img id="u177_seg0" class="img " src="images/推送设置/u177_seg0.png" alt="u177_seg0"/>
+        <img id="u177_seg1" class="img " src="images/推送设置/u177_seg1.png" alt="u177_seg1"/>
+        <img id="u177_seg2" class="img " src="images/推送设置/u177_seg2.png" alt="u177_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u178" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u179" class="ax_形状">
+        <img id="u179_img" class="img " src="images/推送设置/u179.png"/>
+        <!-- Unnamed () -->
+        <div id="u180" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u181" class="ax_文本段落">
+        <img id="u181_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u182" class="text">
+          <p><span>代表已有功能</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u183" class="ax_形状">
+        <img id="u183_img" class="img " src="images/推送设置/u183.png"/>
+        <!-- Unnamed () -->
+        <div id="u184" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u185" class="ax_文本段落">
+        <img id="u185_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u186" class="text">
+          <p><span>代表要做的功能</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u187" class="ax_形状">
+        <img id="u187_img" class="img " src="images/推送设置/u187.png"/>
+        <!-- Unnamed () -->
+        <div id="u188" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u189" class="ax_形状">
+        <img id="u189_img" class="img " src="images/推送设置/u189.png"/>
+        <!-- Unnamed () -->
+        <div id="u190" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u191" class="ax_connector">
+        <img id="u191_seg0" class="img " src="images/推送设置/u169_seg0.png" alt="u191_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u192" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u193" class="ax_connector">
+        <img id="u193_seg0" class="img " src="images/推送设置/u169_seg0.png" alt="u193_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u194" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

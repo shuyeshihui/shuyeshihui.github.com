@@ -1,0 +1,155 @@
+﻿$axure.loadCurrentPage({
+  "url":"意见反馈.html",
+  "generationDate":new Date(1428391090183.9),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"9d96a983076841dbae413a0b49d7b4b9",
+    "type":"Axure:Page",
+    "name":"意见反馈",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f3a259437ff94616b3f050867726818d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f2ca36c95d9c4d91ab92566c8fae1302",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"b273ab1d328549f49a5ac06cc14331c2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":1},
+            "size":{
+              "width":370,
+              "height":552},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ae0f7f7cc2e64f579845014c92ea7f63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":1},
+                "size":{
+                  "width":370,
+                  "height":552},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u10.png"}},
+{
+          "id":"eefb5f378b854a12bf1cee9fe550928f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":109.5,
+              "y":232},
+            "size":{
+              "width":101,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7313b57c87bf482eb1e0c1fa12684180",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":109.5,
+                  "y":232},
+                "size":{
+                  "width":101,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f3a259437ff94616b3f050867726818d":{
+      "scriptId":"u0"},
+    "f2ca36c95d9c4d91ab92566c8fae1302":{
+      "scriptId":"u1"},
+    "b273ab1d328549f49a5ac06cc14331c2":{
+      "scriptId":"u2"},
+    "ae0f7f7cc2e64f579845014c92ea7f63":{
+      "scriptId":"u3"},
+    "eefb5f378b854a12bf1cee9fe550928f":{
+      "scriptId":"u4"},
+    "7313b57c87bf482eb1e0c1fa12684180":{
+      "scriptId":"u5"}}});

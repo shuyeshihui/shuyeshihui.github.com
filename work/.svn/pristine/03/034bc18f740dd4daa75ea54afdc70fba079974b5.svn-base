@@ -1,0 +1,1077 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>发现模块</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/发现模块/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/发现模块/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Image) -->
+      <div id="u0" class="ax_image">
+        <img id="u0_img" class="img " src="images/发现模块/u0.png"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u2" class="ax_形状">
+        <img id="u2_img" class="img " src="images/发现模块/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u4" class="ax_形状">
+        <img id="u4_img" class="img " src="images/发现模块/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u6" class="ax_文本段落">
+        <img id="u6_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u7" class="text">
+          <p><span>话题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u8" class="ax_形状">
+        <img id="u8_img" class="img " src="images/发现模块/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u9" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u10" class="ax_文本段落">
+        <img id="u10_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u11" class="text">
+          <p><span>附近</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u12" class="ax_形状">
+        <img id="u12_img" class="img " src="images/发现模块/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u13" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u14" class="ax_文本段落">
+        <img id="u14_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span>达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u16" class="ax_形状">
+        <img id="u16_img" class="img " src="images/发现模块/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u17" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u18" class="ax_文本段落">
+        <img id="u18_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u19" class="text">
+          <p><span>攻略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u20" class="ax_形状">
+        <img id="u20_img" class="img " src="images/发现模块/u20.png"/>
+        <!-- Unnamed () -->
+        <div id="u21" class="text">
+          <p><span>&nbsp; 热门推荐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u22" class="ax_形状">
+        <img id="u22_img" class="img " src="images/发现模块/u22.png"/>
+        <!-- Unnamed () -->
+        <div id="u23" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u24" class="ax_形状">
+        <img id="u24_img" class="img " src="images/发现模块/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u25" class="text">
+          <p><span>广告banner图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u26" class="ax_image">
+        <img id="u26_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u27" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u28" class="ax_文本段落">
+        <img id="u28_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u29" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u30" class="ax_文本段落">
+        <img id="u30_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u31" class="text">
+          <p><span>时间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u32" class="ax_形状">
+        <img id="u32_img" class="img " src="images/发现模块/u32.png"/>
+        <!-- Unnamed () -->
+        <div id="u33" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u34" class="ax_形状">
+        <img id="u34_img" class="img " src="images/发现模块/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u35" class="text">
+          <p><span>图2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u36" class="ax_形状">
+        <img id="u36_img" class="img " src="images/发现模块/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u37" class="text">
+          <p><span>图1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u38" class="ax_文本段落">
+        <img id="u38_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u39" class="text">
+          <p><span>用户的想法： 宁可食无肉，不可居无竹。 无肉令人瘦，无竹令人俗。 人瘦尚可肥，士俗不可医。 宁可食无肉，不可居无竹</span><span>。</span><span>宁可食无肉，不可居无竹。 无肉令人瘦，无竹令人</span><span>，</span><span>宁可食无肉</span><span>..</span><span>.</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u40" class="ax_文本段落">
+        <img id="u40_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u41" class="text">
+          <p><span style="text-decoration:underline;">查看全部</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u42" class="ax_形状">
+        <img id="u42_img" class="img " src="images/发布过程—优化版（以后做）/u30.png"/>
+        <!-- Unnamed () -->
+        <div id="u43" class="text">
+          <p><span>点赞</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u44" class="ax_形状">
+        <img id="u44_img" class="img " src="images/发布过程—优化版（以后做）/u30.png"/>
+        <!-- Unnamed () -->
+        <div id="u45" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u46" class="ax_文本段落">
+        <img id="u46_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u47" class="text">
+          <p><span>昵称1：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u48" class="ax_文本段落">
+        <img id="u48_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u49" class="text">
+          <p><span>评论1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u50" class="ax_文本段落">
+        <img id="u50_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u51" class="text">
+          <p><span>昵称</span><span>2</span><span> 回复&nbsp; 昵称</span><span>1</span><span> ：评论2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u52" class="ax_文本段落">
+        <img id="u52_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u53" class="text">
+          <p><span>昵称</span><span>3</span><span>：</span><span>评论3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u54" class="ax_文本段落">
+        <img id="u54_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u55" class="text">
+          <p><span>查看全部30条评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u56" class="ax_水平线">
+        <img id="u56_start" class="img " src="resources/images/transparent.gif" alt="u56_start"/>
+        <img id="u56_end" class="img " src="resources/images/transparent.gif" alt="u56_end"/>
+        <img id="u56_line" class="img " src="images/发现模块/u56_line.png" alt="u56_line"/>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u57" class="ax_形状">
+        <img id="u57_img" class="img " src="images/发现模块/u57.png"/>
+        <!-- Unnamed () -->
+        <div id="u58" class="text">
+          <p><span>&nbsp; 达人推荐</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u59" class="ax_image">
+        <img id="u59_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u60" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u61" class="ax_文本段落">
+        <img id="u61_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u62" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u63" class="ax_文本段落">
+        <img id="u63_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u64" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u65" class="ax_image">
+        <img id="u65_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u66" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u67" class="ax_文本段落">
+        <img id="u67_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u68" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u69" class="ax_文本段落">
+        <img id="u69_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u70" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u71" class="ax_image">
+        <img id="u71_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u72" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u73" class="ax_文本段落">
+        <img id="u73_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u74" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u75" class="ax_文本段落">
+        <img id="u75_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u76" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u77" class="ax_image">
+        <img id="u77_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u78" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u79" class="ax_文本段落">
+        <img id="u79_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u80" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u81" class="ax_文本段落">
+        <img id="u81_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u82" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u83" class="ax_image">
+        <img id="u83_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u84" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u85" class="ax_文本段落">
+        <img id="u85_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u86" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u87" class="ax_文本段落">
+        <img id="u87_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u88" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u89" class="ax_image">
+        <img id="u89_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u90" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u91" class="ax_文本段落">
+        <img id="u91_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u92" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u93" class="ax_文本段落">
+        <img id="u93_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u94" class="text">
+          <p><span>美食达人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u95" class="ax_形状">
+        <img id="u95_img" class="img " src="images/发现模块/u22.png"/>
+        <!-- Unnamed () -->
+        <div id="u96" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u97" class="ax_image">
+        <img id="u97_img" class="img " src="images/发现模块/u26.png"/>
+        <!-- Unnamed () -->
+        <div id="u98" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u99" class="ax_文本段落">
+        <img id="u99_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u100" class="text">
+          <p><span>白百何</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u101" class="ax_文本段落">
+        <img id="u101_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u102" class="text">
+          <p><span>时间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u103" class="ax_形状">
+        <img id="u103_img" class="img " src="images/发现模块/u32.png"/>
+        <!-- Unnamed () -->
+        <div id="u104" class="text">
+          <p><span>已关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u105" class="ax_image">
+        <img id="u105_img" class="img " src="images/发布过程—优化版（以后做）/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u106" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u107" class="ax_形状">
+        <img id="u107_img" class="img " src="images/发现模块/u107.png"/>
+        <!-- Unnamed () -->
+        <div id="u108" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u109" class="ax_h2">
+        <img id="u109_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u110" class="text">
+          <p><span>说明：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u111" class="ax_形状">
+        <img id="u111_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u112" class="text">
+          <p><span>1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u113" class="ax_形状">
+        <img id="u113_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u114" class="text">
+          <p><span>1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u115" class="ax_文本段落">
+        <img id="u115_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u116" class="text">
+          <p><span>广告banner图，轮播。左右可进行切换。轮播间隙时长为</span><span>3</span><span>s</span><span>（以现在的YHouse为主体）</span><span>；</span><span>目前最多</span><span>轮播5张</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u117" class="ax_形状">
+        <img id="u117_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u118" class="text">
+          <p><span>2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u119" class="ax_形状">
+        <img id="u119_img" class="img " src="images/发现模块/u119.png"/>
+        <!-- Unnamed () -->
+        <div id="u120" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u121" class="ax_形状">
+        <img id="u121_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u122" class="text">
+          <p><span>2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u123" class="ax_文本段落">
+        <img id="u123_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u124" class="text">
+          <p><span>点击分别进入到话题子页面、附近子页面、达人子页面和攻略子页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u125" class="ax_形状">
+        <img id="u125_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u126" class="text">
+          <p><span>3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u127" class="ax_形状">
+        <img id="u127_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u128" class="text">
+          <p><span>3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u129" class="ax_文本段落">
+        <img id="u129_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u130" class="text">
+          <p><span>热门推荐的规则：</span><span>（只显示图片）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u131" class="ax_image">
+        <img id="u131_img" class="img " src="images/发现模块/u131.png"/>
+        <!-- Unnamed () -->
+        <div id="u132" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u133" class="ax_形状">
+        <img id="u133_img" class="img " src="images/发现模块/u133.png"/>
+        <!-- Unnamed () -->
+        <div id="u134" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u135" class="ax_形状">
+        <img id="u135_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u136" class="text">
+          <p><span>4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u137" class="ax_形状">
+        <img id="u137_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u138" class="text">
+          <p><span>4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u139" class="ax_文本段落">
+        <img id="u139_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u140" class="text">
+          <p><span>点击头像</span><span>和昵称</span><span></span><span>进入</span><span>该用户的个人中心；</span></p><p><span>时间显示的规则：</span></p><p><span>1个小时内：显示的是多少分钟前；</span></p><p><span>24H内：显示的是多少</span><span>小时</span><span>前；</span></p><p><span>3天内：显示的是几天前；</span></p><p><span>3天以外的：显示的是xx月xx号 xx：xx如：03-03 12：00</span></p><p><span>去年的：显示的是年份</span><span>-</span><span>月份</span><span>-</span><span>号数</span><span>-小时</span><span>-</span><span>分钟</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u141" class="ax_形状">
+        <img id="u141_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u142" class="text">
+          <p><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u143" class="ax_形状">
+        <img id="u143_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u144" class="text">
+          <p><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u145" class="ax_文本段落">
+        <img id="u145_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u146" class="text">
+          <p><span>如果是自己的内容则此处不显示任何内容。如果是其它用户发布的图文：</span></p><p><span>“关注”：没有关注的用户</span><span>，点击则关注变为“已关注”</span></p><p><span>“已关注”：单向关注的用户</span><span>，点击则取消关注变为“关注”</span></p><p><span>“互相关注”：双向关注的用户</span><span>，点击则取消关注变为“已关注”</span></p><p><span>&nbsp;</span></p><p><span>非登录用户点击</span><span>“</span><span>关注按钮</span><span>”</span><span>，会跳转到登录注册界面</span><span>，登录注册成功后停留在该页面</span><span>位置</span><span>并且执行了点击操作。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u147" class="ax_形状">
+        <img id="u147_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u148" class="text">
+          <p><span>6</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u149" class="ax_形状">
+        <img id="u149_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u150" class="text">
+          <p><span>6</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u151" class="ax_文本段落">
+        <img id="u151_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u152" class="text">
+          <p><span style="color:#333333;">图片展示规则请见“</span><span style="text-decoration:underline;color:#0099CC;">图片创建主流程</span><span style="color:#333333;">”</span><span style="color:#333333;">；</span></p><p><span style="color:#333333;">&nbsp;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u153" class="ax_形状">
+        <img id="u153_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u154" class="text">
+          <p><span>7</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u155" class="ax_形状">
+        <img id="u155_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u156" class="text">
+          <p><span>7</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u157" class="ax_文本段落">
+        <img id="u157_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u158" class="text">
+          <p><span>文字</span><span>内容最多显示</span><span>四</span><span>行。多余内容用户省略号表示。并且在下方会出现查看全部的标识。</span></p><p><span>点击</span><span>整块文字区域会跳转到照片详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u159" class="ax_形状">
+        <img id="u159_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u160" class="text">
+          <p><span>8</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u161" class="ax_文本段落">
+        <img id="u161_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u162" class="text">
+          <p><span>点赞操作；用户点击一次可以点赞（头像出现在点赞列表中），再点击一次取消点赞（头像从点赞列表消失）</span></p><p><span>用户点击点赞，</span><span>则会在旁边点赞数+1；如果取消点赞则减1；</span><span>如果没人点赞则不显示</span><span>数字</span><span>。</span></p><p><span>&nbsp;</span></p><p><span>非登录用户点击</span><span>“</span><span>点赞</span><span>按钮</span><span>”</span><span>，会跳转到登录注册界面</span><span>，登录注册成功后停留在该页面</span><span>位置</span><span>并且执行了</span><span>点赞</span><span>操作。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u163" class="ax_形状">
+        <img id="u163_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u164" class="text">
+          <p><span>8</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u165" class="ax_形状">
+        <img id="u165_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u166" class="text">
+          <p><span>10</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u167" class="ax_形状">
+        <img id="u167_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u168" class="text">
+          <p><span>9</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u169" class="ax_文本段落">
+        <img id="u169_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u170" class="text">
+          <p><span>点击</span><span>评论</span><span>直接在当前页进行评论</span><span>，</span><span>出现评论框</span><span>输入文字后即可进行评论。</span><span>如果用户进行了评论则旁边的评论数+1并且下方也会出现评论列表（不满3条）。</span><span>如果没人评论则不显示。</span></p><p><span>&nbsp;</span><span></span></p><p><span>非登录用户点击“评论按钮”，</span><span>弹出输入框，用户可以打字点击发送按钮后会跳转到登录注册界面，登录注册成功后停留在该页面位置并且执行了评论操作。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u171" class="ax_形状">
+        <img id="u171_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u172" class="text">
+          <p><span>9</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u173" class="ax_形状">
+        <img id="u173_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u174" class="text">
+          <p><span>10</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u175" class="ax_文本段落">
+        <img id="u175_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u176" class="text">
+          <p><span style="color:#333333;">评论列表功能同之前版本的功能</span><span style="color:#333333;">，评论列表首页最多显示3条。</span><span style="color:#333333;">更多的话会</span><span style="color:#333333;"></span><span style="color:#333333;">在下方显示查看全部多少条评论。点击后会</span><span style="color:#333333;">跳转到</span><span style="color:#333333;">“</span><span style="text-decoration:underline;color:#0099CC;">照片详情</span><span style="color:#333333;">”</span><span style="color:#333333;">界面进行查看</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u177" class="ax_形状">
+        <img id="u177_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u178" class="text">
+          <p><span>11</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u179" class="ax_形状">
+        <img id="u179_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u180" class="text">
+          <p><span>11</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u181" class="ax_文本段落">
+        <img id="u181_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u182" class="text">
+          <p><span>达人</span><span>推荐的规则：</span><span>根据后台设置达人推荐，最多为10个</span><span>；可左右滑动切换达人选择，点击达人头像进入该用户的个人中心页 </span></p><p><span>&nbsp;</span></p><p><span>达人推荐的第11个，显示“更多”</span><span>，点击“更多”会跳转到“达人子模块”</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u183" class="ax_文本段落">
+        <img id="u183_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u184" class="text">
+          <p><span style="color:#333333;">点击图片可大图查看，进入</span><span style="text-decoration:underline;color:#0099CC;">“查看大图”</span><span style="color:#333333;">模块</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u185" class="ax_形状">
+        <img id="u185_img" class="img " src="images/发现模块/u185.png"/>
+        <!-- Unnamed () -->
+        <div id="u186" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u187" class="ax_形状">
+        <img id="u187_img" class="img " src="images/发现模块/u185.png"/>
+        <!-- Unnamed () -->
+        <div id="u188" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u189" class="ax_形状">
+        <img id="u189_img" class="img " src="images/发现模块/u185.png"/>
+        <!-- Unnamed () -->
+        <div id="u190" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u191" class="ax_形状">
+        <img id="u191_img" class="img " src="images/发现模块/u185.png"/>
+        <!-- Unnamed () -->
+        <div id="u192" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u193" class="ax_形状">
+        <img id="u193_img" class="img " src="images/发现模块/u193.png"/>
+        <!-- Unnamed () -->
+        <div id="u194" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u195" class="ax_形状">
+        <img id="u195_img" class="img " src="images/发现模块/u195.png"/>
+        <!-- Unnamed () -->
+        <div id="u196" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u197" class="ax_文本段落">
+        <img id="u197_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u198" class="text">
+          <p><span>66</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u199" class="ax_文本段落">
+        <img id="u199_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u200" class="text">
+          <p><span>66</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u201" class="ax_文本段落">
+        <img id="u201_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u202" class="text">
+          <p><span>用户的想法： 宁可食无肉，不可居无竹。 无肉令人瘦，无竹令人俗。 人瘦尚可肥，士俗不可医。 宁可食无肉，不可居无竹</span><span>。</span><span>宁可食无肉，不可居无竹。 无肉令人瘦，无竹令人</span><span>，</span><span>宁可食无肉</span><span>。</span><span>食无肉，不可居无竹。 无肉令人瘦，无竹令人</span><span>，</span><span>宁可食无肉</span><span>..</span><span>.</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u203" class="ax_文本段落">
+        <img id="u203_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u204" class="text">
+          <p><span>查看全文</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u205" class="ax_文本段落">
+        <img id="u205_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u206" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u207" class="ax_image">
+        <img id="u207_img" class="img " src="images/发布过程—状态1/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u208" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u209" class="ax_形状">
+        <img id="u209_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u210" class="text">
+          <p><span>12</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u211" class="ax_形状">
+        <img id="u211_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u212" class="text">
+          <p><span>12</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u213" class="ax_文本段落">
+        <img id="u213_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u214" class="text">
+          <p><span>点击更多在页面底部出现弹层：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u215" class="ax_image">
+        <img id="u215_img" class="img " src="images/发现模块/u215.png"/>
+        <!-- Unnamed () -->
+        <div id="u216" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u217" class="ax_文本段落">
+        <img id="u217_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u218" class="text">
+          <p><span>如果是自己发表的为删除按钮，如果是别人发表的为举报按钮</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u219" class="ax_文本段落">
+        <img id="u219_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u220" class="text">
+          <p><span>非登录用户点击“</span><span>举报</span><span>按钮”，</span><span>会跳转到登录注册界面</span><span>，登录注册成功后停留在该页面</span><span>位置</span><span>并且执行了</span><span>举报</span><span>操作。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u221" class="ax_形状">
+        <img id="u221_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u222" class="text">
+          <p><span>13</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u223" class="ax_形状">
+        <img id="u223_img" class="img " src="images/发表图片入口/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u224" class="text">
+          <p><span>13</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u225" class="ax_文本段落">
+        <img id="u225_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u226" class="text">
+          <p><span>非登录用户点击消息模块，</span><span>会跳转到登录注册界面</span><span>，登录注册成功后</span><span>进入消息模块</span><span></span><span>。</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

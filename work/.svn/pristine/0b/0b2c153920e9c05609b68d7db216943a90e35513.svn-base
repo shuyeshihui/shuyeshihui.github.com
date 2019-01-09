@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>登录-首页面-邮箱</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/登录-首页面-邮箱/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/登录-首页面-邮箱/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机屏幕) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u323" class="ax_default _形状">
+        <div id="u323_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u324" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u325" class="ax_default _图片">
+        <img id="u325_img" class="img " src="images/登录-首页面-邮箱/u325.png"/>
+        <!-- Unnamed () -->
+        <div id="u326" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u327" class="ax_default _形状">
+        <div id="u327_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u328" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp; &nbsp; &nbsp;&nbsp; 新浪微博帐户登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u329" class="ax_default _形状">
+        <img id="u329_img" class="img " src="images/登录-首页面-邮箱/u329.png"/>
+        <!-- Unnamed () -->
+        <div id="u330" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ICO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u331" class="ax_default _形状">
+        <div id="u331_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u332" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp; &nbsp; &nbsp;&nbsp; QQ帐户登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u333" class="ax_default _形状">
+        <img id="u333_img" class="img " src="images/登录-首页面-邮箱/u329.png"/>
+        <!-- Unnamed () -->
+        <div id="u334" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ICO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u335" class="ax_default _形状">
+        <div id="u335_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u336" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u337" class="ax_default _水平线" WidgetHeight="1" WidgetWidth="300" WidgetCenterX="160" WidgetCenterY="255.5">
+        <div id="u337p000" class="ax_vector_shape" WidgetTopLeftX="-0.496699669966997" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.493399339933993" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.496699669966997" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.493399339933993" WidgetBottomRightY="0.166666666666667">
+          <img id="u337p000_img" class="img " src="images/登录-首页面-邮箱/u337p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u338" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u339" class="ax_default _形状">
+        <div id="u339_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u340" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">注册</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u341" class="ax_default _形状">
+        <div id="u341_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u342" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;">&nbsp; 帐户&nbsp; &nbsp; </span><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#9A9A9A;">注册时使用的邮箱</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u343" class="ax_default _形状">
+        <div id="u343_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u344" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;">&nbsp; 密码&nbsp; &nbsp; </span><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#9A9A9A;">6-12位数字、字母或字符</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u345" class="ax_default _形状">
+        <div id="u345_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u346" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u347" class="ax_default _图片">
+        <img id="u347_img" class="img " src="images/登录-首页面-邮箱/u347.png"/>
+        <!-- Unnamed () -->
+        <div id="u348" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u349" class="ax_default _文本段落">
+        <div id="u349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u350" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登录朕知道了</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u351" class="ax_default _形状">
+        <div id="u351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u352" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&nbsp; &nbsp; &nbsp;&nbsp; 微信登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u353" class="ax_default _形状">
+        <img id="u353_img" class="img " src="images/登录-首页面-邮箱/u329.png"/>
+        <!-- Unnamed () -->
+        <div id="u354" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ICO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u355" class="ax_default _文本段落">
+        <div id="u355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u356" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FF0000;">提供注册服务的界面</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

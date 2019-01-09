@@ -1,0 +1,2003 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>频道详情页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/频道详情页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/频道详情页面/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u1" class="ax_形状">
+        <img id="u1_img" class="img " src="images/发布框_话题选择/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u2" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u3" class="ax_image">
+        <img id="u3_img" class="img " src="images/发布框_话题选择/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u4" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u5" class="ax_形状">
+        <img id="u5_img" class="img " src="images/频道详情页面/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u6" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u7" class="ax_文本段落">
+        <img id="u7_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u8" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u9" class="ax_文本段落">
+        <img id="u9_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u10" class="text">
+          <p><span>。。。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u11" class="ax_文本段落">
+        <img id="u11_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u12" class="text">
+          <p><span>关注&nbsp; </span><span>200</span><span>&nbsp;</span><span>&nbsp;</span><span>|</span><span>&nbsp; </span><span>&nbsp; </span><span>内容&nbsp; 1</span><span>2000</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u13" class="ax_文本段落">
+        <img id="u13_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u14" class="text">
+          <p><span>#频道名#</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u15" class="ax_文本段落">
+        <img id="u15_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u16" class="text">
+          <p><span>四</span><span>行文字的简单描述</span><span>，</span><span>一</span><span>行文字的简单描述</span><span>，</span><span>一</span><span>行</span><span>...</span><span>...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u17" class="ax_文本段落">
+        <img id="u17_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u18" class="text">
+          <p><span>全部</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u19" class="ax_文本段落">
+        <img id="u19_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u20" class="text">
+          <p><span>最热</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u21" class="ax_形状">
+        <img id="u21_img" class="img " src="images/频道详情页面/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u22" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u23" class="ax_水平线">
+        <img id="u23_start" class="img " src="resources/images/transparent.gif" alt="u23_start"/>
+        <img id="u23_end" class="img " src="resources/images/transparent.gif" alt="u23_end"/>
+        <img id="u23_line" class="img " src="images/频道详情页面/u23_line.png" alt="u23_line"/>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u24" class="ax_形状">
+        <img id="u24_img" class="img " src="images/频道详情页面/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u25" class="text">
+          <p><span>信息流</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u26" class="ax_形状">
+        <img id="u26_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u27" class="text">
+          <p><span>1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u28" class="ax_形状">
+        <img id="u28_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u29" class="text">
+          <p><span>2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u30" class="ax_形状">
+        <img id="u30_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u31" class="text">
+          <p><span>3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u32" class="ax_形状">
+        <img id="u32_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u33" class="text">
+          <p><span>4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u34" class="ax_形状">
+        <img id="u34_img" class="img " src="images/频道详情页面/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u35" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u36" class="ax_形状">
+        <img id="u36_img" class="img " src="images/频道详情页面/u36.png"/>
+        <!-- Unnamed () -->
+        <div id="u37" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u38" class="ax_文本段落">
+        <img id="u38_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u39" class="text">
+          <p><span>频道版主：Tilly</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u40" class="ax_形状">
+        <img id="u40_img" class="img " src="images/发布框_话题选择/u31.png"/>
+        <!-- Unnamed () -->
+        <div id="u41" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u42" class="ax_表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u43" class="ax_单元格">
+          <img id="u43_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u44" class="text">
+            <p><span>序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u45" class="ax_单元格">
+          <img id="u45_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u46" class="text">
+            <p><span>名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u47" class="ax_单元格">
+          <img id="u47_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u48" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u49" class="ax_单元格">
+          <img id="u49_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u50" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u51" class="ax_单元格">
+          <img id="u51_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u52" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u53" class="ax_单元格">
+          <img id="u53_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u54" class="text">
+            <p><span>返回</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u55" class="ax_单元格">
+          <img id="u55_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u56" class="text">
+            <p><span>按钮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u57" class="ax_单元格">
+          <img id="u57_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u58" class="text">
+            <p><span>点击返回，返回到</span><span>原来</span><span>进来的界面</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u59" class="ax_单元格">
+          <img id="u59_img" class="img " src="images/频道详情页面/u59.png"/>
+          <!-- Unnamed () -->
+          <div id="u60" class="text">
+            <p><span>2</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u61" class="ax_单元格">
+          <img id="u61_img" class="img " src="images/频道详情页面/u61.png"/>
+          <!-- Unnamed () -->
+          <div id="u62" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u63" class="ax_单元格">
+          <img id="u63_img" class="img " src="images/频道详情页面/u63.png"/>
+          <!-- Unnamed () -->
+          <div id="u64" class="text">
+            <p><span>按钮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u65" class="ax_单元格">
+          <img id="u65_img" class="img " src="images/频道详情页面/u65.png"/>
+          <!-- Unnamed () -->
+          <div id="u66" class="text">
+            <p><span>1、</span><span>逻辑</span><span>说明</span></p><p><span>1.1、</span><span>当用户还没关注时候，会有关注按钮；如果用户已经关注了该频道，则关注按钮</span><span>变成已关注</span><span></span><span>；</span><span>用户会</span><span>根据贡献度排序</span><span></span><span>出现在关注人列表上；界面会进行刷新；</span></p><p><span>1.2、点击关注按钮</span><span>弹层提示已关注</span><span></span><span>；</span></p><p><span>1.3</span><span>、该频道如果已经被关注则会在【频道列表—我的列表】和【发现—关注】界面显示出来；</span></p><p><span>1.4、如果后台给某个频道设置了版主，则</span><span>关注按钮会变成管理频道的按钮；</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u67" class="ax_单元格">
+          <img id="u67_img" class="img " src="images/频道列表页面/u102.png"/>
+          <!-- Unnamed () -->
+          <div id="u68" class="text">
+            <p><span>3</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u69" class="ax_单元格">
+          <img id="u69_img" class="img " src="images/频道列表页面/u104.png"/>
+          <!-- Unnamed () -->
+          <div id="u70" class="text">
+            <p><span>内容</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u71" class="ax_单元格">
+          <img id="u71_img" class="img " src="images/频道列表页面/u106.png"/>
+          <!-- Unnamed () -->
+          <div id="u72" class="text">
+            <p><span>字段</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u73" class="ax_单元格">
+          <img id="u73_img" class="img " src="images/频道列表页面/u108.png"/>
+          <!-- Unnamed () -->
+          <div id="u74" class="text">
+            <p><span>1</span><span>、显示频道名、多少人</span><span>关注和多少内容</span><span></span><span>；（字段的规则已在列表界面进行了说明）</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u75" class="ax_单元格">
+          <img id="u75_img" class="img " src="images/频道详情页面/u75.png"/>
+          <!-- Unnamed () -->
+          <div id="u76" class="text">
+            <p><span>4</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u77" class="ax_单元格">
+          <img id="u77_img" class="img " src="images/频道详情页面/u77.png"/>
+          <!-- Unnamed () -->
+          <div id="u78" class="text">
+            <p><span>频道介绍</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u79" class="ax_单元格">
+          <img id="u79_img" class="img " src="images/频道详情页面/u79.png"/>
+          <!-- Unnamed () -->
+          <div id="u80" class="text">
+            <p><span>内容</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u81" class="ax_单元格">
+          <img id="u81_img" class="img " src="images/频道详情页面/u81.png"/>
+          <!-- Unnamed () -->
+          <div id="u82" class="text">
+            <p><span>1</span><span>、展示的内容是编辑的频道介绍；</span></p><p><span>2、逻辑说明：</span></p><p><span>2.1、频道介绍限制字数1000字；</span></p><p><span>2.2、频道介绍可以在后台进行编辑更改或者版主在前端进行编辑更改；</span></p><p><span>2.3、频道介绍前端显示规则：当频道介绍的字数超过</span><span>三</span><span>行会出现...</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u83" class="ax_单元格">
+          <img id="u83_img" class="img " src="images/频道详情页面/u83.png"/>
+          <!-- Unnamed () -->
+          <div id="u84" class="text">
+            <p><span>6</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u85" class="ax_单元格">
+          <img id="u85_img" class="img " src="images/频道详情页面/u85.png"/>
+          <!-- Unnamed () -->
+          <div id="u86" class="text">
+            <p><span>频道版主展示</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u87" class="ax_单元格">
+          <img id="u87_img" class="img " src="images/频道详情页面/u87.png"/>
+          <!-- Unnamed () -->
+          <div id="u88" class="text">
+            <p><span>可点击的区域</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u89" class="ax_单元格">
+          <img id="u89_img" class="img " src="images/频道详情页面/u89.png"/>
+          <!-- Unnamed () -->
+          <div id="u90" class="text">
+            <p><span>1、展示规则：</span></p><p><span>1.1、</span><span>如果有版主显示版主名称；</span></p><p><span>1.2、</span><span>如果没有版主则显示：</span><span>申请版主</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明：</span></p><p><span>2.1</span><span>、</span><span>如果有版主则点击进入到该版主的【个人中心界面】</span></p><p><span>2.2、</span><span>如果没有版主则点击进入到【申请版主界面】</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u91" class="ax_单元格">
+          <img id="u91_img" class="img " src="images/频道详情页面/u91.png"/>
+          <!-- Unnamed () -->
+          <div id="u92" class="text">
+            <p><span>7</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u93" class="ax_单元格">
+          <img id="u93_img" class="img " src="images/频道详情页面/u93.png"/>
+          <!-- Unnamed () -->
+          <div id="u94" class="text">
+            <p><span>关注的人列表</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u95" class="ax_单元格">
+          <img id="u95_img" class="img " src="images/频道详情页面/u95.png"/>
+          <!-- Unnamed () -->
+          <div id="u96" class="text">
+            <p><span>可</span><span>点击的区域</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u97" class="ax_单元格">
+          <img id="u97_img" class="img " src="images/频道详情页面/u97.png"/>
+          <!-- Unnamed () -->
+          <div id="u98" class="text">
+            <p><span>1、展示规则：</span></p><p><span>1.1、</span><span>关注</span><span>列表</span><span>按照</span><span>在该频道下的</span><span>贡献度</span><span>进行</span><span>关注</span><span>该频道的</span><span>用户</span><span>排序</span><span>；</span></p><p><span>1.2、如果该频道没有人进行关注则不显示</span><span>用户头像，显示文案是：</span><span>暂时没有成员，快来关注吧</span></p><p><span>1.3、当&gt;0个关注时，始终会出现“&gt;”,点击可以进入关注用户列表。</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明：</span></p><p><span>2.1</span><span>、头像可点击，点击进入到某个用户的个人中心界面</span><span>；</span></p><p><span>2.2、</span><span>关注</span><span>列表</span><span>在频道详情页显示数目由UED定；</span></p><p><span>2.</span><span>3</span><span>、</span><span>点击“更多”到达</span><span>关注用户</span><span>列表</span><span>页面</span><span></span><span>；</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u99" class="ax_单元格">
+          <img id="u99_img" class="img " src="images/频道详情页面/u99.png"/>
+          <!-- Unnamed () -->
+          <div id="u100" class="text">
+            <p><span>8</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u101" class="ax_单元格">
+          <img id="u101_img" class="img " src="images/频道详情页面/u101.png"/>
+          <!-- Unnamed () -->
+          <div id="u102" class="text">
+            <p><span>管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u103" class="ax_单元格">
+          <img id="u103_img" class="img " src="images/频道详情页面/u103.png"/>
+          <!-- Unnamed () -->
+          <div id="u104" class="text">
+            <p><span>版主权限</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u105" class="ax_单元格">
+          <img id="u105_img" class="img " src="images/频道详情页面/u105.png"/>
+          <!-- Unnamed () -->
+          <div id="u106" class="text">
+            <p><span>1、展示规则：</span></p><p><span>1.1、如果用户是某频道下的版主</span><span>且被分配了</span><span>版主权限</span><span></span><span>，则该用户登录后在该频道详情里会出现管理的设置按钮；</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明</span></p><p><span>2.1、版主点击管理</span><span>需要判断版主是否有编辑介绍的权限，如果没有</span><span>则吐司</span><span></span><span>显示：</span><span>频道管理</span><span>敬请期待！</span></p><p><span>如果有编辑介绍的权限会直接</span><span></span><span>到达频道管理界面</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u107" class="ax_形状">
+        <img id="u107_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u108" class="text">
+          <p><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u110" class="ax_形状">
+        <img id="u110_img" class="img " src="images/发布框_话题选择/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u111" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u112" class="ax_image">
+        <img id="u112_img" class="img " src="images/发布框_话题选择/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u113" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u114" class="ax_形状">
+        <img id="u114_img" class="img " src="images/频道详情页面/u114.png"/>
+        <!-- Unnamed () -->
+        <div id="u115" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u116" class="ax_文本段落">
+        <img id="u116_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u117" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u118" class="ax_文本段落">
+        <img id="u118_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u119" class="text">
+          <p><span>。。。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u120" class="ax_文本段落">
+        <img id="u120_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u121" class="text">
+          <p><span>关注&nbsp; </span><span>200</span><span>&nbsp;</span><span>&nbsp;</span><span>|</span><span>&nbsp; </span><span>&nbsp; </span><span>内容&nbsp; 1</span><span>2000</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u122" class="ax_文本段落">
+        <img id="u122_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u123" class="text">
+          <p><span>#频道名#</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u124" class="ax_文本段落">
+        <img id="u124_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u125" class="text">
+          <p><span>四</span><span>行文字的简单描述</span><span>，</span><span>四四</span><span>行文字的简单描述</span><span>，四</span><span>行文字的简单描述</span><span>，</span><span>...四</span><span>行文字的简单描述四</span><span>行文字的简单描述</span><span>，四</span><span>行文字的简单描述四</span><span>行文字的简单描述四</span><span>行文字的简单描述</span><span>，四</span><span>...</span><span>...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u126" class="ax_文本段落">
+        <img id="u126_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u127" class="text">
+          <p><span>展开</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u128" class="ax_image">
+        <img id="u128_img" class="img " src="images/频道详情页面/u128.png"/>
+        <!-- Unnamed () -->
+        <div id="u129" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u130" class="ax_水平线">
+        <img id="u130_start" class="img " src="resources/images/transparent.gif" alt="u130_start"/>
+        <img id="u130_end" class="img " src="resources/images/transparent.gif" alt="u130_end"/>
+        <img id="u130_line" class="img " src="images/频道详情页面/u130_line.png" alt="u130_line"/>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u131" class="ax_文本段落">
+        <img id="u131_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u132" class="text">
+          <p><span>最热</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u133" class="ax_文本段落">
+        <img id="u133_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u134" class="text">
+          <p><span>最新</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u135" class="ax_形状">
+        <img id="u135_img" class="img " src="images/频道详情页面/u21.png"/>
+        <!-- Unnamed () -->
+        <div id="u136" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u137" class="ax_水平线">
+        <img id="u137_start" class="img " src="resources/images/transparent.gif" alt="u137_start"/>
+        <img id="u137_end" class="img " src="resources/images/transparent.gif" alt="u137_end"/>
+        <img id="u137_line" class="img " src="images/频道详情页面/u23_line.png" alt="u137_line"/>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u138" class="ax_形状">
+        <img id="u138_img" class="img " src="images/频道详情页面/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u139" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u140" class="ax_形状">
+        <img id="u140_img" class="img " src="images/频道详情页面/u140.png"/>
+        <!-- Unnamed () -->
+        <div id="u141" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u142" class="ax_image">
+        <img id="u142_img" class="img " src="images/发布框_话题选择/u29.png"/>
+        <!-- Unnamed () -->
+        <div id="u143" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u144" class="ax_文本段落">
+        <img id="u144_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u145" class="text">
+          <p><span>申请版主</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u147" class="ax_形状">
+        <img id="u147_img" class="img " src="images/发布框_话题选择/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u148" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u149" class="ax_image">
+        <img id="u149_img" class="img " src="images/发布框_话题选择/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u150" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u151" class="ax_形状">
+        <img id="u151_img" class="img " src="images/发布框_话题选择/u59.png"/>
+        <!-- Unnamed () -->
+        <div id="u152" class="text">
+          <p><span>申请版主</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u153" class="ax_文本段落">
+        <img id="u153_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u154" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u155" class="ax_文本段落">
+        <img id="u155_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u156" class="text">
+          <p><span>申请理由：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u157" class="ax_多行文本框">
+        <textarea id="u157_input"></textarea>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u158" class="ax_形状">
+        <img id="u158_img" class="img " src="images/频道详情页面/u158.png"/>
+        <!-- Unnamed () -->
+        <div id="u159" class="text">
+          <p><span>提交</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u160" class="ax_形状">
+        <img id="u160_img" class="img " src="images/频道详情页面/u160.png"/>
+        <!-- Unnamed () -->
+        <div id="u161" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u162" class="ax_image">
+        <img id="u162_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u163" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u164" class="ax_image">
+        <img id="u164_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u165" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u166" class="ax_image">
+        <img id="u166_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u167" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u168" class="ax_image">
+        <img id="u168_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u169" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u170" class="ax_image">
+        <img id="u170_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u171" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u172" class="ax_image">
+        <img id="u172_img" class="img " src="images/发布框_话题选择/u29.png"/>
+        <!-- Unnamed () -->
+        <div id="u173" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u174" class="ax_形状">
+        <img id="u174_img" class="img " src="images/消息推送功能梳理/u115.png"/>
+        <!-- Unnamed () -->
+        <div id="u175" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u176" class="ax_image">
+        <img id="u176_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u177" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u178" class="ax_image">
+        <img id="u178_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u179" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u180" class="ax_image">
+        <img id="u180_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u181" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u182" class="ax_image">
+        <img id="u182_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u183" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u184" class="ax_image">
+        <img id="u184_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u185" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u186" class="ax_image">
+        <img id="u186_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u187" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u188" class="ax_image">
+        <img id="u188_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u189" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u190" class="ax_image">
+        <img id="u190_img" class="img " src="images/发布框_话题选择/u29.png"/>
+        <!-- Unnamed () -->
+        <div id="u191" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u193" class="ax_形状">
+        <img id="u193_img" class="img " src="images/发布框_话题选择/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u194" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u195" class="ax_image">
+        <img id="u195_img" class="img " src="images/发布框_话题选择/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u196" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u197" class="ax_形状">
+        <img id="u197_img" class="img " src="images/发布框_话题选择/u89.png"/>
+        <!-- Unnamed () -->
+        <div id="u198" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u199" class="ax_文本段落">
+        <img id="u199_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u200" class="text">
+          <p><span>关注用户</span><span>列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u201" class="ax_形状">
+        <img id="u201_img" class="img " src="images/频道详情页面/u201.png"/>
+        <!-- Unnamed () -->
+        <div id="u202" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u203" class="ax_文本段落">
+        <img id="u203_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u204" class="text">
+          <p><span>贡献</span><span>内容：</span><span></span><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u205" class="ax_文本段落">
+        <img id="u205_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u206" class="text">
+          <p><span>【</span><span>频道详情页</span><span>】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (形状) -->
+      <div id="u208" class="ax_形状">
+        <img id="u208_img" class="img " src="images/发布框_话题选择/u1.png"/>
+        <!-- Unnamed () -->
+        <div id="u209" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u210" class="ax_image">
+        <img id="u210_img" class="img " src="images/发布框_话题选择/u3.png"/>
+        <!-- Unnamed () -->
+        <div id="u211" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u212" class="ax_形状">
+        <img id="u212_img" class="img " src="images/频道详情页面/u212.png"/>
+        <!-- Unnamed () -->
+        <div id="u213" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u214" class="ax_文本段落">
+        <img id="u214_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u215" class="text">
+          <p><span>频道</span><span>管理</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u216" class="ax_多行文本框">
+        <textarea id="u216_input">四行文字的简单描述，四四行文字的简单描述，四行文字的简单描述，四行文字的简单描述四行文字的简单描述，四行文字的简单描述四行文字的简单描述四行文字的简单描述，四行文字的简单描述，四行文字的简单描述，四行文字的简单描述四</textarea>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u217" class="ax_形状">
+        <img id="u217_img" class="img " src="images/频道详情页面/u158.png"/>
+        <!-- Unnamed () -->
+        <div id="u218" class="text">
+          <p><span>保存</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u219" class="ax_形状">
+        <img id="u219_img" class="img " src="images/发布框_话题选择/u31.png"/>
+        <!-- Unnamed () -->
+        <div id="u220" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u221" class="ax_表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u222" class="ax_单元格">
+          <img id="u222_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u223" class="text">
+            <p><span>序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u224" class="ax_单元格">
+          <img id="u224_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u225" class="text">
+            <p><span>名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u226" class="ax_单元格">
+          <img id="u226_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u227" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u228" class="ax_单元格">
+          <img id="u228_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u229" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u230" class="ax_单元格">
+          <img id="u230_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u231" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u232" class="ax_单元格">
+          <img id="u232_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u233" class="text">
+            <p><span>返回</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u234" class="ax_单元格">
+          <img id="u234_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u235" class="text">
+            <p><span>按钮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u236" class="ax_单元格">
+          <img id="u236_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u237" class="text">
+            <p><span>点击返回，返回到</span><span>原来</span><span>进来的界面</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u238" class="ax_单元格">
+          <img id="u238_img" class="img " src="images/频道详情页面/u238.png"/>
+          <!-- Unnamed () -->
+          <div id="u239" class="text">
+            <p><span>2</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u240" class="ax_单元格">
+          <img id="u240_img" class="img " src="images/频道详情页面/u240.png"/>
+          <!-- Unnamed () -->
+          <div id="u241" class="text">
+            <p><span>编辑频道介绍</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u242" class="ax_单元格">
+          <img id="u242_img" class="img " src="images/频道详情页面/u242.png"/>
+          <!-- Unnamed () -->
+          <div id="u243" class="text">
+            <p><span>编辑框</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u244" class="ax_单元格">
+          <img id="u244_img" class="img " src="images/频道详情页面/u244.png"/>
+          <!-- Unnamed () -->
+          <div id="u245" class="text">
+            <p><span>1、展示规则：</span></p><p><span>1.1、</span><span>将之前的</span><span>频道介绍文字赋到编辑框里，版主可以进行修改；</span></p><p><span>1.2、频道介绍限制1000字，超过1000字进行保存时会进行提醒最多只能填写1000字的频道介绍</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明：</span></p><p><span>2.1</span><span>、</span><span>版主进行修改后进行提交则该频道详情界面的频道介绍会做出相应的改变；</span></p><p><span>2.2、版主进行修改后点击返回按钮会弹出框提醒版主：</span></p><p><span>有修改的内容是否不提交直接退出？（是的/确认提交）</span></p><p><span>2.3、版主没有进行修改直接返回则不会弹框提醒；</span></p><p><span>2.4、用户点击提交保存会提示：保存成功。</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u246" class="ax_文本段落">
+        <img id="u246_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u247" class="text">
+          <p><span>【</span><span>关注用户排行榜</span><span></span><span>页</span><span>】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u248" class="ax_文本段落">
+        <img id="u248_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u249" class="text">
+          <p><span>【</span><span>用户</span><span>看到的</span><span>无</span><span>版主的</span><span></span><span>频道详情页</span><span>】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u250" class="ax_文本段落">
+        <img id="u250_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u251" class="text">
+          <p><span>【</span><span>申请版主</span><span></span><span>页</span><span>】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u252" class="ax_形状">
+        <img id="u252_img" class="img " src="images/频道详情页面/u252.png"/>
+        <!-- Unnamed () -->
+        <div id="u253" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u254" class="ax_文本段落">
+        <img id="u254_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u255" class="text">
+          <p><span>分享至</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u256" class="ax_image">
+        <img id="u256_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u257" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u258" class="ax_文本段落">
+        <img id="u258_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u259" class="text">
+          <p><span>新浪微博</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u260" class="ax_image">
+        <img id="u260_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u261" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u262" class="ax_文本段落">
+        <img id="u262_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u263" class="text">
+          <p><span>微信好友</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u264" class="ax_image">
+        <img id="u264_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u265" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u266" class="ax_文本段落">
+        <img id="u266_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u267" class="text">
+          <p><span>微信朋友圈</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u268" class="ax_image">
+        <img id="u268_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u269" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u270" class="ax_文本段落">
+        <img id="u270_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u271" class="text">
+          <p><span>QQ</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u272" class="ax_image">
+        <img id="u272_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u273" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u274" class="ax_文本段落">
+        <img id="u274_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u275" class="text">
+          <p><span>QQ</span><span>空间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u276" class="ax_形状">
+        <img id="u276_img" class="img " src="images/频道详情页面/u276.png"/>
+        <!-- Unnamed () -->
+        <div id="u277" class="text">
+          <p><span>置顶</span><span>/取消置顶</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u278" class="ax_形状">
+        <img id="u278_img" class="img " src="images/频道详情页面/u278.png"/>
+        <!-- Unnamed () -->
+        <div id="u279" class="text">
+          <p><span>帖子1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u280" class="ax_形状">
+        <img id="u280_img" class="img " src="images/频道详情页面/u278.png"/>
+        <!-- Unnamed () -->
+        <div id="u281" class="text">
+          <p><span>帖子</span><span>2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u282" class="ax_文本段落">
+        <img id="u282_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u283" class="text">
+          <p><span>top1：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u284" class="ax_文本段落">
+        <img id="u284_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u285" class="text">
+          <p><span>top</span><span>2</span><span>：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u286" class="ax_形状">
+        <img id="u286_img" class="img " src="images/频道详情页面/u278.png"/>
+        <!-- Unnamed () -->
+        <div id="u287" class="text">
+          <p><span>帖子</span><span>3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u288" class="ax_文本段落">
+        <img id="u288_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u289" class="text">
+          <p><span>置顶帖子</span><span>，帖子</span><span>3</span><span>排在了帖子1的上面</span><span>，成了top1；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u290" class="ax_connector">
+        <img id="u290_seg0" class="img " src="images/频道详情页面/u290_seg0.png" alt="u290_seg0"/>
+        <img id="u290_seg1" class="img " src="images/频道详情页面/u290_seg1.png" alt="u290_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u291" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u292" class="ax_形状">
+        <img id="u292_img" class="img " src="images/频道详情页面/u276.png"/>
+        <!-- Unnamed () -->
+        <div id="u293" class="text">
+          <p><span>取消</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u294" class="ax_文本段落">
+        <img id="u294_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u295" class="text">
+          <p><span>文字区域</span><span>文字区域文字区域文字区域文字区域文字区域</span><span>文字区域文字区域文字区域</span><span>文字区域文字区域文字区域</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u296" class="ax_形状">
+        <img id="u296_img" class="img " src="images/频道详情页面/u296.png"/>
+        <!-- Unnamed () -->
+        <div id="u297" class="text">
+          <p><span>图片区域</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u298" class="ax_形状">
+        <img id="u298_img" class="img " src="images/频道详情页面/u296.png"/>
+        <!-- Unnamed () -->
+        <div id="u299" class="text">
+          <p><span>图片区域</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u300" class="ax_文本段落">
+        <img id="u300_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u301" class="text">
+          <p><span>赞</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u302" class="ax_文本段落">
+        <img id="u302_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u303" class="text">
+          <p><span>评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u304" class="ax_形状">
+        <img id="u304_img" class="img " src="images/频道详情页面/u304.png"/>
+        <!-- Unnamed () -->
+        <div id="u305" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u306" class="ax_文本段落">
+        <img id="u306_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u307" class="text">
+          <p><span>用户昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u308" class="ax_水平线">
+        <img id="u308_start" class="img " src="resources/images/transparent.gif" alt="u308_start"/>
+        <img id="u308_end" class="img " src="resources/images/transparent.gif" alt="u308_end"/>
+        <img id="u308_line" class="img " src="images/频道详情页面/u308_line.png" alt="u308_line"/>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u309" class="ax_形状">
+        <img id="u309_img" class="img " src="images/频道详情页面/u309.png"/>
+        <!-- Unnamed () -->
+        <div id="u310" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u311" class="ax_文本段落">
+        <img id="u311_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u312" class="text">
+          <p><span>。。。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u313" class="ax_形状">
+        <img id="u313_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u314" class="text">
+          <p><span>1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u315" class="ax_形状">
+        <img id="u315_img" class="img " src="images/发布框_话题选择/u31.png"/>
+        <!-- Unnamed () -->
+        <div id="u316" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u317" class="ax_表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u318" class="ax_单元格">
+          <img id="u318_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u319" class="text">
+            <p><span>序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u320" class="ax_单元格">
+          <img id="u320_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u321" class="text">
+            <p><span>名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u322" class="ax_单元格">
+          <img id="u322_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u323" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u324" class="ax_单元格">
+          <img id="u324_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u325" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u326" class="ax_单元格">
+          <img id="u326_img" class="img " src="images/发布框_话题选择/u42.png"/>
+          <!-- Unnamed () -->
+          <div id="u327" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u328" class="ax_单元格">
+          <img id="u328_img" class="img " src="images/发布框_话题选择/u44.png"/>
+          <!-- Unnamed () -->
+          <div id="u329" class="text">
+            <p><span>更多</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u330" class="ax_单元格">
+          <img id="u330_img" class="img " src="images/发布框_话题选择/u46.png"/>
+          <!-- Unnamed () -->
+          <div id="u331" class="text">
+            <p><span>按钮</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u332" class="ax_单元格">
+          <img id="u332_img" class="img " src="images/发布框_话题选择/u48.png"/>
+          <!-- Unnamed () -->
+          <div id="u333" class="text">
+            <p><span>1、版主权限</span></p><p><span>1.1、某频道下的版本对该频道下的图文有：置顶功能</span></p><p><span>2、展示规则：</span></p><p><span>2.1、</span><span></span><span>点击更多会出现弹层，分别是分享</span><span>、置顶</span><span>和取消</span><span>；</span></p><p><span>&nbsp;</span></p><p><span>3、逻辑说明</span></p><p><span>3.1、分享功能</span><span>的逻辑和</span><span>之前一样；样式会有所调整，由UED定；</span></p><p><span>3.2、置顶</span><span>/取消置顶</span><span></span><span>功能：版主点击置顶</span><span>某</span><span>条图文</span><span>则该图文</span><span></span><span>在</span><span>该频道下的</span><span></span><span>最热列表进行置顶</span><span>，并且该图文会打上</span><span>置顶</span><span>标签</span><span>；</span><span>（后台</span><span>该频道的图文/录播</span><span>列表页下该图文也就被置为top1了</span><span></span><span>）</span><span>；</span><span>置顶了会给用户发一条应用内通知；</span><span>应用内的</span><span>系统通知的</span><span></span><span>文案之后给到；</span><span></span></p><p><span>3.3、如果点击了置顶则信息流的标签为置顶+标识；</span></p><p><span>3.</span><span>4</span><span>、</span><span>从该频道中隐藏：点击了隐藏则该信息流不会在该频道</span><span>的</span><span>里面</span><span>（最热、全部列表里面）</span><span></span><span>出现</span><span>；但是会在社区的非此频道中出现；</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u334" class="ax_形状">
+        <img id="u334_img" class="img " src="images/发布框_话题选择/u31.png"/>
+        <!-- Unnamed () -->
+        <div id="u335" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u336" class="ax_表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u337" class="ax_单元格">
+          <img id="u337_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u338" class="text">
+            <p><span>序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u339" class="ax_单元格">
+          <img id="u339_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u340" class="text">
+            <p><span>名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u341" class="ax_单元格">
+          <img id="u341_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u342" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u343" class="ax_单元格">
+          <img id="u343_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u344" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u345" class="ax_单元格">
+          <img id="u345_img" class="img " src="images/频道详情页面/u345.png"/>
+          <!-- Unnamed () -->
+          <div id="u346" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u347" class="ax_单元格">
+          <img id="u347_img" class="img " src="images/频道详情页面/u347.png"/>
+          <!-- Unnamed () -->
+          <div id="u348" class="text">
+            <p><span>关注用户列表</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u349" class="ax_单元格">
+          <img id="u349_img" class="img " src="images/频道详情页面/u349.png"/>
+          <!-- Unnamed () -->
+          <div id="u350" class="text">
+            <p><span>列表</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u351" class="ax_单元格">
+          <img id="u351_img" class="img " src="images/频道详情页面/u351.png"/>
+          <!-- Unnamed () -->
+          <div id="u352" class="text">
+            <p><span>1、</span><span>展示</span><span>规则</span><span>：</span></p><p><span>1.1、</span><span>按照</span><span>用户贡献内容</span><span>从高到底排序关注用户</span><span>的</span><span>列表</span><span>；</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明：</span></p><p><span>2.1、</span><span>只</span><span>取前50名的关注用户进行展示；</span></p><p><span>2.2、当滑动到第50条后继续滑动会提示</span><span>：</span><span>只显示</span><span>贡献内容</span><span></span><span>前50名关注用户</span><span>。</span></p><p><span>2.3、如果是自己就不会显示关注按钮；</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u353" class="ax_单元格">
+          <img id="u353_img" class="img " src="images/频道详情页面/u353.png"/>
+          <!-- Unnamed () -->
+          <div id="u354" class="text">
+            <p><span>2</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u355" class="ax_单元格">
+          <img id="u355_img" class="img " src="images/频道详情页面/u355.png"/>
+          <!-- Unnamed () -->
+          <div id="u356" class="text">
+            <p><span>管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u357" class="ax_单元格">
+          <img id="u357_img" class="img " src="images/频道详情页面/u357.png"/>
+          <!-- Unnamed () -->
+          <div id="u358" class="text">
+            <p><span>版主权限</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u359" class="ax_单元格">
+          <img id="u359_img" class="img " src="images/频道详情页面/u359.png"/>
+          <!-- Unnamed () -->
+          <div id="u360" class="text">
+            <p><span>1、展示规则：</span></p><p><span>1.1、如果用户是某频道下的版主</span><span>且被分配了</span><span>版主权限</span><span></span><span>，则该用户登录后在该频道详情里会出现管理的设置按钮；</span></p><p><span>&nbsp;</span></p><p><span>2、逻辑说明</span></p><p><span>2.1、版主点击管理到达频道管理界面</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u361" class="ax_文本段落">
+        <img id="u361_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u362" class="text">
+          <p><span>【</span><span>频道</span><span>管理</span><span></span><span>页</span><span>】</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u363" class="ax_形状">
+        <img id="u363_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u364" class="text">
+          <p><span>1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u365" class="ax_形状">
+        <img id="u365_img" class="img " src="images/频道详情页面/u276.png"/>
+        <!-- Unnamed () -->
+        <div id="u366" class="text">
+          <p><span>隐藏</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u367" class="ax_文本段落">
+        <img id="u367_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u368" class="text">
+          <p><span>至少输入</span><span></span><span>50字</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u369" class="ax_形状">
+        <img id="u369_img" class="img " src="images/频道详情页面/u369.png"/>
+        <!-- Unnamed () -->
+        <div id="u370" class="text">
+          <p><span>置顶</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u371" class="ax_文本段落">
+        <img id="u371_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u372" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u373" class="ax_文本段落">
+        <img id="u373_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u374" class="text">
+          <p><span>版主：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u375" class="ax_image">
+        <img id="u375_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u376" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u377" class="ax_文本段落">
+        <img id="u377_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u378" class="text">
+          <p><span>昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u379" class="ax_形状">
+        <img id="u379_img" class="img " src="images/频道详情页面/u379.png"/>
+        <!-- Unnamed () -->
+        <div id="u380" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u381" class="ax_文本段落">
+        <img id="u381_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u382" class="text">
+          <p><span>关注用户：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u383" class="ax_形状">
+        <img id="u383_img" class="img " src="images/频道详情页面/u201.png"/>
+        <!-- Unnamed () -->
+        <div id="u384" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u385" class="ax_文本段落">
+        <img id="u385_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u386" class="text">
+          <p><span>贡献</span><span>内容：</span><span></span><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u387" class="ax_image">
+        <img id="u387_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u388" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u389" class="ax_文本段落">
+        <img id="u389_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u390" class="text">
+          <p><span>昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u391" class="ax_形状">
+        <img id="u391_img" class="img " src="images/频道详情页面/u379.png"/>
+        <!-- Unnamed () -->
+        <div id="u392" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u393" class="ax_形状">
+        <img id="u393_img" class="img " src="images/频道详情页面/u201.png"/>
+        <!-- Unnamed () -->
+        <div id="u394" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u395" class="ax_文本段落">
+        <img id="u395_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u396" class="text">
+          <p><span>贡献</span><span>内容：</span><span></span><span>5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u397" class="ax_image">
+        <img id="u397_img" class="img " src="images/频道详情页面/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u398" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u399" class="ax_文本段落">
+        <img id="u399_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u400" class="text">
+          <p><span>昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u401" class="ax_形状">
+        <img id="u401_img" class="img " src="images/频道详情页面/u379.png"/>
+        <!-- Unnamed () -->
+        <div id="u402" class="text">
+          <p><span>关注</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u403" class="ax_形状">
+        <img id="u403_img" class="img " src="images/频道详情页面/u403.png"/>
+        <!-- Unnamed () -->
+        <div id="u404" class="text">
+          <p><span>参与</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u405" class="ax_形状">
+        <img id="u405_img" class="img " src="images/频道详情页面/u405.png"/>
+        <!-- Unnamed () -->
+        <div id="u406" class="text">
+          <p><span>2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u407" class="ax_形状">
+        <img id="u407_img" class="img " src="images/频道详情页面/u407.png"/>
+        <!-- Unnamed () -->
+        <div id="u408" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u409" class="ax_形状">
+        <img id="u409_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u410" class="text">
+          <p><span>6</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u411" class="ax_形状">
+        <img id="u411_img" class="img " src="images/发布框_话题选择/u50.png"/>
+        <!-- Unnamed () -->
+        <div id="u412" class="text">
+          <p><span>7</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u413" class="ax_形状">
+        <img id="u413_img" class="img " src="images/发布框_话题选择/u31.png"/>
+        <!-- Unnamed () -->
+        <div id="u414" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u415" class="ax_表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u416" class="ax_单元格">
+          <img id="u416_img" class="img " src="images/发布框_话题选择/u34.png"/>
+          <!-- Unnamed () -->
+          <div id="u417" class="text">
+            <p><span>序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u418" class="ax_单元格">
+          <img id="u418_img" class="img " src="images/发布框_话题选择/u36.png"/>
+          <!-- Unnamed () -->
+          <div id="u419" class="text">
+            <p><span>名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u420" class="ax_单元格">
+          <img id="u420_img" class="img " src="images/发布框_话题选择/u38.png"/>
+          <!-- Unnamed () -->
+          <div id="u421" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u422" class="ax_单元格">
+          <img id="u422_img" class="img " src="images/发布框_话题选择/u40.png"/>
+          <!-- Unnamed () -->
+          <div id="u423" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u424" class="ax_单元格">
+          <img id="u424_img" class="img " src="images/频道详情页面/u424.png"/>
+          <!-- Unnamed () -->
+          <div id="u425" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u426" class="ax_单元格">
+          <img id="u426_img" class="img " src="images/频道详情页面/u426.png"/>
+          <!-- Unnamed () -->
+          <div id="u427" class="text">
+            <p><span>申请理由</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u428" class="ax_单元格">
+          <img id="u428_img" class="img " src="images/频道详情页面/u428.png"/>
+          <!-- Unnamed () -->
+          <div id="u429" class="text">
+            <p><span>文本框</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u430" class="ax_单元格">
+          <img id="u430_img" class="img " src="images/频道详情页面/u430.png"/>
+          <!-- Unnamed () -->
+          <div id="u431" class="text">
+            <p><span>1、用户</span><span>至少输入50字的申请理由，只有超过50个汉字才能进行提交；</span></p><p><span>2、提交成功会显示，提交成功，请等待YHOUSE工作人员联系！</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u432" class="ax_image">
+        <img id="u432_img" class="img " src="images/发布框_话题选择/u29.png"/>
+        <!-- Unnamed () -->
+        <div id="u433" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

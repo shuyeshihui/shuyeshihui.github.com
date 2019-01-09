@@ -1,0 +1,556 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>带回复功能的评论列表</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/带回复功能的评论列表/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/带回复功能的评论列表/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u128" class="ax_default _图片">
+        <img id="u128_img" class="img " src="images/详情首界面/u0.png"/>
+        <!-- Unnamed () -->
+        <div id="u129" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u130" class="ax_default _形状">
+        <div id="u130_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u131" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u132" class="ax_default _文本框">
+        <input id="u132_input" type="text" value="&nbsp; &nbsp; &nbsp;&nbsp; 写回复会弹幕" class="text_sketch"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u133" class="ax_default _图片">
+        <img id="u133_img" class="img " src="images/详情首界面/u5.png"/>
+        <!-- Unnamed () -->
+        <div id="u134" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u135" class="ax_default _图片">
+        <img id="u135_img" class="img " src="images/详情首界面/u7.png"/>
+        <!-- Unnamed () -->
+        <div id="u136" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u137" class="ax_default _图片">
+        <img id="u137_img" class="img " src="images/详情首界面/u9.png"/>
+        <!-- Unnamed () -->
+        <div id="u138" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u139" class="ax_default _图片">
+        <img id="u139_img" class="img " src="images/详情首界面/u11.png"/>
+        <!-- Unnamed () -->
+        <div id="u140" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u141" class="ax_default _形状">
+        <div id="u141_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u142" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#F2F2F2;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u143" class="ax_default _形状">
+        <img id="u143_img" class="img " src="images/详情首界面/u15.png"/>
+        <!-- Unnamed () -->
+        <div id="u144" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">1</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u145" class="ax_default _二级标题">
+        <div id="u145_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u146" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">此图标代表的是评论列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u147" class="ax_default _形状">
+        <img id="u147_img" class="img " src="images/详情首界面/u15.png"/>
+        <!-- Unnamed () -->
+        <div id="u148" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u149" class="ax_default _二级标题">
+        <div id="u149_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u150" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">此图标代表的是收藏按钮</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u151" class="ax_default _形状">
+        <img id="u151_img" class="img " src="images/详情首界面/u15.png"/>
+        <!-- Unnamed () -->
+        <div id="u152" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u153" class="ax_default _二级标题">
+        <div id="u153_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u154" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">此图标代表的是弹幕开启或者关闭</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u155" class="ax_default _形状">
+        <img id="u155_img" class="img " src="images/详情首界面/u15.png"/>
+        <!-- Unnamed () -->
+        <div id="u156" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">4</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u157" class="ax_default _二级标题">
+        <div id="u157_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u158" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">此处点击可以发表评论（弹幕）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u159" class="ax_default _形状">
+        <div id="u159_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u160" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u161" class="ax_default _二级标题">
+        <div id="u161_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u162" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">评论列表：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u163" class="ax_default _图片">
+        <img id="u163_img" class="img " src="images/不带回复功能的评论列表/u104.png"/>
+        <!-- Unnamed () -->
+        <div id="u164" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u165" class="ax_default _文本段落">
+        <div id="u165_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u166" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称XXX：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u167" class="ax_default _文本段落">
+        <div id="u167_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u168" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">这样的图片真心好好看，我还想去看一下啊！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u169" class="ax_default _图片">
+        <img id="u169_img" class="img " src="images/不带回复功能的评论列表/u110.png"/>
+        <!-- Unnamed () -->
+        <div id="u170" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u171" class="ax_default _文本段落">
+        <div id="u171_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u172" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">2300</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u173" class="ax_default _水平线" WidgetHeight="1" WidgetWidth="531" WidgetCenterX="265.5" WidgetCenterY="412.5">
+        <div id="u173p000" class="ax_vector_shape" WidgetTopLeftX="-0.498130841121495" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.494392523364486" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.498130841121495" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.494392523364486" WidgetBottomRightY="0.166666666666667">
+          <img id="u173p000_img" class="img " src="images/不带回复功能的评论列表/u114p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u174" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u175" class="ax_default _图片">
+        <img id="u175_img" class="img " src="images/不带回复功能的评论列表/u104.png"/>
+        <!-- Unnamed () -->
+        <div id="u176" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u177" class="ax_default _文本段落">
+        <div id="u177_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u178" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称XXX：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u179" class="ax_default _文本段落">
+        <div id="u179_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u180" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">这样的图片真心好好看，我还想去看一下啊！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u181" class="ax_default _图片">
+        <img id="u181_img" class="img " src="images/不带回复功能的评论列表/u110.png"/>
+        <!-- Unnamed () -->
+        <div id="u182" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u183" class="ax_default _文本段落">
+        <div id="u183_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u184" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">2300</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u185" class="ax_default _水平线" WidgetHeight="1" WidgetWidth="529" WidgetCenterX="264.5" WidgetCenterY="483.5">
+        <div id="u185p000" class="ax_vector_shape" WidgetTopLeftX="-0.49812382739212" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.49437148217636" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.49812382739212" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.49437148217636" WidgetBottomRightY="0.166666666666667">
+          <img id="u185p000_img" class="img " src="images/不带回复功能的评论列表/u126p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u186" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u187" class="ax_default _形状">
+        <img id="u187_img" class="img " src="images/详情首界面/u15.png"/>
+        <!-- Unnamed () -->
+        <div id="u188" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">5</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u189" class="ax_default _二级标题">
+        <div id="u189_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u190" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Bold', '应用字体';font-weight:700;font-style:normal;font-size:24px;text-decoration:none;color:#333333;">点击触发操作框</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u191" class="ax_default _形状">
+        <div id="u191_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u192" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u193" class="ax_default _文本段落">
+        <div id="u193_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u194" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称XXX：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u195" class="ax_default _文本段落">
+        <div id="u195_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u196" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">我也觉得</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u197" class="ax_default _图片">
+        <img id="u197_img" class="img " src="images/不带回复功能的评论列表/u110.png"/>
+        <!-- Unnamed () -->
+        <div id="u198" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u199" class="ax_default _文本段落">
+        <div id="u199_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u200" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">2300</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u201" class="ax_default _图片">
+        <img id="u201_img" class="img " src="images/不带回复功能的评论列表/u104.png"/>
+        <!-- Unnamed () -->
+        <div id="u202" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u203" class="ax_default _形状">
+        <div id="u203_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u204" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u205" class="ax_default _文本段落">
+        <div id="u205_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u206" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称XXX：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u207" class="ax_default _文本段落">
+        <div id="u207_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u208" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">这样的图片真心好好看，我还想去看一下啊！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u209" class="ax_default _形状">
+        <div id="u209_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u210" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u211" class="ax_default _文本段落">
+        <div id="u211_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u212" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称XXX：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u213" class="ax_default _文本段落">
+        <div id="u213_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u214" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">我也觉得</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u215" class="ax_default _图片">
+        <img id="u215_img" class="img " src="images/不带回复功能的评论列表/u110.png"/>
+        <!-- Unnamed () -->
+        <div id="u216" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u217" class="ax_default _文本段落">
+        <div id="u217_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u218" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">2300</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u219" class="ax_default _图片">
+        <img id="u219_img" class="img " src="images/不带回复功能的评论列表/u104.png"/>
+        <!-- Unnamed () -->
+        <div id="u220" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u221" class="ax_default _水平线" WidgetHeight="1" WidgetWidth="434" WidgetCenterX="815" WidgetCenterY="716.5">
+        <div id="u221p000" class="ax_vector_shape" WidgetTopLeftX="-0.497711670480549" WidgetTopLeftY="-0.166666666666667" WidgetTopRightX="0.495423340961098" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="-0.497711670480549" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.495423340961098" WidgetBottomRightY="0.166666666666667">
+          <img id="u221p000_img" class="img " src="images/带回复功能的评论列表/u221p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u222" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u223" class="ax_default _文本段落">
+        <div id="u223_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u224" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称YYY回复昵称XXX：你什么眼睛啊？！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u225" class="ax_default _文本段落">
+        <div id="u225_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u226" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">昵称ZZZ回复昵称XXX：这才好看呢？！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u227" class="ax_default _文本段落">
+        <div id="u227_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u228" class="text" style="visibility: visible;">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:10px;text-decoration:underline;color:#333333;">查看所有回复</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u229" class="ax_default _图片">
+        <img id="u229_img" class="img " src="images/带回复功能的评论列表/u229.png"/>
+        <!-- Unnamed () -->
+        <div id="u230" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u231" class="ax_default _图片">
+        <img id="u231_img" class="img " src="images/带回复功能的评论列表/u229.png"/>
+        <!-- Unnamed () -->
+        <div id="u232" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u233" class="ax_default _垂直线" WidgetHeight="34" WidgetWidth="1" WidgetCenterX="498.5" WidgetCenterY="364">
+        <div id="u233p000" class="ax_vector_shape" WidgetTopLeftX="-0.448717948717949" WidgetTopLeftY="0.166666666666666" WidgetTopRightX="-0.448717948717949" WidgetTopRightY="-0.166666666666667" WidgetBottomLeftX="0.423076923076923" WidgetBottomLeftY="0.166666666666667" WidgetBottomRightX="0.423076923076923" WidgetBottomRightY="-0.166666666666666">
+          <img id="u233p000_img" class="img " src="images/带回复功能的评论列表/u233p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u234" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u235" class="ax_default _垂直线" WidgetHeight="34" WidgetWidth="1" WidgetCenterX="499.5" WidgetCenterY="431">
+        <div id="u235p000" class="ax_vector_shape" WidgetTopLeftX="-0.448717948717949" WidgetTopLeftY="0.5" WidgetTopRightX="-0.448717948717949" WidgetTopRightY="0.166666666666666" WidgetBottomLeftX="0.423076923076923" WidgetBottomLeftY="0.5" WidgetBottomRightX="0.423076923076923" WidgetBottomRightY="0.166666666666667">
+          <img id="u235p000_img" class="img " src="images/带回复功能的评论列表/u235p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u236" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'应用字体 Regular', '应用字体';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

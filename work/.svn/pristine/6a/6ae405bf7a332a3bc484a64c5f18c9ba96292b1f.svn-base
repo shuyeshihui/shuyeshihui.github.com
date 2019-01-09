@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>用户调研和最终方案确认</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/用户调研和最终方案确认/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/用户调研和最终方案确认/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1733" class="ax_default _文本段落">
+        <div id="u1733_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1734" class="text">
+          <p><span>最终建议采用方案4；</span></p><p><span><br></span></p><p><span>咨询了8位用户（五位线上、三位线下）关于图文发布界面+POI一些问题，得出一些想法：</span></p><p><span><br></span></p><p><span>一、用户为什么会使用话题？</span></p><p><span>1、希望有更多人看到他发的内容，用户知道带上话题标签会出现在更多曝光的地方（ins、微博的经验）；</span></p><p><span>2、方便记住自己在干什么，话题可以当做记录自己生活的一种工具；</span></p><p><span>3、自己会去编辑话题，觉得话题编辑的好会成为经典；</span></p><p><span>4、会觉得话题是一种聚类，里面有关于该话题各种各样的内容；</span></p><p><span>5、加话题可以避免自己没有话说的尴尬境地，使得图文的文字内容好看一点，热闹一点；</span></p><p><span>6、参加话题的活动；</span></p><p><span><br></span></p><p><span>二、用户发图时有没有关联商户的需求？</span></p><p><span>1、和用户本身相关，如果用户本身就喜欢晒吃的和玩的，有好的餐厅时，那基本就会关联商户；</span></p><p><span>2、关联商户是出于几大目的，一是为了向好友炫耀（分享）自己在哪吃的，二是为了推荐给好友商户，三是为了点评该家餐厅怎么样</span></p><p><span><br></span></p><p><span>三、用户发图时，如果出现的是非“#”聚合的话题标签，而是和餐厅话题相关的小房子展现形式，用户会不会觉得奇怪？可不可以接受？</span></p><p><span>1、通过现有的活动标签的展现形式向用户进行设问，现有的活动标签（气球的展现形式）会不会让用户感觉到奇怪：用户觉得不会觉得奇怪（还好），还是比较关注内容和图片，觉得是可点的，点击进去的也会符合用户的预期；</span></p><p><span>2、通过设问如果将现有的餐厅话题换成小房子的展现形式会不会感觉到很奇怪：用户首先觉得在发布界面出现这个不会觉得奇怪，因为是用户主动关联的是商户。所以在文字输入区域出现不一样展现形式的商户标签是可以理解的；对于在社区里看的用户来说，在文字区域看到一个商户标签也不会感到奇怪，会感觉到好奇，但是如果自身对这家餐厅不感兴趣是不会尝试去点击这块商户标签的，同理对于图文动态下方展现出来的商户呈现，用户觉得也是如果对商户感兴趣也是会去点击的。</span></p><p><span>3、图文card给用户带来的预期：用户认为点击图文动态下方展现出来的商户呈现是和朋友圈里的大众点评的POI信息一样，点击是到达商户的详情页；认为点击图文文字区域的商户话题是能够看到和这个餐厅相关的图文动态信息；</span></p><p><span><br></span></p><p><span>四、其它</span></p><p><span>1、有用户认为在社区的推荐里只需要呈现同城的用户发的商户动态；但是如果用户关注了某个人，在关注界面出现这个人发的所有商户动态也是可以的；</span></p><p><span><br></span></p><p><span>五、结论：</span></p><p><span>1、用户对于餐厅话题到底长什么样并不关心，只要设计的小icon能让用户感知到是什么意思，不会感觉到奇怪；（有用户提到红包活动的小气球其实不明白为什么icon是个小气球）</span></p><p><span>2、用户有发图的时候关联商户的需求，想要去推荐、炫耀他去过玩过的店的需求；</span></p><p><span>3、浏览的用户如果对某个图文的某个商户感兴趣有想要快捷到达某家店的看该商家详细信息的需求；</span></p><p><span>4、对于社区的推荐模块来说，还是希望看到和用户本身相关的图文内容；</span></p><p><span><br></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

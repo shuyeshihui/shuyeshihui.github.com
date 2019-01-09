@@ -1,0 +1,1028 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>自组网V0.2(十月)</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/自组网v0_2_十月_/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/自组网v0_2_十月_/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1347" class="ax_default box_2">
+        <div id="u1347_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1348" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">admin后台</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u1349" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1350" class="ax_default _单元格">
+          <img id="u1350_img" class="img " src="images/自组网v0_2_十月_/u1350.png"/>
+          <!-- Unnamed () -->
+          <div id="u1351" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">班级</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1352" class="ax_default _单元格">
+          <img id="u1352_img" class="img " src="images/自组网v0_2_十月_/u1352.png"/>
+          <!-- Unnamed () -->
+          <div id="u1353" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">WiFi</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1354" class="ax_default _单元格">
+          <img id="u1354_img" class="img " src="images/自组网v0_2_十月_/u1354.png"/>
+          <!-- Unnamed () -->
+          <div id="u1355" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">老师</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1356" class="ax_default _单元格">
+          <img id="u1356_img" class="img " src="images/自组网v0_2_十月_/u1356.png"/>
+          <!-- Unnamed () -->
+          <div id="u1357" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1358" class="ax_default _单元格">
+          <img id="u1358_img" class="img " src="images/自组网v0_2_十月_/u1358.png"/>
+          <!-- Unnamed () -->
+          <div id="u1359" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">备注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1360" class="ax_default _单元格">
+          <img id="u1360_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1361" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州实验小学三年级二班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1362" class="ax_default _单元格">
+          <img id="u1362_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1363" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ssid：syxx0302，password：77777777</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1364" class="ax_default _单元格">
+          <img id="u1364_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1365" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">刘一</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1366" class="ax_default _单元格">
+          <img id="u1366_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1367" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生1、2、3、4、5、6、7、8、9、10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1368" class="ax_default _单元格">
+          <img id="u1368_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1369" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">常规教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1370" class="ax_default _单元格">
+          <img id="u1370_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1371" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州实验小学三年级二班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1372" class="ax_default _单元格">
+          <img id="u1372_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1373" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ssid：syxx0302，password：77777777</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1374" class="ax_default _单元格">
+          <img id="u1374_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1375" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">刘二</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1376" class="ax_default _单元格">
+          <img id="u1376_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1377" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生1、2、3、4、5、6、7、8、9、10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1378" class="ax_default _单元格">
+          <img id="u1378_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1379" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">常规教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1380" class="ax_default _单元格">
+          <img id="u1380_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1381" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州实验小学三年级二班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1382" class="ax_default _单元格">
+          <img id="u1382_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1383" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ssid：syxx0302，password：77777777</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1384" class="ax_default _单元格">
+          <img id="u1384_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1385" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">刘三</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1386" class="ax_default _单元格">
+          <img id="u1386_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1387" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生1、2、3、4、5、6、7、8、9、10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1388" class="ax_default _单元格">
+          <img id="u1388_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1389" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">常规教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1390" class="ax_default _单元格">
+          <img id="u1390_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1391" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州实验小学三年级一班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1392" class="ax_default _单元格">
+          <img id="u1392_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1393" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ssid：syxx0301，password：77777777</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1394" class="ax_default _单元格">
+          <img id="u1394_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1395" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">刘一</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1396" class="ax_default _单元格">
+          <img id="u1396_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1397" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生1、2、3、4、5、6、7、8、9、10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1398" class="ax_default _单元格">
+          <img id="u1398_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1399" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">常规教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1400" class="ax_default _单元格">
+          <img id="u1400_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1401" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州实验小学三年级一班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1402" class="ax_default _单元格">
+          <img id="u1402_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1403" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">ssid：syxx0301，password：77777777</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1404" class="ax_default _单元格">
+          <img id="u1404_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1405" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">刘三</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1406" class="ax_default _单元格">
+          <img id="u1406_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1407" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生1、2、3、4、5、6、7、8、9、10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1408" class="ax_default _单元格">
+          <img id="u1408_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1409" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">常规教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1410" class="ax_default _单元格">
+          <img id="u1410_img" class="img " src="images/自组网v0_2_十月_/u1360.png"/>
+          <!-- Unnamed () -->
+          <div id="u1411" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州小学多媒体教室1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1412" class="ax_default _单元格">
+          <img id="u1412_img" class="img " src="images/自组网v0_2_十月_/u1362.png"/>
+          <!-- Unnamed () -->
+          <div id="u1413" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1414" class="ax_default _单元格">
+          <img id="u1414_img" class="img " src="images/自组网v0_2_十月_/u1364.png"/>
+          <!-- Unnamed () -->
+          <div id="u1415" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1416" class="ax_default _单元格">
+          <img id="u1416_img" class="img " src="images/自组网v0_2_十月_/u1366.png"/>
+          <!-- Unnamed () -->
+          <div id="u1417" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1418" class="ax_default _单元格">
+          <img id="u1418_img" class="img " src="images/自组网v0_2_十月_/u1368.png"/>
+          <!-- Unnamed () -->
+          <div id="u1419" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">多媒体教室</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1420" class="ax_default _单元格">
+          <img id="u1420_img" class="img " src="images/自组网v0_2_十月_/u1420.png"/>
+          <!-- Unnamed () -->
+          <div id="u1421" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">福州小学多媒体教室2</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1422" class="ax_default _单元格">
+          <img id="u1422_img" class="img " src="images/自组网v0_2_十月_/u1422.png"/>
+          <!-- Unnamed () -->
+          <div id="u1423" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1424" class="ax_default _单元格">
+          <img id="u1424_img" class="img " src="images/自组网v0_2_十月_/u1424.png"/>
+          <!-- Unnamed () -->
+          <div id="u1425" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1426" class="ax_default _单元格">
+          <img id="u1426_img" class="img " src="images/自组网v0_2_十月_/u1426.png"/>
+          <!-- Unnamed () -->
+          <div id="u1427" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u1428" class="ax_default _单元格">
+          <img id="u1428_img" class="img " src="images/自组网v0_2_十月_/u1428.png"/>
+          <!-- Unnamed () -->
+          <div id="u1429" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">多媒体教室</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1430" class="ax_default heading_3">
+        <div id="u1430_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1431" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">在admin后台进行WiFi和班级的绑定。只有常规教室进行绑定，默认不绑定的为多媒体教室。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1432" class="ax_default box_1">
+        <div id="u1432_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1433" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1434" class="ax_default default_button">
+        <div id="u1434_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1435" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">常规教室</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1436" class="ax_default heading_3">
+        <div id="u1436_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1437" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师端：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u1438" class="ax_default line" WidgetHeight="378" WidgetWidth="1" WidgetCenterX="86.5" WidgetCenterY="676">
+        <div id="u1438p000" class="ax_vector_shape" WidgetTopLeftX="-0.494778067885117" WidgetTopLeftY="0.166666666666663" WidgetTopRightX="-0.494778067885117" WidgetTopRightY="-0.166666666666671" WidgetBottomLeftX="0.492167101827676" WidgetBottomLeftY="0.166666666666671" WidgetBottomRightX="0.492167101827676" WidgetBottomRightY="-0.166666666666663">
+          <img id="u1438p000_img" class="img " src="images/自组网v0_2_十月_/u1438p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u1439" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1440" class="ax_default label">
+        <div id="u1440_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1441" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">WLAN</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1442" class="ax_default heading_3">
+        <div id="u1442_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1443" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">连接任意网络都可以</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1444" class="ax_default box_1">
+        <div id="u1444_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1445" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1446" class="ax_default label">
+        <div id="u1446_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1447" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">用户名：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1448" class="ax_default box_1">
+        <div id="u1448_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1449" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1450" class="ax_default label">
+        <div id="u1450_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1451" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">密码：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1452" class="ax_default box_1">
+        <div id="u1452_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1453" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1454" class="ax_default default_button">
+        <div id="u1454_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1455" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1456" class="ax_default heading_3">
+        <div id="u1456_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1457" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">打开apk，直接进入登陆界面。第一次使用老师端，输入用户名和密码即可进行登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1458" class="ax_default box_1">
+        <div id="u1458_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1459" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1460" class="ax_default _图片">
+        <img id="u1460_img" class="img " src="images/自组网v0_2_十月_/u1460.png"/>
+        <!-- Unnamed () -->
+        <div id="u1461" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1462" class="ax_default default_button">
+        <div id="u1462_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1463" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">切换账户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u1464" class="ax_default line" WidgetHeight="378" WidgetWidth="1" WidgetCenterX="140.5" WidgetCenterY="1481">
+        <div id="u1464p000" class="ax_vector_shape" WidgetTopLeftX="-0.494778067885117" WidgetTopLeftY="0.166666666666663" WidgetTopRightX="-0.494778067885117" WidgetTopRightY="-0.166666666666671" WidgetBottomLeftX="0.492167101827676" WidgetBottomLeftY="0.166666666666671" WidgetBottomRightX="0.492167101827676" WidgetBottomRightY="-0.166666666666663">
+          <img id="u1464p000_img" class="img " src="images/自组网v0_2_十月_/u1438p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u1465" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1466" class="ax_default box_1">
+        <div id="u1466_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1467" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">选择班级</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1468" class="ax_default label">
+        <div id="u1468_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1469" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">某某课件</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1470" class="ax_default box_1">
+        <div id="u1470_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1471" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">授课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1472" class="ax_default box_1">
+        <div id="u1472_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1473" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">预览</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1474" class="ax_default label">
+        <div id="u1474_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1475" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">某某章节</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1476" class="ax_default heading_3">
+        <div id="u1476_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1477" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师连接任意网络都可以进行登录，老师登陆成功之后会选择授课班级，在授课班级选择了某一课件点击了</span><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#FF0000;">授课</span><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">。则老师的</span><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#FF0000;">pad自动搜索并且连接到该授课班级的网络</span><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">。（老师不管教几个班都可以实现，因为WiFi连接的绑定做在授课按钮上面。）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1478" class="ax_default box_1">
+        <div id="u1478_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1479" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1480" class="ax_default heading_3">
+        <div id="u1480_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1481" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">如果老师没有搜到该班级的网络，则无法进入授课界面。并且会提示老师：</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">请在某年级几班的网络条件下进行授课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1482" class="ax_default heading_3">
+        <div id="u1482_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1483" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生端：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1484" class="ax_default box_1">
+        <div id="u1484_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1485" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u1486" class="ax_default line" WidgetHeight="378" WidgetWidth="1" WidgetCenterX="86.5" WidgetCenterY="2359">
+        <div id="u1486p000" class="ax_vector_shape" WidgetTopLeftX="-0.494778067885117" WidgetTopLeftY="0.166666666666663" WidgetTopRightX="-0.494778067885117" WidgetTopRightY="-0.166666666666671" WidgetBottomLeftX="0.492167101827676" WidgetBottomLeftY="0.166666666666671" WidgetBottomRightX="0.492167101827676" WidgetBottomRightY="-0.166666666666663">
+          <img id="u1486p000_img" class="img " src="images/自组网v0_2_十月_/u1438p000.png"/>
+        </div>
+        <!-- Unnamed () -->
+        <div id="u1487" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1488" class="ax_default label">
+        <div id="u1488_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1489" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">WLAN</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1490" class="ax_default heading_3">
+        <div id="u1490_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1491" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">连接任意网络都可以</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1492" class="ax_default box_1">
+        <div id="u1492_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1493" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1494" class="ax_default heading_3">
+        <div id="u1494_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1495" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">打开apk，直接进入登陆界面。第一次使用学生端，输入用户名和密码即可进行登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1496" class="ax_default label">
+        <div id="u1496_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1497" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">用户名：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1498" class="ax_default box_1">
+        <div id="u1498_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1499" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1500" class="ax_default label">
+        <div id="u1500_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1501" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">密码：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1502" class="ax_default box_1">
+        <div id="u1502_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1503" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1504" class="ax_default default_button">
+        <div id="u1504_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1505" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1506" class="ax_default box_1">
+        <div id="u1506_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1507" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1508" class="ax_default heading_3">
+        <div id="u1508_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1509" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">当学生点击了登陆之后，pad会识别出该学生的身份（学生所在的班级），然后去强制连接后台绑定的WiFi</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">如果没有发现绑定的班级WiFi，会提示学生：请在某班级WiFi条件下使用智慧教室</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1510" class="ax_default box_1">
+        <div id="u1510_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1511" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1512" class="ax_default label">
+        <div id="u1512_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1513" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:18px;text-decoration:none;color:#FF0000;">第一次使用</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1514" class="ax_default label">
+        <div id="u1514_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1515" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:18px;text-decoration:none;color:#FF0000;">记住用户名和密码的情况下</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1516" class="ax_default heading_3">
+        <div id="u1516_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1517" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生没有连接网络或者连接任意网络，学生点击打开智慧课堂apk的时候会自动去连接之前记住用户名和密码情况下账户的班级WiFi</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">假设之前是实验小学3年2班的张小明同学记住了用户名和密码。则后台会记录他的登陆信息和班级信息。再次打开的时候，后台去连接之前班级信息所绑定的WiFi。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">如果没有发现绑定的班级WiFi，会提示学生：请在某班级WiFi条件下使用智慧教室</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1518" class="ax_default box_1">
+        <div id="u1518_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1519" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1520" class="ax_default heading_3">
+        <div id="u1520_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1521" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生如果连接的是正确的班级WiFi，学生则不需要点击智慧课堂apk，学生也会被抓取进入课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1522" class="ax_default default_button">
+        <div id="u1522_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1523" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">多媒体教室</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1524" class="ax_default box_1">
+        <div id="u1524_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1525" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1526" class="ax_default heading_3">
+        <div id="u1526_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1527" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">多媒体教室的学生pad都是公用的。多媒体教室的老师pad有可能是公用的也有可能是老师自己的pad。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">多媒体教室的网络连接（连错网、没有联网）不考虑。因为学生pad是公用的，代理商来设置时已经将pad连接了该多媒体教室的网络，一般情况下pad是不会连接到其它网络的。如果连接到了其它网络老师会发现该学生没有上线，会帮助他调整的。老师pad的联网是不需要考虑的，公用pad本来就连接了该教室的网络，自己带来的pad。老师只需自己连接网络即可。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;"><br></span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">判定：在后台没有绑定的网络上有一个老师使用了智慧课堂APP进行了授课，则连接这个网络打开互动课堂APP的都为学生。如果有记住用户名和密码打开智慧课堂APP的老师会提示：异常流程两个老师同时在线的处理</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1528" class="ax_default box_1">
+        <div id="u1528_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1529" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1530" class="ax_default heading_3">
+        <div id="u1530_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1531" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师端：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1532" class="ax_default label">
+        <div id="u1532_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1533" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">用户名：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1534" class="ax_default box_1">
+        <div id="u1534_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1535" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1536" class="ax_default label">
+        <div id="u1536_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1537" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">密码：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1538" class="ax_default box_1">
+        <div id="u1538_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1539" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1540" class="ax_default default_button">
+        <div id="u1540_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1541" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1542" class="ax_default heading_3">
+        <div id="u1542_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1543" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">打开apk，直接进入登陆界面，老师输入用户名和密码即可进行登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1544" class="ax_default box_1">
+        <div id="u1544_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1545" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1546" class="ax_default heading_3">
+        <div id="u1546_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1547" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">老师在主界面选择授课班级，选择授课课件进行授课。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1548" class="ax_default heading_3">
+        <div id="u1548_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1549" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生端：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1550" class="ax_default box_1">
+        <div id="u1550_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1551" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1552" class="ax_default heading_3">
+        <div id="u1552_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1553" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生端打开智慧教室apk，如果老师还没有点击授课，学生端会显示请等待老师进行授课。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1554" class="ax_default heading_1">
+        <div id="u1554_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1555" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:32px;text-decoration:none;color:#333333;">请等待老师进行授课。。。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1556" class="ax_default box_1">
+        <div id="u1556_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1557" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1558" class="ax_default heading_3">
+        <div id="u1558_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1559" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">学生端打开智慧教室apk，如果老师已经点击授课，学生端会出现以下界面:选择自己的身份点击登录即可</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1560" class="ax_default _图片">
+        <img id="u1560_img" class="img " src="images/自组网v0_2_十月_/u1560.png"/>
+        <!-- Unnamed () -->
+        <div id="u1561" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

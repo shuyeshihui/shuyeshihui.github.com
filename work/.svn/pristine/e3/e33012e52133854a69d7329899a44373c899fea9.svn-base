@@ -1,0 +1,396 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>听课模式</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/听课模式/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/听课模式/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1271" class="ax_default box_1">
+        <div id="u1271_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1272" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1273" class="ax_default _形状">
+        <img id="u1273_img" class="img " src="images/听课模式/u1273.png"/>
+        <!-- Unnamed () -->
+        <div id="u1274" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1275" class="ax_default _形状">
+        <img id="u1275_img" class="img " src="images/听课模式/u1275.png"/>
+        <!-- Unnamed () -->
+        <div id="u1276" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1277" class="ax_default _形状">
+        <div id="u1277_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1278" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1279" class="ax_default _文本段落">
+        <div id="u1279_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1280" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#CCCCCC;">请输入密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆形) -->
+      <div id="u1281" class="ax_default _形状">
+        <img id="u1281_img" class="img " src="images/听课模式/u1281.png"/>
+        <!-- Unnamed () -->
+        <div id="u1282" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1283" class="ax_default _形状">
+        <div id="u1283_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1284" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1285" class="ax_default _文本段落">
+        <div id="u1285_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1286" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#CCCCCC;">请输入用户名</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1287" class="ax_default _形状">
+        <div id="u1287_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1288" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1289" class="ax_default _形状">
+        <div id="u1289_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1290" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1291" class="ax_default _文本段落">
+        <div id="u1291_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1292" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">记住密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1293" class="ax_default _文本段落">
+        <div id="u1293_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1294" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">忘记密码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1295" class="ax_default _图片">
+        <img id="u1295_img" class="img " src="images/听课模式/u1295.png"/>
+        <!-- Unnamed () -->
+        <div id="u1296" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1297" class="ax_default box_2">
+        <div id="u1297_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1298" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1299" class="ax_default heading_3">
+        <div id="u1299_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1300" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">1、在登陆界面添加进入听课模式的按钮，点击即可进入听课模式</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1301" class="ax_default box_1">
+        <div id="u1301_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1302" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1303" class="ax_default _形状">
+        <img id="u1303_img" class="img " src="images/听课模式/u1303.png"/>
+        <!-- Unnamed () -->
+        <div id="u1304" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1305" class="ax_default _形状">
+        <img id="u1305_img" class="img " src="images/听课模式/u1275.png"/>
+        <!-- Unnamed () -->
+        <div id="u1306" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1307" class="ax_default _文本段落">
+        <div id="u1307_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1308" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:20px;text-decoration:none;color:#333333;">请等待授课老师上课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1309" class="ax_default _图片">
+        <img id="u1309_img" class="img " src="images/听课模式/u1295.png"/>
+        <!-- Unnamed () -->
+        <div id="u1310" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1311" class="ax_default label">
+        <div id="u1311_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1312" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">听课老师您好</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1313" class="ax_default heading_3">
+        <div id="u1313_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1314" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">2、前提：听课老师和授课老师连接的网络是同一个。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">当老师输入用户名和密码登录了之后。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">如果授课老师在还未点击授课按钮，则出现提示框提示听课老师：请等待授课老师上课。</span></p><p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">授课老师点击授课成功了，听课老师就连接进入课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u1315" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1316" class="ax_default box_1">
+          <div id="u1316_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1317" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u1318" class="ax_default box_1">
+          <img id="u1318_img" class="img " src="images/听课模式/u1318.png"/>
+          <!-- Unnamed () -->
+          <div id="u1319" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1320" class="ax_default label">
+          <div id="u1320_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1321" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1322" class="ax_default box_1">
+          <div id="u1322_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1323" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生花名册</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1324" class="ax_default heading_3">
+        <div id="u1324_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1325" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">3、听课老师登陆成功了同步学生端内容呈现给听课老师；授课老师发题了听课老师也能够收到（体验），但是听课老师答题不会被记录。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1326" class="ax_default heading_3">
+        <div id="u1326_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1327" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">同步学生端内容</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u1328" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1329" class="ax_default box_1">
+          <div id="u1329_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1330" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Pie Chart) -->
+        <div id="u1331" class="ax_default box_1">
+          <img id="u1331_img" class="img " src="images/听课模式/u1318.png"/>
+          <!-- Unnamed () -->
+          <div id="u1332" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1333" class="ax_default label">
+          <div id="u1333_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1334" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#333333;">退出</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1335" class="ax_default box_1">
+          <div id="u1335_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1336" class="text" style="visibility: visible;">
+            <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">学生花名册</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u1337" class="ax_default _图片">
+        <img id="u1337_img" class="img " src="images/听课模式/u1337.png"/>
+        <!-- Unnamed () -->
+        <div id="u1338" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1339" class="ax_default heading_3">
+        <div id="u1339_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1340" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">4、学生花名册功能和目前老师端的花名册功能相同，但是花名册里只提供查看学生屏幕的功能。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1341" class="ax_default heading_3">
+        <div id="u1341_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1342" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;font-style:normal;font-size:18px;text-decoration:none;color:#333333;">5、之后会考虑听课老师笔记功能等。现阶段不提供。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1343" class="ax_default label">
+        <div id="u1343_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1344" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:none;color:#FF0000;">点击学生头像实时查看学生屏幕</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1345" class="ax_default label">
+        <div id="u1345_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1346" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:14px;text-decoration:underline;color:#333333;">进入听课模式</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

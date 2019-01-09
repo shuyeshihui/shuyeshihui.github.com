@@ -1,0 +1,761 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>p1.附近 / 同城</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/p1_附近___同城/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/p1_附近___同城/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Image) -->
+      <div id="u240" class="ax_default _图片">
+        <img id="u240_img" class="img " src="images/p1_附近___同城/u240.png"/>
+        <!-- Unnamed () -->
+        <div id="u241" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u242" class="ax_default primary_button">
+        <div id="u242_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u243" class="text">
+          <p><span>同城</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u245" class="ax_default _形状">
+        <div id="u245_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u246" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u247" class="ax_default _图片">
+        <img id="u247_img" class="img " src="images/p1_发布界面改版_poi/u189.png"/>
+        <!-- Unnamed () -->
+        <div id="u248" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u249" class="ax_default box_1">
+        <div id="u249_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u250" class="text">
+          <p><span>附近的人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Group) -->
+      <div id="u251" class="ax_default" data-width="374" data-height="188">
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u252" class="ax_default box_1">
+          <div id="u252_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u253" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Ellipse) -->
+        <div id="u254" class="ax_default ellipse">
+          <img id="u254_img" class="img " src="images/p1_附近___同城/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u255" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u256" class="ax_default label">
+          <div id="u256_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u257" class="text">
+            <p><span>昵称、标识</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u258" class="ax_default label">
+          <div id="u258_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u259" class="text">
+            <p><span>200M以内</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u260" class="ax_default primary_button">
+          <div id="u260_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u261" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u262" class="ax_default box_1">
+          <div id="u262_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u263" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u264" class="ax_default placeholder">
+          <img id="u264_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u265" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u266" class="ax_default placeholder">
+          <img id="u266_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u267" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Group) -->
+      <div id="u268" class="ax_default" data-width="374" data-height="188">
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u269" class="ax_default box_1">
+          <div id="u269_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u270" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Ellipse) -->
+        <div id="u271" class="ax_default ellipse">
+          <img id="u271_img" class="img " src="images/p1_附近___同城/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u272" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u273" class="ax_default label">
+          <div id="u273_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u274" class="text">
+            <p><span>昵称、标识</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u275" class="ax_default label">
+          <div id="u275_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u276" class="text">
+            <p><span>300M以内</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u277" class="ax_default primary_button">
+          <div id="u277_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u278" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u279" class="ax_default box_1">
+          <div id="u279_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u280" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u281" class="ax_default placeholder">
+          <img id="u281_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u282" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Group) -->
+      <div id="u283" class="ax_default" data-width="374" data-height="188">
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u284" class="ax_default box_1">
+          <div id="u284_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u285" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Ellipse) -->
+        <div id="u286" class="ax_default ellipse">
+          <img id="u286_img" class="img " src="images/p1_附近___同城/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u287" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u288" class="ax_default label">
+          <div id="u288_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u289" class="text">
+            <p><span>昵称、标识</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u290" class="ax_default label">
+          <div id="u290_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u291" class="text">
+            <p><span>1KM以内</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u292" class="ax_default primary_button">
+          <div id="u292_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u293" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u294" class="ax_default box_1">
+          <div id="u294_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u295" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u296" class="ax_default placeholder">
+          <img id="u296_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u297" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u298" class="ax_default placeholder">
+          <img id="u298_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u299" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u300" class="ax_default placeholder">
+          <img id="u300_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u301" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u302" class="ax_default _图片">
+        <img id="u302_img" class="img " src="images/p1_附近___同城/u302.png"/>
+        <!-- Unnamed () -->
+        <div id="u303" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u304" class="ax_default box_1">
+        <div id="u304_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u305" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u306" class="ax_default _图片">
+        <img id="u306_img" class="img " src="images/p1_预订首页用户动态/u170.png"/>
+        <!-- Unnamed () -->
+        <div id="u307" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u308" class="ax_default heading_3">
+        <div id="u308_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u309" class="text">
+          <p><span>附近的人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u310" class="ax_default _图片">
+        <img id="u310_img" class="img " src="images/p1_附近___同城/u310.png"/>
+        <!-- Unnamed () -->
+        <div id="u311" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u312" class="ax_default _形状">
+        <div id="u312_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u313" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Table) -->
+      <div id="u314" class="ax_default _表格">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u315" class="ax_default _单元格">
+          <img id="u315_img" class="img " src="images/p1_发布界面改版_poi/u206.png"/>
+          <!-- Unnamed () -->
+          <div id="u316" class="text">
+            <p><span>—</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u317" class="ax_default _单元格">
+          <img id="u317_img" class="img " src="images/p1_发布界面改版_poi/u208.png"/>
+          <!-- Unnamed () -->
+          <div id="u318" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u319" class="ax_default _单元格">
+          <img id="u319_img" class="img " src="images/p1_附近___同城/u319.png"/>
+          <!-- Unnamed () -->
+          <div id="u320" class="text">
+            <p><span>页面规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u321" class="ax_default _单元格">
+          <img id="u321_img" class="img " src="images/p1_附近___同城/u321.png"/>
+          <!-- Unnamed () -->
+          <div id="u322" class="text">
+            <p><span>1、热门附近会增加“同城”列表，“同城”是系统默认给到的，不是兴趣分类中进行选择的；如果所在的城市有“同城”则会默认出现在“热门”旁边的第二个位置；</span></p><p><span>2、同城的信息流是按照用户更新时间进行排序的，信息流取的都是该城市，用户发布的图文；（根据用户发布的图文坐标进行判断）；用户刚更新的会排在最前面；</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u323" class="ax_default _形状">
+        <div id="u323_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u324" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Table) -->
+      <div id="u325" class="ax_default _表格">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u326" class="ax_default _单元格">
+          <img id="u326_img" class="img " src="images/p1_发布界面改版_poi/u206.png"/>
+          <!-- Unnamed () -->
+          <div id="u327" class="text">
+            <p><span>—</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u328" class="ax_default _单元格">
+          <img id="u328_img" class="img " src="images/p1_发布界面改版_poi/u208.png"/>
+          <!-- Unnamed () -->
+          <div id="u329" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u330" class="ax_default _单元格">
+          <img id="u330_img" class="img " src="images/p1_附近___同城/u319.png"/>
+          <!-- Unnamed () -->
+          <div id="u331" class="text">
+            <p><span>页面规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u332" class="ax_default _单元格">
+          <img id="u332_img" class="img " src="images/p1_附近___同城/u321.png"/>
+          <!-- Unnamed () -->
+          <div id="u333" class="text">
+            <p><span>1、附近的人是按照地理位置由近到远排序附近的人，展示附近的人的用户最少也要发布一条图文才会展示；</span></p><p><span>2、附近的人有两个入口：一是添加好友界面增加附近的人入口，二是社区banner下的小分类显示附近的人；附近的人两个入口，附近的人的模块根据后台配置哪些城市开放显示，哪些城市不显示；</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u334" class="ax_default _形状">
+        <div id="u334_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u335" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Table) -->
+      <div id="u336" class="ax_default _表格">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u337" class="ax_default _单元格">
+          <img id="u337_img" class="img " src="images/p1_发布界面改版_poi/u206.png"/>
+          <!-- Unnamed () -->
+          <div id="u338" class="text">
+            <p><span>—</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u339" class="ax_default _单元格">
+          <img id="u339_img" class="img " src="images/p1_发布界面改版_poi/u208.png"/>
+          <!-- Unnamed () -->
+          <div id="u340" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u341" class="ax_default _单元格">
+          <img id="u341_img" class="img " src="images/p1_附近___同城/u319.png"/>
+          <!-- Unnamed () -->
+          <div id="u342" class="text">
+            <p><span>页面规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u343" class="ax_default _单元格">
+          <img id="u343_img" class="img " src="images/p1_附近___同城/u321.png"/>
+          <!-- Unnamed () -->
+          <div id="u344" class="text">
+            <p><span>1、“添加好友”界面在通讯录好友、新浪微博好友下方加上“附近的人”tab，点击进入“附近的人”界面；</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (手机模板) -->
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u346" class="ax_default _形状">
+        <div id="u346_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u347" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u348" class="ax_default _图片">
+        <img id="u348_img" class="img " src="images/p1_发布界面改版_poi/u189.png"/>
+        <!-- Unnamed () -->
+        <div id="u349" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u350" class="ax_default heading_3">
+        <div id="u350_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u351" class="text">
+          <p><span>你的附近暂时没人来过</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u352" class="ax_default label">
+        <div id="u352_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u353" class="text">
+          <p><span>为你推荐好友：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Group) -->
+      <div id="u354" class="ax_default" data-width="374" data-height="188">
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u355" class="ax_default box_1">
+          <div id="u355_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u356" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Ellipse) -->
+        <div id="u357" class="ax_default ellipse">
+          <img id="u357_img" class="img " src="images/p1_附近___同城/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u358" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u359" class="ax_default label">
+          <div id="u359_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u360" class="text">
+            <p><span>昵称、标识</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u361" class="ax_default label">
+          <div id="u361_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u362" class="text">
+            <p><span>推荐理由</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u363" class="ax_default primary_button">
+          <div id="u363_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u364" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u365" class="ax_default box_1">
+          <div id="u365_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u366" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u367" class="ax_default placeholder">
+          <img id="u367_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u368" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u369" class="ax_default placeholder">
+          <img id="u369_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u370" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Group) -->
+      <div id="u371" class="ax_default" data-width="374" data-height="188">
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u372" class="ax_default box_1">
+          <div id="u372_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u373" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Ellipse) -->
+        <div id="u374" class="ax_default ellipse">
+          <img id="u374_img" class="img " src="images/p1_附近___同城/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u375" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u376" class="ax_default label">
+          <div id="u376_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u377" class="text">
+            <p><span>昵称、标识</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u378" class="ax_default label">
+          <div id="u378_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u379" class="text">
+            <p><span>推荐理由</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u380" class="ax_default primary_button">
+          <div id="u380_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u381" class="text">
+            <p><span>关注</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Rectangle) -->
+        <div id="u382" class="ax_default box_1">
+          <div id="u382_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u383" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u384" class="ax_default placeholder">
+          <img id="u384_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u385" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Placeholder) -->
+        <div id="u386" class="ax_default placeholder">
+          <img id="u386_img" class="img " src="images/p1_附近___同城/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u387" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u388" class="ax_default _形状">
+        <div id="u388_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u389" class="text">
+          <p><span>元素说明</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Table) -->
+      <div id="u390" class="ax_default _表格">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u391" class="ax_default _单元格">
+          <img id="u391_img" class="img " src="images/p1_发布界面改版_poi/u206.png"/>
+          <!-- Unnamed () -->
+          <div id="u392" class="text">
+            <p><span>—</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u393" class="ax_default _单元格">
+          <img id="u393_img" class="img " src="images/p1_发布界面改版_poi/u208.png"/>
+          <!-- Unnamed () -->
+          <div id="u394" class="text">
+            <p><span>规则/说明</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u395" class="ax_default _单元格">
+          <img id="u395_img" class="img " src="images/p1_附近___同城/u395.png"/>
+          <!-- Unnamed () -->
+          <div id="u396" class="text">
+            <p><span>页面规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u397" class="ax_default _单元格">
+          <img id="u397_img" class="img " src="images/p1_附近___同城/u397.png"/>
+          <!-- Unnamed () -->
+          <div id="u398" class="text">
+            <p><span>1、如果附近50KM以内没有用户的话，则显示”你的附近暂时没人来过“，并且给用户推荐好友（个性化相关的）</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

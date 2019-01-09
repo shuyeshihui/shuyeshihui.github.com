@@ -1,0 +1,604 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>公众号编辑首页</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/公众号编辑首页/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/公众号编辑首页/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u548" class="ax_default _形状">
+        <div id="u548_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u549" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u550" class="ax_default _形状">
+        <div id="u550_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u551" class="text">
+          <p><span>新增文章</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u552" class="ax_default _形状">
+        <div id="u552_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u553" class="text">
+          <p><span>文章列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u554" class="ax_default _形状">
+        <div id="u554_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u555" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u556" class="ax_default _图片">
+        <img id="u556_img" class="img " src="images/公众号平台页面流程/u89.png"/>
+        <!-- Unnamed () -->
+        <div id="u557" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u558" class="ax_default _文本段落">
+        <div id="u558_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u559" class="text">
+          <p><span>XXX，欢迎你</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u560" class="ax_default _文本段落">
+        <div id="u560_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u561" class="text">
+          <p><span>标题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u562" class="ax_default _文本段落">
+        <div id="u562_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u563" class="text">
+          <p><span>发布时间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u564" class="ax_default _文本段落">
+        <div id="u564_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u565" class="text">
+          <p><span>阅读数</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u566" class="ax_default _文本段落">
+        <div id="u566_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u567" class="text">
+          <p><span>点赞数</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u568" class="ax_default _文本段落">
+        <div id="u568_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u569" class="text">
+          <p><span>操作</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u570" class="ax_default _文本段落">
+        <div id="u570_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u571" class="text">
+          <p><span>删除</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u572" class="ax_default _文本段落">
+        <div id="u572_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u573" class="text">
+          <p><span>状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u574" class="ax_default _文本段落">
+        <div id="u574_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u575" class="text">
+          <p><span>编辑</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u576" class="ax_default _文本段落">
+        <div id="u576_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u577" class="text">
+          <p><span style="text-decoration:underline;">N条新消息</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u578" class="ax_default _文本段落">
+        <div id="u578_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u579" class="text">
+          <p><span>1、当用户登录成功并且已经申请通过有编辑攻略的权限会进入到公众号编辑首页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u580" class="ax_default _文本段落">
+        <div id="u580_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u581" class="text">
+          <p><span>2、公众号编辑首页，包含以下模块：</span></p><p><span><br></span></p><p><span>2.1、文章列表模块：呈现用户发布过/未发布的文章等信息；</span></p><p><span><br></span></p><p><span>2.2、新增文章模块：新增、编辑文章；</span></p><p><span><br></span></p><p><span>2.3、消息模块：收到用户对文章的互动消息和系统通知等；</span></p><p><span><br></span></p><p><span>2.4、用户信息模块：编辑和更改账号信息和个人信息；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u582" class="ax_default _文本段落">
+        <div id="u582_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u583" class="text">
+          <p><span>3、文章列表模块：</span></p><p><span><br></span></p><p><span>3.1、文章列表有以下字段：文章标题、发布时间，阅读数、点赞数、状态（已发布、未发布）、操作（编辑、删除）</span></p><p><span><br></span></p><p><span>3.2、文章列表呈现用户已经发布过的文章，和未发布的文章（已经编辑过的文章）；</span></p><p><span><br></span></p><p><span>3.3、文章列表按照最后更新（编辑）时间进行排序；</span></p><p><span><br></span></p><p><span>3.4、删除时要进行确认：是否确认要删除？（是/否）</span></p><p><span><br></span></p><p><span>3.5、点击文章的标题可以进行预览，在新页面可打开预览的页面；预览页面的链接可以发布给用户的好友进行查看。</span></p><p><span><br></span></p><p><span>3.6、发布时间的字段组成是：年+月+日+时间，如是今年发布的。则是月+日+时间。</span></p><p><span><br></span></p><p><span>3.7、该页面呈现10篇文章，每10篇文章进行翻页。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u584" class="ax_default _形状">
+        <div id="u584_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u585" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u586" class="ax_default _形状">
+        <div id="u586_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u587" class="text">
+          <p><span>新增文章</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u588" class="ax_default _形状">
+        <div id="u588_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u589" class="text">
+          <p><span>文章列表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u590" class="ax_default _图片">
+        <img id="u590_img" class="img " src="images/公众号平台页面流程/u89.png"/>
+        <!-- Unnamed () -->
+        <div id="u591" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u592" class="ax_default _文本段落">
+        <div id="u592_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u593" class="text">
+          <p><span>XXX，欢迎你</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u594" class="ax_default _文本段落">
+        <div id="u594_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u595" class="text">
+          <p><span>*文章标题：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u596" class="ax_default _文本框">
+        <input id="u596_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u597" class="ax_default _文本段落">
+        <div id="u597_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u598" class="text">
+          <p><span>*文章内容：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u599" class="ax_default _形状">
+        <div id="u599_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u600" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u601" class="ax_default _图片">
+        <img id="u601_img" class="img " src="images/公众号平台页面流程/u177.png"/>
+        <!-- Unnamed () -->
+        <div id="u602" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u603" class="ax_default _形状">
+        <div id="u603_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u604" class="text">
+          <p><span>保存</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u605" class="ax_default _文本段落">
+        <div id="u605_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u606" class="text">
+          <p><span>*封面图片：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u607" class="ax_default _形状">
+        <div id="u607_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u608" class="text">
+          <p><span>选择封面图片</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u609" class="ax_default _形状">
+        <div id="u609_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u610" class="text">
+          <p><span>发布</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u611" class="ax_default _文本段落">
+        <div id="u611_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u612" class="text">
+          <p><span>*关联分类：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u613" class="ax_default _形状">
+        <div id="u613_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u614" class="text">
+          <p><span>预览</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u615" class="ax_default _下拉列表框">
+        <select id="u615_input">
+          <option selected value="  玩法">&nbsp; 玩法</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u616" class="ax_default _文本段落">
+        <div id="u616_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u617" class="text">
+          <p><span>尺寸，裁剪</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u618" class="ax_default _文本段落">
+        <div id="u618_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u619" class="text">
+          <p><span>1、当用户点击新增文章或者在文章列表对某篇文章进行编辑时，都会进行文章编辑界面；</span></p><p><span><br></span></p><p><span>2、文章编辑界面有以下操作：</span></p><p><span><br></span></p><p><span>2.1、填写文章标题（必填）：需要给到标题的最长长度；</span></p><p><span><br></span></p><p><span>2.2、选择封面图片（必填）：封面图片需要进行裁剪，并且给到最小的尺寸和控制最大的图片大小；</span></p><p><span><br></span></p><p><span>2.3、编写文章内容（必填）：</span></p><p><span><br></span></p><p><span>2.3.1、文章内容的编辑即在编辑器里进行编辑文章；</span></p><p><span><br></span></p><p><span>2.3.2、初期编辑文章的编辑器可以和目前后台攻略的编辑器一样；</span></p><p><span><br></span></p><p><span>2.3.3、需要支持增加插入视频外链；插入的视频在编辑框里需要支持可视化播放。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u620" class="ax_default _形状">
+        <div id="u620_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u621" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u622" class="ax_default _文本框">
+        <input id="u622_input" type="text" value="&nbsp; 请输入视频链接"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u623" class="ax_default _文本段落">
+        <div id="u623_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u624" class="text">
+          <p><span>插入视频</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u625" class="ax_default _形状">
+        <div id="u625_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u626" class="text">
+          <p><span>确认</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u627" class="ax_default _形状">
+        <img id="u627_img" class="img " src="images/公众号平台页面流程/u199.png"/>
+        <!-- Unnamed () -->
+        <div id="u628" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u629" class="ax_default _文本段落">
+        <div id="u629_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u630" class="text">
+          <p><span>2.4、关联频道的分类（必填）：</span></p><p><span><br></span></p><p><span>2.4.1、提供频道的分类供作者进行选择；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u631" class="ax_default _文本段落">
+        <div id="u631_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u632" class="text">
+          <p><span>2.5、预览：用户可以点击预览即可打开链接看到目前编辑的展示状态</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u633" class="ax_default _文本段落">
+        <div id="u633_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u634" class="text">
+          <p><span>2.6、保存：用户进行保存，点击保存回到文章列表；文章需要做自动保存，即每编辑10S自动保存一次</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u635" class="ax_default _文本段落">
+        <div id="u635_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u636" class="text">
+          <p><span>2.7、发布：用户点击发布则发布成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u637" class="ax_default _文本段落">
+        <div id="u637_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u638" class="text">
+          <p><span style="text-decoration:underline;">N条新消息</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u639" class="ax_default _图片">
+        <img id="u639_img" class="img " src="images/公众号编辑首页/u639.png"/>
+        <!-- Unnamed () -->
+        <div id="u640" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u641" class="ax_default _形状">
+        <div id="u641_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u642" class="text">
+          <p><span>插入视频</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u643" class="ax_default _连接线">
+        <img id="u643_seg0" class="img " src="images/公众号编辑首页/u643_seg0.png" alt="u643_seg0"/>
+        <img id="u643_seg1" class="img " src="images/公众号编辑首页/u643_seg1.png" alt="u643_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u644" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u645" class="ax_default _连接线">
+        <img id="u645_seg0" class="img " src="images/公众号编辑首页/u645_seg0.png" alt="u645_seg0"/>
+        <img id="u645_seg1" class="img " src="images/公众号编辑首页/u645_seg1.png" alt="u645_seg1"/>
+        <img id="u645_seg2" class="img " src="images/公众号编辑首页/u645_seg2.png" alt="u645_seg2"/>
+        <img id="u645_seg3" class="img " src="images/公众号编辑首页/u645_seg3.png" alt="u645_seg3"/>
+        <img id="u645_seg4" class="img " src="images/公众号编辑首页/u645_seg4.png" alt="u645_seg4"/>
+        <!-- Unnamed () -->
+        <div id="u646" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u647" class="ax_default _文本段落">
+        <div id="u647_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u648" class="text">
+          <p><span style="text-decoration:underline;">某某标题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u649" class="ax_default _文本段落">
+        <div id="u649_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u650" class="text">
+          <p><span>08月18日 12：00</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u651" class="ax_default _文本段落">
+        <div id="u651_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u652" class="text">
+          <p><span>1256</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u653" class="ax_default _文本段落">
+        <div id="u653_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u654" class="text">
+          <p><span>123</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u655" class="ax_default _文本段落">
+        <div id="u655_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u656" class="text">
+          <p><span>已发布</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u657" class="ax_default _图片">
+        <img id="u657_img" class="img " src="images/公众号平台页面流程/u380.png"/>
+        <!-- Unnamed () -->
+        <div id="u658" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u659" class="ax_default _文本段落">
+        <div id="u659_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u660" class="text">
+          <p><span>&nbsp;发布时间：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u661" class="ax_default _下拉列表框">
+        <select id="u661_input">
+          <option value="2016.8.30-12：00">2016.8.30-12：00</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u662" class="ax_default _文本段落">
+        <div id="u662_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u663" class="text">
+          <p><span>如不选择则立即发送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u664" class="ax_default _文本段落">
+        <div id="u664_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u665" class="text">
+          <p><span>2.5、发布可以选择定时时间，如不选择则立即发布；发布时间精确到分</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (复选框) -->
+      <div id="u666" class="ax_default _复选框">
+        <label for="u666_input">
+          <!-- Unnamed () -->
+          <div id="u667" class="text">
+            <p><span>是否在正文中显示</span></p>
+          </div>
+        </label>
+        <input id="u666_input" type="checkbox" value="checkbox"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u668" class="ax_default _文本段落">
+        <div id="u668_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u669" class="text">
+          <p><span>&nbsp;摘要：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (多行文本框) -->
+      <div id="u670" class="ax_default _多行文本框">
+        <textarea id="u670_input"></textarea>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u671" class="ax_default _文本段落">
+        <div id="u671_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u672" class="text">
+          <p><span>选填，如果不填写会默认抓取正文前54个字</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

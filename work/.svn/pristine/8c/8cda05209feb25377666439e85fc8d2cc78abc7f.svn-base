@@ -1,0 +1,155 @@
+﻿$axure.loadCurrentPage({
+  "url":"介绍页面.html",
+  "generationDate":new Date(1428391090213.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c6fee31ecb514ee8b128527759f7ecab",
+    "type":"Axure:Page",
+    "name":"介绍页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"54ce81b052ea4a1ab8a405d813e365c7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"064217629c6340658a4f8a56d933c03e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"be4380d5713b48498d4ac2db6a587b2d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":1},
+            "size":{
+              "width":370,
+              "height":552},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"16"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d030af59fd5841eabf819b51e0b648ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":1},
+                "size":{
+                  "width":370,
+                  "height":552},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"16"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u10.png"}},
+{
+          "id":"3bc4a8a583cc4799b2d63d3e56986bb4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":103,
+              "y":240},
+            "size":{
+              "width":97,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"578c2550ec614e539de2a3723437b1a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":240},
+                "size":{
+                  "width":97,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "54ce81b052ea4a1ab8a405d813e365c7":{
+      "scriptId":"u0"},
+    "064217629c6340658a4f8a56d933c03e":{
+      "scriptId":"u1"},
+    "be4380d5713b48498d4ac2db6a587b2d":{
+      "scriptId":"u2"},
+    "d030af59fd5841eabf819b51e0b648ac":{
+      "scriptId":"u3"},
+    "3bc4a8a583cc4799b2d63d3e56986bb4":{
+      "scriptId":"u4"},
+    "578c2550ec614e539de2a3723437b1a7":{
+      "scriptId":"u5"}}});

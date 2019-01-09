@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>发版提交新流程规范</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/发版提交新流程规范/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/发版提交新流程规范/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2947" class="ax_default _流程形状">
+        <div id="u2947_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2948" class="text">
+          <p><span>相关信息准备</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2949" class="ax_default _流程形状">
+        <div id="u2949_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2950" class="text">
+          <p><span>新版包上传</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2951" class="ax_default _流程形状">
+        <div id="u2951_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2952" class="text">
+          <p><span>提交APP</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2953" class="ax_default _流程形状">
+        <div id="u2953_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2954" class="text">
+          <p><span>testflight测试</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2955" class="ax_default _流程形状">
+        <div id="u2955_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2956" class="text">
+          <p><span>测试通过撤回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2957" class="ax_default _流程形状">
+        <div id="u2957_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2958" class="text">
+          <p><span>产品通知对应人员</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2959" class="ax_default _流程形状">
+        <div id="u2959_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2960" class="text">
+          <p><span>代理公司介入调整关键词</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2961" class="ax_default _流程形状">
+        <div id="u2961_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2962" class="text">
+          <p><span>代理公司提交</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2963" class="ax_default _流程形状">
+        <div id="u2963_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2964" class="text">
+          <p><span>审核通过发布</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2965" class="ax_default _连接线">
+        <img id="u2965_seg0" class="img " src="images/用户唤醒产品化方案/u2943_seg0.png" alt="u2965_seg0"/>
+        <img id="u2965_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2965_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2966" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2967" class="ax_default _连接线">
+        <img id="u2967_seg0" class="img " src="images/用户唤醒产品化方案/u2943_seg0.png" alt="u2967_seg0"/>
+        <img id="u2967_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2967_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2968" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2969" class="ax_default _连接线">
+        <img id="u2969_seg0" class="img " src="images/用户唤醒产品化方案/u2943_seg0.png" alt="u2969_seg0"/>
+        <img id="u2969_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2969_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2970" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2971" class="ax_default _连接线">
+        <img id="u2971_seg0" class="img " src="images/发版提交新流程规范/u2971_seg0.png" alt="u2971_seg0"/>
+        <img id="u2971_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2971_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2972" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2973" class="ax_default _连接线">
+        <img id="u2973_seg0" class="img " src="images/发版提交新流程规范/u2973_seg0.png" alt="u2973_seg0"/>
+        <img id="u2973_seg1" class="img " src="images/公众号编辑首页/u643_seg1.png" alt="u2973_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2974" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2975" class="ax_default _连接线">
+        <img id="u2975_seg0" class="img " src="images/发版提交新流程规范/u2975_seg0.png" alt="u2975_seg0"/>
+        <img id="u2975_seg1" class="img " src="images/发版提交新流程规范/u2975_seg1.png" alt="u2975_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2976" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2977" class="ax_default _连接线">
+        <img id="u2977_seg0" class="img " src="images/发版提交新流程规范/u2977_seg0.png" alt="u2977_seg0"/>
+        <img id="u2977_seg1" class="img " src="images/发版提交新流程规范/u2975_seg1.png" alt="u2977_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2978" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2979" class="ax_default _连接线">
+        <img id="u2979_seg0" class="img " src="images/发版提交新流程规范/u2977_seg0.png" alt="u2979_seg0"/>
+        <img id="u2979_seg1" class="img " src="images/发版提交新流程规范/u2975_seg1.png" alt="u2979_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2980" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2981" class="ax_default _连接线">
+        <img id="u2981_seg0" class="img " src="images/发版提交新流程规范/u2981_seg0.png" alt="u2981_seg0"/>
+        <img id="u2981_seg1" class="img " src="images/发版提交新流程规范/u2981_seg1.png" alt="u2981_seg1"/>
+        <img id="u2981_seg2" class="img " src="images/发版提交新流程规范/u2981_seg2.png" alt="u2981_seg2"/>
+        <img id="u2981_seg3" class="img " src="images/发版提交新流程规范/u2981_seg3.png" alt="u2981_seg3"/>
+        <!-- Unnamed () -->
+        <div id="u2982" class="text">
+          <p><span>测试不通过重新提交</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1166 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>用户唤醒产品化方案</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/用户唤醒产品化方案/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/用户唤醒产品化方案/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2698" class="ax_default _文本段落">
+        <div id="u2698_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2699" class="text">
+          <p><span>1、确定</span><span style="color:#000000;">消息推送方式：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2700" class="ax_default _流程形状">
+        <div id="u2700_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2701" class="text">
+          <p><span>推送方式</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u2702" class="ax_default _流程形状">
+        <img id="u2702_img" class="img " src="images/用户唤醒产品化方案/u2702.png"/>
+        <!-- Unnamed () -->
+        <div id="u2703" class="text">
+          <p><span>判断用户是否安装APP</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2704" class="ax_default _流程形状">
+        <div id="u2704_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2705" class="text">
+          <p><span>短信推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u2706" class="ax_default _流程形状">
+        <img id="u2706_img" class="img " src="images/用户唤醒产品化方案/u2702.png"/>
+        <!-- Unnamed () -->
+        <div id="u2707" class="text">
+          <p><span>判断用户是否开启消息推送提醒</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2708" class="ax_default _流程形状">
+        <div id="u2708_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2709" class="text">
+          <p><span>短信推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2710" class="ax_default _流程形状">
+        <div id="u2710_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2711" class="text">
+          <p><span>PUSH推送</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2712" class="ax_default _连接线">
+        <img id="u2712_seg0" class="img " src="images/用户唤醒产品化方案/u2712_seg0.png" alt="u2712_seg0"/>
+        <img id="u2712_seg1" class="img " src="images/公众号编辑首页/u643_seg1.png" alt="u2712_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2713" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2714" class="ax_default _连接线">
+        <img id="u2714_seg0" class="img " src="images/用户唤醒产品化方案/u2714_seg0.png" alt="u2714_seg0"/>
+        <img id="u2714_seg1" class="img " src="images/用户唤醒产品化方案/u2714_seg1.png" alt="u2714_seg1"/>
+        <img id="u2714_seg2" class="img " src="images/用户唤醒产品化方案/u2714_seg2.png" alt="u2714_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2715" class="text">
+          <p><span>否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2716" class="ax_default _连接线">
+        <img id="u2716_seg0" class="img " src="images/用户唤醒产品化方案/u2716_seg0.png" alt="u2716_seg0"/>
+        <img id="u2716_seg1" class="img " src="images/用户唤醒产品化方案/u2716_seg1.png" alt="u2716_seg1"/>
+        <img id="u2716_seg2" class="img " src="images/用户唤醒产品化方案/u2716_seg2.png" alt="u2716_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2717" class="text">
+          <p><span>是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2718" class="ax_default _连接线">
+        <img id="u2718_seg0" class="img " src="images/用户唤醒产品化方案/u2718_seg0.png" alt="u2718_seg0"/>
+        <img id="u2718_seg1" class="img " src="images/用户唤醒产品化方案/u2718_seg1.png" alt="u2718_seg1"/>
+        <img id="u2718_seg2" class="img " src="images/用户唤醒产品化方案/u2718_seg2.png" alt="u2718_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2719" class="text">
+          <p><span>否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2720" class="ax_default _连接线">
+        <img id="u2720_seg0" class="img " src="images/用户唤醒产品化方案/u2720_seg0.png" alt="u2720_seg0"/>
+        <img id="u2720_seg1" class="img " src="images/用户唤醒产品化方案/u2720_seg1.png" alt="u2720_seg1"/>
+        <img id="u2720_seg2" class="img " src="images/用户唤醒产品化方案/u2716_seg2.png" alt="u2720_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2721" class="text">
+          <p><span>是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2722" class="ax_default _文本段落">
+        <div id="u2722_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2723" class="text">
+          <p><span>2、确定推送时间点和推送人群类型</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2724" class="ax_default _流程形状">
+        <div id="u2724_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2725" class="text">
+          <p><span>推送时间</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u2726" class="ax_default _流程形状">
+        <img id="u2726_img" class="img " src="images/用户唤醒产品化方案/u2702.png"/>
+        <!-- Unnamed () -->
+        <div id="u2727" class="text">
+          <p><span>判断用户未开启过APP时间&gt;30天</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u2728" class="ax_default _流程形状">
+        <img id="u2728_img" class="img " src="images/用户唤醒产品化方案/u2702.png"/>
+        <!-- Unnamed () -->
+        <div id="u2729" class="text">
+          <p><span>判断用户未开启过APP时间&gt;14天</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2730" class="ax_default _连接线">
+        <img id="u2730_seg0" class="img " src="images/用户唤醒产品化方案/u2730_seg0.png" alt="u2730_seg0"/>
+        <img id="u2730_seg1" class="img " src="images/用户唤醒产品化方案/u2730_seg1.png" alt="u2730_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2731" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2732" class="ax_default _连接线">
+        <img id="u2732_seg0" class="img " src="images/用户唤醒产品化方案/u2730_seg0.png" alt="u2732_seg0"/>
+        <img id="u2732_seg1" class="img " src="images/用户唤醒产品化方案/u2730_seg1.png" alt="u2732_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2733" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2734" class="ax_default _流程形状">
+        <div id="u2734_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2735" class="text">
+          <p><span>即将流失用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2736" class="ax_default _连接线">
+        <img id="u2736_seg0" class="img " src="images/用户唤醒产品化方案/u2736_seg0.png" alt="u2736_seg0"/>
+        <img id="u2736_seg1" class="img " src="images/用户唤醒产品化方案/u2736_seg1.png" alt="u2736_seg1"/>
+        <img id="u2736_seg2" class="img " src="images/用户唤醒产品化方案/u2736_seg2.png" alt="u2736_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2737" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u2738" class="ax_default _流程形状">
+        <img id="u2738_img" class="img " src="images/用户唤醒产品化方案/u2702.png"/>
+        <!-- Unnamed () -->
+        <div id="u2739" class="text">
+          <p><span>判断用户未开启过APP时间&gt;90天</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2740" class="ax_default _连接线">
+        <img id="u2740_seg0" class="img " src="images/用户唤醒产品化方案/u2740_seg0.png" alt="u2740_seg0"/>
+        <img id="u2740_seg1" class="img " src="images/用户唤醒产品化方案/u2740_seg1.png" alt="u2740_seg1"/>
+        <img id="u2740_seg2" class="img " src="images/用户唤醒产品化方案/u2740_seg2.png" alt="u2740_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u2741" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2742" class="ax_default _流程形状">
+        <div id="u2742_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2743" class="text">
+          <p><span>即将流失用户</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2744" class="ax_default _连接线">
+        <img id="u2744_seg0" class="img " src="images/用户唤醒产品化方案/u2744_seg0.png" alt="u2744_seg0"/>
+        <img id="u2744_seg1" class="img " src="images/用户唤醒产品化方案/u2730_seg1.png" alt="u2744_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2745" class="text">
+          <p><span>否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2746" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2747" class="ax_default _单元格">
+          <img id="u2747_img" class="img " src="images/用户唤醒产品化方案/u2747.png"/>
+          <!-- Unnamed () -->
+          <div id="u2748" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2749" class="ax_default _单元格">
+          <img id="u2749_img" class="img " src="images/用户唤醒产品化方案/u2749.png"/>
+          <!-- Unnamed () -->
+          <div id="u2750" class="text">
+            <p><span>定义</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2751" class="ax_default _单元格">
+          <img id="u2751_img" class="img " src="images/用户唤醒产品化方案/u2751.png"/>
+          <!-- Unnamed () -->
+          <div id="u2752" class="text">
+            <p><span>沉默用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2753" class="ax_default _单元格">
+          <img id="u2753_img" class="img " src="images/用户唤醒产品化方案/u2753.png"/>
+          <!-- Unnamed () -->
+          <div id="u2754" class="text">
+            <p><span>已连续7—14天未打开APP的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2755" class="ax_default _单元格">
+          <img id="u2755_img" class="img " src="images/用户唤醒产品化方案/u2755.png"/>
+          <!-- Unnamed () -->
+          <div id="u2756" class="text">
+            <p><span>即将流失用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2757" class="ax_default _单元格">
+          <img id="u2757_img" class="img " src="images/用户唤醒产品化方案/u2757.png"/>
+          <!-- Unnamed () -->
+          <div id="u2758" class="text">
+            <p><span>已连续14-30天未打开APP的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2759" class="ax_default _单元格">
+          <img id="u2759_img" class="img " src="images/用户唤醒产品化方案/u2759.png"/>
+          <!-- Unnamed () -->
+          <div id="u2760" class="text">
+            <p><span>流失用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2761" class="ax_default _单元格">
+          <img id="u2761_img" class="img " src="images/用户唤醒产品化方案/u2761.png"/>
+          <!-- Unnamed () -->
+          <div id="u2762" class="text">
+            <p><span>已连续30~90天未打开APP的用户</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2763" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2764" class="ax_default _单元格">
+          <img id="u2764_img" class="img " src="images/用户唤醒产品化方案/u2764.png"/>
+          <!-- Unnamed () -->
+          <div id="u2765" class="text">
+            <p><span>触发时间点</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2766" class="ax_default _单元格">
+          <img id="u2766_img" class="img " src="images/用户唤醒产品化方案/u2766.png"/>
+          <!-- Unnamed () -->
+          <div id="u2767" class="text">
+            <p><span>方案</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2768" class="ax_default _单元格">
+          <img id="u2768_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2769" class="text">
+            <p><span>未打开APP第14天</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2770" class="ax_default _单元格">
+          <img id="u2770_img" class="img " src="images/用户唤醒产品化方案/u2770.png"/>
+          <!-- Unnamed () -->
+          <div id="u2771" class="text">
+            <p><span>即将流失用户的方案</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2772" class="ax_default _单元格">
+          <img id="u2772_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2773" class="text">
+            <p><span>未打开APP第30天</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2774" class="ax_default _单元格">
+          <img id="u2774_img" class="img " src="images/用户唤醒产品化方案/u2770.png"/>
+          <!-- Unnamed () -->
+          <div id="u2775" class="text">
+            <p><span>即将流失用户——流失用户的方案</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2776" class="ax_default _单元格">
+          <img id="u2776_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2777" class="text">
+            <p><span>未打开APP第60天</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2778" class="ax_default _单元格">
+          <img id="u2778_img" class="img " src="images/用户唤醒产品化方案/u2770.png"/>
+          <!-- Unnamed () -->
+          <div id="u2779" class="text">
+            <p><span>流失用户的方案</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2780" class="ax_default _单元格">
+          <img id="u2780_img" class="img " src="images/用户唤醒产品化方案/u2780.png"/>
+          <!-- Unnamed () -->
+          <div id="u2781" class="text">
+            <p><span>未打开APP第90天</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2782" class="ax_default _单元格">
+          <img id="u2782_img" class="img " src="images/用户唤醒产品化方案/u2782.png"/>
+          <!-- Unnamed () -->
+          <div id="u2783" class="text">
+            <p><span>终极流失用户的方案</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2784" class="ax_default _文本段落">
+        <div id="u2784_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2785" class="text">
+          <p><span>3、确定推送人群属性</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2786" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2787" class="ax_default _单元格">
+          <img id="u2787_img" class="img " src="images/用户唤醒产品化方案/u2764.png"/>
+          <!-- Unnamed () -->
+          <div id="u2788" class="text">
+            <p><span>人群类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2789" class="ax_default _单元格">
+          <img id="u2789_img" class="img " src="images/用户唤醒产品化方案/u2789.png"/>
+          <!-- Unnamed () -->
+          <div id="u2790" class="text">
+            <p><span>定义</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2791" class="ax_default _单元格">
+          <img id="u2791_img" class="img " src="images/用户唤醒产品化方案/u2791.png"/>
+          <!-- Unnamed () -->
+          <div id="u2792" class="text">
+            <p><span>规则</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2793" class="ax_default _单元格">
+          <img id="u2793_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2794" class="text">
+            <p><span>城市地域相关</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2795" class="ax_default _单元格">
+          <img id="u2795_img" class="img " src="images/用户唤醒产品化方案/u2795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2796" class="text">
+            <p><span>根据APP里的地域进行获取</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2797" class="ax_default _单元格">
+          <img id="u2797_img" class="img " src="images/用户唤醒产品化方案/u2797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2798" class="text">
+            <p><span>首先按照用户选择的城市进行获取，如果获取不到则根据用户IP进行获取</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2799" class="ax_default _单元格">
+          <img id="u2799_img" class="img " src="images/用户唤醒产品化方案/u2799.png"/>
+          <!-- Unnamed () -->
+          <div id="u2800" class="text">
+            <p><span>男女性别相关</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2801" class="ax_default _单元格">
+          <img id="u2801_img" class="img " src="images/用户唤醒产品化方案/u2801.png"/>
+          <!-- Unnamed () -->
+          <div id="u2802" class="text">
+            <p><span>根据APP里的性别进行获取</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2803" class="ax_default _单元格">
+          <img id="u2803_img" class="img " src="images/用户唤醒产品化方案/u2803.png"/>
+          <!-- Unnamed () -->
+          <div id="u2804" class="text">
+            <p><span>如果用户进行过第三方登录则优先使用用户的第三方登录的性别（覆盖之前用户手机登录时的性别）；如果没有使用过第三方登录则使用用户APP里的性别；用户第三方登录时的性别获取的权重：微信 &gt; QQ &gt;微博</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2805" class="ax_default _单元格">
+          <img id="u2805_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2806" class="text">
+            <p><span>纯预订用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2807" class="ax_default _单元格">
+          <img id="u2807_img" class="img " src="images/用户唤醒产品化方案/u2795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2808" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2809" class="ax_default _单元格">
+          <img id="u2809_img" class="img " src="images/用户唤醒产品化方案/u2797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2810" class="text">
+            <p><span>下单、收藏、分享过SKU的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2811" class="ax_default _单元格">
+          <img id="u2811_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2812" class="text">
+            <p><span>纯社区用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2813" class="ax_default _单元格">
+          <img id="u2813_img" class="img " src="images/用户唤醒产品化方案/u2795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2814" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2815" class="ax_default _单元格">
+          <img id="u2815_img" class="img " src="images/用户唤醒产品化方案/u2797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2816" class="text">
+            <p><span>发帖、点赞、评论、关注、分享过的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2817" class="ax_default _单元格">
+          <img id="u2817_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2818" class="text">
+            <p><span>预订和社区结合的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2819" class="ax_default _单元格">
+          <img id="u2819_img" class="img " src="images/用户唤醒产品化方案/u2795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2820" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2821" class="ax_default _单元格">
+          <img id="u2821_img" class="img " src="images/用户唤醒产品化方案/u2797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2822" class="text">
+            <p><span>有过以上行为交集的用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2823" class="ax_default _单元格">
+          <img id="u2823_img" class="img " src="images/用户唤醒产品化方案/u2768.png"/>
+          <!-- Unnamed () -->
+          <div id="u2824" class="text">
+            <p><span>贪图优惠用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2825" class="ax_default _单元格">
+          <img id="u2825_img" class="img " src="images/用户唤醒产品化方案/u2795.png"/>
+          <!-- Unnamed () -->
+          <div id="u2826" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2827" class="ax_default _单元格">
+          <img id="u2827_img" class="img " src="images/用户唤醒产品化方案/u2797.png"/>
+          <!-- Unnamed () -->
+          <div id="u2828" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2829" class="ax_default _单元格">
+          <img id="u2829_img" class="img " src="images/用户唤醒产品化方案/u2829.png"/>
+          <!-- Unnamed () -->
+          <div id="u2830" class="text">
+            <p><span>资讯型用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2831" class="ax_default _单元格">
+          <img id="u2831_img" class="img " src="images/用户唤醒产品化方案/u2831.png"/>
+          <!-- Unnamed () -->
+          <div id="u2832" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2833" class="ax_default _单元格">
+          <img id="u2833_img" class="img " src="images/用户唤醒产品化方案/u2833.png"/>
+          <!-- Unnamed () -->
+          <div id="u2834" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2835" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2836" class="ax_default _单元格">
+          <img id="u2836_img" class="img " src="images/用户唤醒产品化方案/u2747.png"/>
+          <!-- Unnamed () -->
+          <div id="u2837" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2838" class="ax_default _单元格">
+          <img id="u2838_img" class="img " src="images/用户唤醒产品化方案/u2749.png"/>
+          <!-- Unnamed () -->
+          <div id="u2839" class="text">
+            <p><span>条件</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2840" class="ax_default _单元格">
+          <img id="u2840_img" class="img " src="images/用户唤醒产品化方案/u2755.png"/>
+          <!-- Unnamed () -->
+          <div id="u2841" class="text">
+            <p><span>短信推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2842" class="ax_default _单元格">
+          <img id="u2842_img" class="img " src="images/用户唤醒产品化方案/u2757.png"/>
+          <!-- Unnamed () -->
+          <div id="u2843" class="text">
+            <p><span>未安装APP，安装APP未打开消息推送提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2844" class="ax_default _单元格">
+          <img id="u2844_img" class="img " src="images/用户唤醒产品化方案/u2755.png"/>
+          <!-- Unnamed () -->
+          <div id="u2845" class="text">
+            <p><span>PUSH推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2846" class="ax_default _单元格">
+          <img id="u2846_img" class="img " src="images/用户唤醒产品化方案/u2757.png"/>
+          <!-- Unnamed () -->
+          <div id="u2847" class="text">
+            <p><span>安装APP已打开消息推送提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2848" class="ax_default _单元格">
+          <img id="u2848_img" class="img " src="images/用户唤醒产品化方案/u2759.png"/>
+          <!-- Unnamed () -->
+          <div id="u2849" class="text">
+            <p><span>短信+push推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2850" class="ax_default _单元格">
+          <img id="u2850_img" class="img " src="images/用户唤醒产品化方案/u2761.png"/>
+          <!-- Unnamed () -->
+          <div id="u2851" class="text">
+            <p><span>——</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2852" class="ax_default _文本段落">
+        <div id="u2852_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2853" class="text">
+          <p><span>4、确定推送方案</span><span style="color:#000000;">：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2854" class="ax_default _表格">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2855" class="ax_default _单元格">
+          <img id="u2855_img" class="img " src="images/用户唤醒产品化方案/u2855.png"/>
+          <!-- Unnamed () -->
+          <div id="u2856" class="text">
+            <p><span>类型</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2857" class="ax_default _单元格">
+          <img id="u2857_img" class="img " src="images/用户唤醒产品化方案/u2857.png"/>
+          <!-- Unnamed () -->
+          <div id="u2858" class="text">
+            <p><span>方案</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2859" class="ax_default _单元格">
+          <img id="u2859_img" class="img " src="images/用户唤醒产品化方案/u2859.png"/>
+          <!-- Unnamed () -->
+          <div id="u2860" class="text">
+            <p><span>解释</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2861" class="ax_default _单元格">
+          <img id="u2861_img" class="img " src="images/用户唤醒产品化方案/u2861.png"/>
+          <!-- Unnamed () -->
+          <div id="u2862" class="text">
+            <p><span>执行</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2863" class="ax_default _单元格">
+          <img id="u2863_img" class="img " src="images/用户唤醒产品化方案/u2863.png"/>
+          <!-- Unnamed () -->
+          <div id="u2864" class="text">
+            <p><span>一、和用户相关：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2865" class="ax_default _单元格">
+          <img id="u2865_img" class="img " src="images/用户唤醒产品化方案/u2865.png"/>
+          <!-- Unnamed () -->
+          <div id="u2866" class="text">
+            <p><span>好友对用户进行过互动相关的推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2867" class="ax_default _单元格">
+          <img id="u2867_img" class="img " src="images/用户唤醒产品化方案/u2867.png"/>
+          <!-- Unnamed () -->
+          <div id="u2868" class="text">
+            <p><span>当用户收到好友的评论、点赞时会收到相关的推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2869" class="ax_default _单元格">
+          <img id="u2869_img" class="img " src="images/用户唤醒产品化方案/u2869.png"/>
+          <!-- Unnamed () -->
+          <div id="u2870" class="text">
+            <p><span>判断出，如果是用户关注的人，那么他的点赞也会被收到</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2871" class="ax_default _单元格">
+          <img id="u2871_img" class="img " src="images/用户唤醒产品化方案/u2863.png"/>
+          <!-- Unnamed () -->
+          <div id="u2872" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2873" class="ax_default _单元格">
+          <img id="u2873_img" class="img " src="images/用户唤醒产品化方案/u2865.png"/>
+          <!-- Unnamed () -->
+          <div id="u2874" class="text">
+            <p><span>关注的人发布了新的动态</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2875" class="ax_default _单元格">
+          <img id="u2875_img" class="img " src="images/用户唤醒产品化方案/u2867.png"/>
+          <!-- Unnamed () -->
+          <div id="u2876" class="text">
+            <p><span>当关注的人发布了新的动态，用户会收到对应的推送</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2877" class="ax_default _单元格">
+          <img id="u2877_img" class="img " src="images/用户唤醒产品化方案/u2869.png"/>
+          <!-- Unnamed () -->
+          <div id="u2878" class="text">
+            <p><span>判断出，如果是用户关注的人在今天发布了新的动态，那么会给用户会收到对应的通知</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2879" class="ax_default _单元格">
+          <img id="u2879_img" class="img " src="images/需求页面—图文发布/u1771.png"/>
+          <!-- Unnamed () -->
+          <div id="u2880" class="text">
+            <p><span>二、荣誉相关：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2881" class="ax_default _单元格">
+          <img id="u2881_img" class="img " src="images/用户唤醒产品化方案/u2881.png"/>
+          <!-- Unnamed () -->
+          <div id="u2882" class="text">
+            <p><span>有多少人看过我的主页</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2883" class="ax_default _单元格">
+          <img id="u2883_img" class="img " src="images/用户唤醒产品化方案/u2883.png"/>
+          <!-- Unnamed () -->
+          <div id="u2884" class="text">
+            <p><span>当用户的个人中心被看过，会被记录，会生成对应的推送给用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2885" class="ax_default _单元格">
+          <img id="u2885_img" class="img " src="images/用户唤醒产品化方案/u2885.png"/>
+          <!-- Unnamed () -->
+          <div id="u2886" class="text">
+            <p><span>用户的主页被看过了要做记录，在合适的时间点直接推某个数值范围内的给用户</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2887" class="ax_default _单元格">
+          <img id="u2887_img" class="img " src="images/需求页面—图文发布/u1771.png"/>
+          <!-- Unnamed () -->
+          <div id="u2888" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2889" class="ax_default _单元格">
+          <img id="u2889_img" class="img " src="images/用户唤醒产品化方案/u2881.png"/>
+          <!-- Unnamed () -->
+          <div id="u2890" class="text">
+            <p><span>用户动态被设为精选</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2891" class="ax_default _单元格">
+          <img id="u2891_img" class="img " src="images/用户唤醒产品化方案/u2883.png"/>
+          <!-- Unnamed () -->
+          <div id="u2892" class="text">
+            <p><span>用户的动态被设为精选的提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2893" class="ax_default _单元格">
+          <img id="u2893_img" class="img " src="images/用户唤醒产品化方案/u2885.png"/>
+          <!-- Unnamed () -->
+          <div id="u2894" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2895" class="ax_default _单元格">
+          <img id="u2895_img" class="img " src="images/需求页面—图文发布/u1771.png"/>
+          <!-- Unnamed () -->
+          <div id="u2896" class="text">
+            <p><span>三、利益刺激：</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2897" class="ax_default _单元格">
+          <img id="u2897_img" class="img " src="images/用户唤醒产品化方案/u2881.png"/>
+          <!-- Unnamed () -->
+          <div id="u2898" class="text">
+            <p><span>发优惠券</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2899" class="ax_default _单元格">
+          <img id="u2899_img" class="img " src="images/用户唤醒产品化方案/u2883.png"/>
+          <!-- Unnamed () -->
+          <div id="u2900" class="text">
+            <p><span>发优惠券礼包</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2901" class="ax_default _单元格">
+          <img id="u2901_img" class="img " src="images/用户唤醒产品化方案/u2885.png"/>
+          <!-- Unnamed () -->
+          <div id="u2902" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2903" class="ax_default _单元格">
+          <img id="u2903_img" class="img " src="images/需求页面—图文发布/u1771.png"/>
+          <!-- Unnamed () -->
+          <div id="u2904" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2905" class="ax_default _单元格">
+          <img id="u2905_img" class="img " src="images/用户唤醒产品化方案/u2881.png"/>
+          <!-- Unnamed () -->
+          <div id="u2906" class="text">
+            <p><span>举行红包活动提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2907" class="ax_default _单元格">
+          <img id="u2907_img" class="img " src="images/用户唤醒产品化方案/u2883.png"/>
+          <!-- Unnamed () -->
+          <div id="u2908" class="text">
+            <p><span>社区有大金额的红包活动进行push提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2909" class="ax_default _单元格">
+          <img id="u2909_img" class="img " src="images/用户唤醒产品化方案/u2885.png"/>
+          <!-- Unnamed () -->
+          <div id="u2910" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2911" class="ax_default _单元格">
+          <img id="u2911_img" class="img " src="images/需求页面—图文发布/u1771.png"/>
+          <!-- Unnamed () -->
+          <div id="u2912" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2913" class="ax_default _单元格">
+          <img id="u2913_img" class="img " src="images/用户唤醒产品化方案/u2881.png"/>
+          <!-- Unnamed () -->
+          <div id="u2914" class="text">
+            <p><span>收藏的SKU降价提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2915" class="ax_default _单元格">
+          <img id="u2915_img" class="img " src="images/用户唤醒产品化方案/u2883.png"/>
+          <!-- Unnamed () -->
+          <div id="u2916" class="text">
+            <p><span>收藏的SKU如果降价了会发push提醒</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2917" class="ax_default _单元格">
+          <img id="u2917_img" class="img " src="images/用户唤醒产品化方案/u2885.png"/>
+          <!-- Unnamed () -->
+          <div id="u2918" class="text">
+            <p><span>判断，如果用户有收藏的SKU的价格降低了会发Push通知（和用户收藏的时候相比）</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2919" class="ax_default _单元格">
+          <img id="u2919_img" class="img " src="images/用户唤醒产品化方案/u2919.png"/>
+          <!-- Unnamed () -->
+          <div id="u2920" class="text">
+            <p><span>四、“色诱”</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2921" class="ax_default _单元格">
+          <img id="u2921_img" class="img " src="images/用户唤醒产品化方案/u2921.png"/>
+          <!-- Unnamed () -->
+          <div id="u2922" class="text">
+            <p><span>某某异性想要和你互动</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2923" class="ax_default _单元格">
+          <img id="u2923_img" class="img " src="images/用户唤醒产品化方案/u2923.png"/>
+          <!-- Unnamed () -->
+          <div id="u2924" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2925" class="ax_default _单元格">
+          <img id="u2925_img" class="img " src="images/用户唤醒产品化方案/u2925.png"/>
+          <!-- Unnamed () -->
+          <div id="u2926" class="text">
+            <p><span>判断，某个异性看过某个用户的个人主页，要记录</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u2927" class="ax_default _水平线">
+        <img id="u2927_img" class="img " src="images/用户唤醒产品化方案/u2927.png"/>
+        <!-- Unnamed () -->
+        <div id="u2928" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2929" class="ax_default _形状">
+        <div id="u2929_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2930" class="text">
+          <p><span>在触发时间点</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2931" class="ax_default _形状">
+        <div id="u2931_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2932" class="text">
+          <p><span>触发人群类型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2933" class="ax_default _形状">
+        <div id="u2933_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2934" class="text">
+          <p><span>触发人群属性</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2935" class="ax_default _形状">
+        <div id="u2935_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2936" class="text">
+          <p><span>推送方案</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2937" class="ax_default _形状">
+        <div id="u2937_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2938" class="text">
+          <p><span>选择推送方式</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2939" class="ax_default _连接线">
+        <img id="u2939_seg0" class="img " src="images/用户唤醒产品化方案/u2939_seg0.png" alt="u2939_seg0"/>
+        <img id="u2939_seg1" class="img " src="images/用户唤醒产品化方案/u2939_seg1.png" alt="u2939_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2940" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2941" class="ax_default _连接线">
+        <img id="u2941_seg0" class="img " src="images/用户唤醒产品化方案/u2941_seg0.png" alt="u2941_seg0"/>
+        <img id="u2941_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1053_seg1.png" alt="u2941_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2942" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2943" class="ax_default _连接线">
+        <img id="u2943_seg0" class="img " src="images/用户唤醒产品化方案/u2943_seg0.png" alt="u2943_seg0"/>
+        <img id="u2943_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2943_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2944" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2945" class="ax_default _连接线">
+        <img id="u2945_seg0" class="img " src="images/用户唤醒产品化方案/u2943_seg0.png" alt="u2945_seg0"/>
+        <img id="u2945_seg1" class="img " src="images/图文发布_餐厅（方案1）/u1088_seg1.png" alt="u2945_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u2946" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

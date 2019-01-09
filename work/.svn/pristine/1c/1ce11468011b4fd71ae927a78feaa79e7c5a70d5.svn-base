@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的消息.html",
+  "generationDate":new Date(1428391089972.04),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fc6a6dbc63bc446db130cfdd79b7d74c",
+    "type":"Axure:Page",
+    "name":"我的消息",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7955ff125e43459d94ddf54e5365e608",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":322,
+              "height":545}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"61971262853a477eb5d84d946f6b9bc8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":322,
+                  "height":545}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的消息/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7955ff125e43459d94ddf54e5365e608":{
+      "scriptId":"u0"},
+    "61971262853a477eb5d84d946f6b9bc8":{
+      "scriptId":"u1"}}});

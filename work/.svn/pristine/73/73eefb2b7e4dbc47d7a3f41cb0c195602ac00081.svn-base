@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>社区引入版主概念后框架梳理</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/社区引入版主概念后框架梳理/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/社区引入版主概念后框架梳理/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (形状) -->
+      <div id="u0" class="ax_文本段落">
+        <img id="u0_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text">
+          <p><span>1、话题的定义：包含在# #中间的文字叫话题；文字区域最多20个汉字；</span><span>“</span><span>#”号不做中英文的区分都可以进行识别</span></p><p><span>&nbsp;</span></p><p><span>2、话题分为两种：</span></p><p><span>&nbsp;</span></p><p><span>A、运营话题：运营话题指的是从后台新增话题来的；</span></p><p><span>&nbsp;</span></p><p><span>B、自定义话题：用户发布框输入的或是从后台发布框输入的；</span></p><p><span>&nbsp;</span></p><p><span>3、运营话题和自定义话题的解释和联系：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u2" class="ax_形状">
+        <img id="u2_img" class="img " src="images/社区引入版主概念后框架梳理/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span>运营话题</span><span>：</span></p><p><span>1、由</span><span></span><span>后台</span><span>在话题管理新增话题时</span><span>创建；</span></p><p><span>&nbsp;</span></p><p><span>2、</span><span>APP</span><span>展示：</span></p><p><span>2.1</span><span>、</span><span>话题列表：展示的都是</span><span>运营话题；</span></p><p><span>2.1.1话题列表的功能分为：搜索话题</span><span>、推荐话题、我关注的话题、兴趣话题、按照城市划分的话题列表；</span></p><p><span>&nbsp;</span></p><p><span>2.2</span><span>、话题有封面图、话题介绍、有多少人参与、多少人关注、多少人阅读；参与人列表；版主；</span><span>参与话题功能</span></p><p><span>&nbsp;</span></p><p><span>2.3、话题按照最新和最热进行排序；</span></p><p><span>&nbsp;</span></p><p><span>3、</span><span>后台管理</span><span>平台</span><span>：</span></p><p><span>3.1</span><span>、</span><span>编辑运营话题名、封面图</span><span>、上传首页展示图</span><span></span><span>、</span><span>话题介绍</span><span>、选择是否进兴趣列表；选择对应的城市</span><span>、设置版主</span><span></span><span>；</span></p><p><span>3.2、话题</span><span>推荐</span><span>列表可以置top1-20；话题兴趣列表</span><span>可以置top1-20值；城市列表要按照城市</span><span>优先级进行排序</span><span></span><span>；</span></p><p><span>3.3、之后运营话题会加入各种插件，做好运营话题的拓展性</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u4" class="ax_形状">
+        <img id="u4_img" class="img " src="images/社区引入版主概念后框架梳理/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text">
+          <p><span>自定义话题</span><span>：</span></p><p><span>1、由用户发布图文或者直播创建；或者后台管理人员新增图文创建；</span></p><p><span>&nbsp;</span></p><p><span>2</span><span>、</span><span>前端展示上</span><span></span><span>有</span><span></span><span>最热的排序、参与话题的功能</span></p><p><span>&nbsp;</span></p><p><span>3、后台</span><span>可以管理自定义话题，可以管理图文和视频；</span><span>可以编辑转为运营话题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u6" class="ax_connector">
+        <img id="u6_seg0" class="img " src="images/社区引入版主概念后框架梳理/u6_seg0.png" alt="u6_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u7" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u8" class="ax_文本段落">
+        <img id="u8_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u9" class="text">
+          <p><span>自定义话题</span><span></span><span>后台编辑可以转为</span><span>运营话题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u10" class="ax_connector">
+        <img id="u10_seg0" class="img " src="images/社区引入版主概念后框架梳理/u10_seg0.png" alt="u10_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u11" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u12" class="ax_文本段落">
+        <img id="u12_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u13" class="text">
+          <p><span>运营人员删除运营话题可以转为自定义话题</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u14" class="ax_image">
+        <img id="u14_img" class="img " src="images/社区引入版主概念后框架梳理/u14.png"/>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u16" class="ax_image">
+        <img id="u16_img" class="img " src="images/社区引入版主概念后框架梳理/u16.png"/>
+        <!-- Unnamed () -->
+        <div id="u17" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u18" class="ax_image">
+        <img id="u18_img" class="img " src="images/社区引入版主概念后框架梳理/u18.png"/>
+        <!-- Unnamed () -->
+        <div id="u19" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (水平线) -->
+      <div id="u20" class="ax_水平线">
+        <img id="u20_start" class="img " src="resources/images/transparent.gif" alt="u20_start"/>
+        <img id="u20_end" class="img " src="resources/images/transparent.gif" alt="u20_end"/>
+        <img id="u20_line" class="img " src="images/社区引入版主概念后框架梳理/u20_line.png" alt="u20_line"/>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u21" class="ax_垂直线">
+        <img id="u21_start" class="img " src="resources/images/transparent.gif" alt="u21_start"/>
+        <img id="u21_end" class="img " src="resources/images/transparent.gif" alt="u21_end"/>
+        <img id="u21_line" class="img " src="images/社区引入版主概念后框架梳理/u21_line.png" alt="u21_line"/>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u22" class="ax_image">
+        <img id="u22_img" class="img " src="images/社区引入版主概念后框架梳理/u22.png"/>
+        <!-- Unnamed () -->
+        <div id="u23" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

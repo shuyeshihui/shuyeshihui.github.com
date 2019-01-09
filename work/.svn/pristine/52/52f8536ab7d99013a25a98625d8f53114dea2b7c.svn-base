@@ -1,0 +1,173 @@
+﻿$axure.loadCurrentPage({
+  "url":"主页.html",
+  "generationDate":new Date(1428391088769.72),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"54c88383eb674999bcf2ee4946db3a55",
+    "type":"Axure:Page",
+    "name":"主页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a965c923885d46cc88c1fccad76cd315",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"cb7a2f1e249447b8abb4676c6a22a59a"},
+{
+          "id":"e88f214c30f140879bacc2ee0767593a",
+          "label":"",
+          "type":"inlineFrame",
+          "styleType":"inlineFrame",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":32,
+              "y":133},
+            "size":{
+              "width":320,
+              "height":552}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+    "cb7a2f1e249447b8abb4676c6a22a59a":{
+      "packageId":"cb7a2f1e249447b8abb4676c6a22a59a",
+      "type":"Axure:Master",
+      "name":"母版 1",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"0999224273fb48c9a5c5b6ec6ac1b69e",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":380,
+                "height":800},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"91dc60562db44519b5b9ab72291ad3fd",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":380,
+                    "height":800},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/主页/u1.png"}},
+{
+            "id":"cb9b83f545194fefb365db52dcbb858d",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":38,
+                "y":120},
+              "size":{
+                "width":308,
+                "height":13},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b8ad4c4220e142349dc354ac1c3ba258",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":38,
+                    "y":120},
+                  "size":{
+                    "width":308,
+                    "height":13},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/主页/u3.png"}}]}}},
+  "objectPaths":{
+    "a965c923885d46cc88c1fccad76cd315":{
+      "scriptId":"u0",
+      "0999224273fb48c9a5c5b6ec6ac1b69e":{
+        "scriptId":"u1"},
+      "91dc60562db44519b5b9ab72291ad3fd":{
+        "scriptId":"u2"},
+      "cb9b83f545194fefb365db52dcbb858d":{
+        "scriptId":"u3"},
+      "b8ad4c4220e142349dc354ac1c3ba258":{
+        "scriptId":"u4"}},
+    "e88f214c30f140879bacc2ee0767593a":{
+      "scriptId":"u5"}}});

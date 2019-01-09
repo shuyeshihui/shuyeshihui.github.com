@@ -1,0 +1,110 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的帐号-转入、转出.html",
+  "generationDate":new Date(1428391089610.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"008dd77a060c413687192e17058e2833",
+    "type":"Axure:Page",
+    "name":"我的帐号-转入、转出",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7f82b74868584b4eb1dfdbf185cdeeb9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "size":{
+              "width":320,
+              "height":552},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"03999c74ad284ed984b01cde430a27ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "size":{
+                  "width":320,
+                  "height":552},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册界面/u0.png"}},
+{
+          "id":"3cd954dccba74eb793ef6a81a0baa239",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":240},
+            "size":{
+              "width":282,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"598d831a1f904f638c97163a90f9ec36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":28,
+                  "y":240},
+                "size":{
+                  "width":282,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7f82b74868584b4eb1dfdbf185cdeeb9":{
+      "scriptId":"u0"},
+    "03999c74ad284ed984b01cde430a27ca":{
+      "scriptId":"u1"},
+    "3cd954dccba74eb793ef6a81a0baa239":{
+      "scriptId":"u2"},
+    "598d831a1f904f638c97163a90f9ec36":{
+      "scriptId":"u3"}}});

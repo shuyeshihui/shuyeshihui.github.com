@@ -1,0 +1,711 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>常规教室登陆流程</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/常规教室登陆流程/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/常规教室登陆流程/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1562" class="ax_default _流程形状">
+        <div id="u1562_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1563" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">打开互动课堂App</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1564" class="ax_default _流程形状">
+        <div id="u1564_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1565" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">输入账号、密码登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1566" class="ax_default connector1">
+        <img id="u1566_seg0" class="img " src="images/常规教室登陆流程/u1566_seg0.png" alt="u1566_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1567" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1568" class="ax_default _流程形状">
+        <img id="u1568_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1569" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1570" class="ax_default connector1">
+        <img id="u1570_seg0" class="img " src="images/常规教室登陆流程/u1566_seg0.png" alt="u1570_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1571" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1572" class="ax_default _流程形状">
+        <div id="u1572_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1573" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络连接提示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1574" class="ax_default connector1">
+        <img id="u1574_seg0" class="img " src="images/常规教室登陆流程/u1574_seg0.png" alt="u1574_seg0"/>
+        <img id="u1574_seg1" class="img " src="images/常规教室登陆流程/u1574_seg1.png" alt="u1574_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1575" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1576" class="ax_default _流程形状">
+        <div id="u1576_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1577" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登录成功，进入互动课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1578" class="ax_default _文本段落">
+        <div id="u1578_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1579" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1580" class="ax_default _文本段落">
+        <div id="u1580_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1581" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">有网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1582" class="ax_default _流程形状">
+        <div id="u1582_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1583" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">选择班级、课件</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1584" class="ax_default connector1">
+        <img id="u1584_seg0" class="img " src="images/常规教室登陆流程/u1584_seg0.png" alt="u1584_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1585" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1586" class="ax_default _流程形状">
+        <div id="u1586_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1587" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">点击授课</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1588" class="ax_default connector1">
+        <img id="u1588_seg0" class="img " src="images/常规教室登陆流程/u1588_seg0.png" alt="u1588_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1589" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1590" class="ax_default _流程形状">
+        <img id="u1590_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1591" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测连接到WiFi是否是</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">将要授课的班级</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1592" class="ax_default connector1">
+        <img id="u1592_seg0" class="img " src="images/常规教室登陆流程/u1592_seg0.png" alt="u1592_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1593" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1594" class="ax_default _流程形状">
+        <div id="u1594_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1595" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">提示连接的网络错误</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1596" class="ax_default connector1">
+        <img id="u1596_seg0" class="img " src="images/常规教室登陆流程/u1596_seg0.png" alt="u1596_seg0"/>
+        <img id="u1596_seg1" class="img " src="images/常规教室登陆流程/u1596_seg1.png" alt="u1596_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1597" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1598" class="ax_default _文本段落">
+        <div id="u1598_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1599" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1600" class="ax_default _流程形状">
+        <div id="u1600_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1601" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登录成功开始教学</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1602" class="ax_default connector1">
+        <img id="u1602_seg0" class="img " src="images/常规教室登陆流程/u1602_seg0.png" alt="u1602_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1603" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1604" class="ax_default _文本段落">
+        <div id="u1604_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1605" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1606" class="ax_default _文本段落">
+        <div id="u1606_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1607" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">教师登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1608" class="ax_default _文本段落">
+        <div id="u1608_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1609" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">学生首次登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1610" class="ax_default _流程形状">
+        <img id="u1610_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1611" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">验证账号和密码是否正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1612" class="ax_default connector1">
+        <img id="u1612_seg0" class="img " src="images/常规教室登陆流程/u1612_seg0.png" alt="u1612_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1613" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1614" class="ax_default _流程形状">
+        <div id="u1614_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1615" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">提示账号或密码错误</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1616" class="ax_default connector1">
+        <img id="u1616_seg0" class="img " src="images/常规教室登陆流程/u1616_seg0.png" alt="u1616_seg0"/>
+        <img id="u1616_seg1" class="img " src="images/常规教室登陆流程/u1616_seg1.png" alt="u1616_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1617" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1618" class="ax_default _文本段落">
+        <div id="u1618_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1619" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">账号或密码不正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1620" class="ax_default connector1">
+        <img id="u1620_seg0" class="img " src="images/常规教室登陆流程/u1620_seg0.png" alt="u1620_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1621" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1622" class="ax_default _文本段落">
+        <div id="u1622_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1623" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">账号和密码正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1624" class="ax_default _流程形状">
+        <div id="u1624_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1625" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">打开互动课堂App</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1626" class="ax_default _流程形状">
+        <div id="u1626_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1627" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">输入账号、密码登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1628" class="ax_default connector1">
+        <img id="u1628_seg0" class="img " src="images/常规教室登陆流程/u1566_seg0.png" alt="u1628_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1629" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1630" class="ax_default _流程形状">
+        <img id="u1630_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1631" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1632" class="ax_default connector1">
+        <img id="u1632_seg0" class="img " src="images/常规教室登陆流程/u1566_seg0.png" alt="u1632_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1633" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1634" class="ax_default _流程形状">
+        <div id="u1634_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1635" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络连接提示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1636" class="ax_default connector1">
+        <img id="u1636_seg0" class="img " src="images/常规教室登陆流程/u1636_seg0.png" alt="u1636_seg0"/>
+        <img id="u1636_seg1" class="img " src="images/常规教室登陆流程/u1636_seg1.png" alt="u1636_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1637" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1638" class="ax_default _流程形状">
+        <div id="u1638_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1639" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆成功，进入互动课堂</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1640" class="ax_default _文本段落">
+        <div id="u1640_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1641" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1642" class="ax_default _文本段落">
+        <div id="u1642_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1643" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">有网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1644" class="ax_default _流程形状">
+        <img id="u1644_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1645" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测连接到WiFi是否是</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">所属的班级</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1646" class="ax_default _流程形状">
+        <div id="u1646_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1647" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">提示连接的网络错误</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1648" class="ax_default connector1">
+        <img id="u1648_seg0" class="img " src="images/常规教室登陆流程/u1636_seg0.png" alt="u1648_seg0"/>
+        <img id="u1648_seg1" class="img " src="images/常规教室登陆流程/u1648_seg1.png" alt="u1648_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1649" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1650" class="ax_default _文本段落">
+        <div id="u1650_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1651" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1652" class="ax_default _流程形状">
+        <div id="u1652_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1653" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1654" class="ax_default connector1">
+        <img id="u1654_seg0" class="img " src="images/常规教室登陆流程/u1654_seg0.png" alt="u1654_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1655" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1656" class="ax_default _文本段落">
+        <div id="u1656_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1657" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1658" class="ax_default _流程形状">
+        <img id="u1658_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1659" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">验证账号和密码是否正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1660" class="ax_default connector1">
+        <img id="u1660_seg0" class="img " src="images/常规教室登陆流程/u1612_seg0.png" alt="u1660_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1661" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1662" class="ax_default _流程形状">
+        <div id="u1662_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1663" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">提示账号或密码错误</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1664" class="ax_default connector1">
+        <img id="u1664_seg0" class="img " src="images/常规教室登陆流程/u1636_seg0.png" alt="u1664_seg0"/>
+        <img id="u1664_seg1" class="img " src="images/常规教室登陆流程/u1664_seg1.png" alt="u1664_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1665" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1666" class="ax_default _文本段落">
+        <div id="u1666_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1667" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">账号或密码不正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1668" class="ax_default connector1">
+        <img id="u1668_seg0" class="img " src="images/常规教室登陆流程/u1620_seg0.png" alt="u1668_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1669" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1670" class="ax_default _文本段落">
+        <div id="u1670_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1671" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">账号和密码正确</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1672" class="ax_default connector1">
+        <img id="u1672_seg0" class="img " src="images/常规教室登陆流程/u1672_seg0.png" alt="u1672_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1673" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1674" class="ax_default _文本段落">
+        <div id="u1674_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1675" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:28px;text-decoration:none;color:#333333;">学生非首次登陆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1676" class="ax_default _流程形状">
+        <div id="u1676_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1677" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">打开互动课堂App</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1678" class="ax_default _流程形状">
+        <img id="u1678_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1679" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1680" class="ax_default _流程形状">
+        <div id="u1680_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1681" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络连接提示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1682" class="ax_default connector1">
+        <img id="u1682_seg0" class="img " src="images/常规教室登陆流程/u1574_seg0.png" alt="u1682_seg0"/>
+        <img id="u1682_seg1" class="img " src="images/常规教室登陆流程/u1574_seg1.png" alt="u1682_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1683" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1684" class="ax_default _文本段落">
+        <div id="u1684_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1685" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">无网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1686" class="ax_default _文本段落">
+        <div id="u1686_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1687" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">有网络</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (菱形) -->
+      <div id="u1688" class="ax_default _流程形状">
+        <img id="u1688_img" class="img " src="images/常规教室登陆流程/u1568.png"/>
+        <!-- Unnamed () -->
+        <div id="u1689" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">检测连接到WiFi是否是</span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">所属的班级</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1690" class="ax_default _流程形状">
+        <div id="u1690_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1691" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">提示连接的网络错误</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1692" class="ax_default connector1">
+        <img id="u1692_seg0" class="img " src="images/常规教室登陆流程/u1596_seg0.png" alt="u1692_seg0"/>
+        <img id="u1692_seg1" class="img " src="images/常规教室登陆流程/u1596_seg1.png" alt="u1692_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u1693" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1694" class="ax_default _文本段落">
+        <div id="u1694_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1695" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1696" class="ax_default _流程形状">
+        <div id="u1696_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1697" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">登陆成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1698" class="ax_default connector1">
+        <img id="u1698_seg0" class="img " src="images/常规教室登陆流程/u1654_seg0.png" alt="u1698_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1699" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1700" class="ax_default _文本段落">
+        <div id="u1700_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1701" class="text" style="visibility: visible;">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">是</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1702" class="ax_default connector1">
+        <img id="u1702_seg0" class="img " src="images/常规教室登陆流程/u1702_seg0.png" alt="u1702_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1703" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Connector) -->
+      <div id="u1704" class="ax_default connector1">
+        <img id="u1704_seg0" class="img " src="images/常规教室登陆流程/u1704_seg0.png" alt="u1704_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u1705" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
